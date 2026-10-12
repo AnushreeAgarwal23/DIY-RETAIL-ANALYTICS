@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Store_ID,City,Region,Sales_Channel,Customer_Type,Product_Category,Product_Name,Quantity,Unit_Price_INR,Gross_Sales_INR,Discount_Percent,Discount_Amount_INR,Net_Sales_INR,Estimated_Cost_INR,Estimated_Profit_INR,Payment_Method
+MDIY100575,2025-01-01,IND001,Indore,Central,In-store,Non-Member,Electrical,Night Lamp,3,199,597,15,89.55,507.45,234,273.45,Cash
+MDIY100523,2025-01-01,JAI001,Jaipur,North,In-store,Member,Home Improvement,Adhesive Tape,3,49,147,0,0.0,147.0,54,93.0,UPI
+MDIY100703,2025-01-01,DEL001,Delhi,North,Online,Member,Fashion Accessories,Travel Pouch,1,129,129,10,12.9,116.1,48,68.1,Wallet
+MDIY100180,2025-01-02,BHO001,Bhopal,Central,In-store,Non-Member,Stationery,Pen Pack,2,39,78,0,0.0,78.0,28,50.0,UPI
+MDIY100921,2025-01-02,HYD001,Hyderabad,South,In-store,Non-Member,Kitchenware,Food Container Set,1,299,299,20,59.8,239.2,120,119.2,Credit/Debit Card
+MDIY100926,2025-01-03,BHO001,Bhopal,Central,In-store,Non-Member,Toys,Building Blocks,4,299,1196,10,119.6,1076.4,500,576.4,Wallet
+MDIY101233,2025-01-04,LKO001,Lucknow,North,In-store,Member,Household,Kitchen Organizer,4,349,1396,10,139.6,1256.4,580,676.4,Cash
+MDIY101392,2025-01-04,PUN001,Pune,West,In-store,Member,Stationery,File Folder,1,35,35,0,0.0,35.0,12,23.0,Wallet
+MDIY100427,2025-01-05,DEL001,Delhi,North,Online,Member,Electrical,Phone Cable,3,149,447,20,89.4,357.6,165,192.6,UPI
+MDIY100428,2025-01-05,IND001,Indore,Central,In-store,Member,Fashion Accessories,Wallet,1,199,199,15,29.85,169.15,75,94.15,Wallet
+MDIY100457,2025-01-05,KOL001,Kolkata,East,In-store,Member,Fashion Accessories,Hair Clips Set,2,49,98,5,4.9,93.1,34,59.1,Cash
+MDIY101364,2025-01-06,PUN001,Pune,West,In-store,Non-Member,Fashion Accessories,Wallet,3,199,597,10,59.7,537.3,225,312.3,Cash
+MDIY101259,2025-01-07,HYD001,Hyderabad,South,In-store,Member,Electrical,Phone Cable,1,149,149,0,0.0,149.0,55,94.0,UPI
+MDIY101333,2025-01-07,HYD001,Hyderabad,South,Online,Non-Member,Kitchenware,Water Bottle,1,149,149,0,0.0,149.0,55,94.0,Wallet
+MDIY100239,2025-01-07,PUN001,Pune,West,In-store,Member,Toys,Toy Car,2,99,198,0,0.0,198.0,76,122.0,Credit/Debit Card
+MDIY101088,2025-01-07,BHO001,Bhopal,Central,In-store,Member,Toys,Puzzle Set,1,199,199,0,0.0,199.0,75,124.0,Wallet
+MDIY101327,2025-01-08,BHO001,Bhopal,Central,In-store,Member,Electrical,Mobile Holder,3,99,297,5,14.85,282.15,105,177.15,Credit/Debit Card
+MDIY100414,2025-01-08,KOL001,Kolkata,East,In-store,Member,Fashion Accessories,Sunglasses,2,149,298,5,14.9,283.1,110,173.1,Wallet
+MDIY101495,2025-01-09,MUM001,Mumbai,West,In-store,Non-Member,Stationery,Scissors,1,69,69,15,10.35,58.65,25,33.65,Wallet
+MDIY101055,2025-01-10,BLR001,Bengaluru,South,In-store,Non-Member,Fashion Accessories,Keychain,1,39,39,10,3.9,35.1,12,23.1,Wallet
+MDIY101208,2025-01-10,BLR001,Bengaluru,South,In-store,Non-Member,Fashion Accessories,Hair Clips Set,3,49,147,0,0.0,147.0,51,96.0,Cash
+MDIY100235,2025-01-10,PUN001,Pune,West,In-store,Non-Member,Electrical,Battery Pack,1,79,79,20,15.8,63.2,28,35.2,Cash
+MDIY100330,2025-01-10,DEL001,Delhi,North,In-store,Member,Fashion Accessories,Sunglasses,3,149,447,20,89.4,357.6,165,192.6,Wallet
+MDIY101394,2025-01-11,MUM001,Mumbai,West,Online,Non-Member,Fashion Accessories,Sunglasses,2,149,298,15,44.7,253.3,110,143.3,Cash
+MDIY101074,2025-01-11,LKO001,Lucknow,North,Online,Member,Toys,Toy Car,1,99,99,0,0.0,99.0,38,61.0,Credit/Debit Card
+MDIY100344,2025-01-13,AHM001,Ahmedabad,West,In-store,Non-Member,Household,Storage Box,1,199,199,20,39.8,159.2,80,79.2,Cash
+MDIY101417,2025-01-13,JAI001,Jaipur,North,In-store,Non-Member,Stationery,Pen Pack,2,39,78,0,0.0,78.0,28,50.0,Wallet
+MDIY100466,2025-01-14,AHM001,Ahmedabad,West,In-store,Member,Stationery,Pen Pack,2,39,78,10,7.8,70.2,28,42.2,Credit/Debit Card
+MDIY100237,2025-01-15,AHM001,Ahmedabad,West,In-store,Non-Member,Stationery,Marker Set,2,99,198,10,19.8,178.2,80,98.2,Wallet
+MDIY101083,2025-01-15,BHO001,Bhopal,Central,In-store,Member,Household,Storage Box,3,199,597,10,59.7,537.3,240,297.3,UPI
+MDIY100731,2025-01-15,AHM001,Ahmedabad,West,In-store,Member,Toys,Toy Car,1,99,99,5,4.95,94.05,38,56.05,UPI
+MDIY101356,2025-01-16,AHM001,Ahmedabad,West,In-store,Non-Member,Kitchenware,Food Container Set,2,299,598,0,0.0,598.0,240,358.0,Cash
+MDIY100132,2025-01-16,BLR001,Bengaluru,South,In-store,Member,Kitchenware,Lunch Box,2,249,498,0,0.0,498.0,200,298.0,Wallet
+MDIY101119,2025-01-17,KOL001,Kolkata,East,In-store,Non-Member,Fashion Accessories,Keychain,1,39,39,10,3.9,35.1,12,23.1,Cash
+MDIY100717,2025-01-17,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,LED Bulb,1,99,99,15,14.85,84.15,45,39.15,Wallet
+MDIY100271,2025-01-17,DEL001,Delhi,North,In-store,Non-Member,Electrical,Battery Pack,2,79,158,0,0.0,158.0,56,102.0,UPI
+MDIY100339,2025-01-18,BHO001,Bhopal,Central,In-store,Non-Member,Home Improvement,LED Bulb,1,99,99,0,0.0,99.0,45,54.0,Credit/Debit Card
+MDIY100606,2025-01-20,PUN001,Pune,West,Online,Member,Kitchenware,Peeler,1,49,49,0,0.0,49.0,17,32.0,Credit/Debit Card
+MDIY100431,2025-01-20,MUM001,Mumbai,West,In-store,Member,Household,Laundry Basket,1,249,249,0,0.0,249.0,105,144.0,Credit/Debit Card
+MDIY101062,2025-01-21,CHE001,Chennai,South,In-store,Member,Electrical,Battery Pack,3,79,237,5,11.85,225.15,84,141.15,Cash
+MDIY100544,2025-01-21,CHE001,Chennai,South,In-store,Member,Home Improvement,Adhesive Tape,4,49,196,20,39.2,156.8,72,84.8,Credit/Debit Card
+MDIY100803,2025-01-21,AHM001,Ahmedabad,West,In-store,Non-Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,UPI
+MDIY100433,2025-01-21,DEL001,Delhi,North,In-store,Non-Member,Fashion Accessories,Hair Clips Set,2,49,98,0,0.0,98.0,34,64.0,Cash
+MDIY101353,2025-01-21,KOL001,Kolkata,East,In-store,Non-Member,Home Improvement,Extension Cord,2,299,598,5,29.9,568.1,250,318.1,UPI
+MDIY101287,2025-01-22,DEL001,Delhi,North,In-store,Member,Home Improvement,Screwdriver Set,2,249,498,15,74.7,423.3,220,203.3,Wallet
+MDIY100116,2025-01-23,IND001,Indore,Central,In-store,Member,Toys,Puzzle Set,1,199,199,15,29.85,169.15,75,94.15,Wallet
+MDIY100757,2025-01-24,LKO001,Lucknow,North,Online,Non-Member,Electrical,Night Lamp,3,199,597,20,119.4,477.6,234,243.6,Cash
+MDIY100934,2025-01-24,AHM001,Ahmedabad,West,Online,Member,Fashion Accessories,Keychain,2,39,78,10,7.8,70.2,24,46.2,Wallet
+MDIY100831,2025-01-24,KOL001,Kolkata,East,Online,Member,Fashion Accessories,Keychain,2,39,78,15,11.7,66.3,24,42.3,Credit/Debit Card
+MDIY101130,2025-01-25,MUM001,Mumbai,West,In-store,Non-Member,Toys,Doll,1,249,249,10,24.9,224.1,100,124.1,UPI
+MDIY100550,2025-01-27,CHE001,Chennai,South,In-store,Non-Member,Electrical,Power Strip,1,399,399,5,19.95,379.05,165,214.05,Credit/Debit Card
+MDIY101300,2025-01-27,BHO001,Bhopal,Central,In-store,Member,Kitchenware,Mug,5,99,495,15,74.25,420.75,175,245.75,UPI
+MDIY101072,2025-01-27,BHO001,Bhopal,Central,In-store,Non-Member,Household,Storage Box,1,199,199,5,9.95,189.05,80,109.05,UPI
+MDIY101497,2025-01-27,KOL001,Kolkata,East,Online,Non-Member,Electrical,Power Strip,3,399,1197,5,59.85,1137.15,495,642.15,Credit/Debit Card
+MDIY101499,2025-01-28,JAI001,Jaipur,North,In-store,Member,Toys,Building Blocks,4,299,1196,0,0.0,1196.0,500,696.0,Wallet
+MDIY100827,2025-01-29,DEL001,Delhi,North,In-store,Non-Member,Fashion Accessories,Wallet,2,199,398,10,39.8,358.2,150,208.2,Cash
+MDIY100144,2025-01-30,JAI001,Jaipur,North,In-store,Member,Stationery,Marker Set,5,99,495,0,0.0,495.0,200,295.0,Wallet
+MDIY100918,2025-01-30,CHE001,Chennai,South,In-store,Member,Fashion Accessories,Wallet,5,199,995,0,0.0,995.0,375,620.0,Cash
+MDIY100815,2025-01-30,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Mug,2,99,198,0,0.0,198.0,70,128.0,UPI
+MDIY100850,2025-01-30,LKO001,Lucknow,North,In-store,Member,Toys,Doll,2,249,498,20,99.6,398.4,200,198.4,Credit/Debit Card
+MDIY100955,2025-01-31,MUM001,Mumbai,West,In-store,Non-Member,Household,Cleaning Brush,1,59,59,15,8.85,50.15,22,28.15,Cash
+MDIY100481,2025-02-01,HYD001,Hyderabad,South,In-store,Non-Member,Household,Kitchen Organizer,1,349,349,10,34.9,314.1,145,169.1,Cash
+MDIY100135,2025-02-01,DEL001,Delhi,North,In-store,Non-Member,Toys,Doll,2,249,498,0,0.0,498.0,200,298.0,UPI
+MDIY100003,2025-02-02,DEL001,Delhi,North,In-store,Non-Member,Home Improvement,Screwdriver Set,1,249,249,5,12.45,236.55,110,126.55,Cash
+MDIY100578,2025-02-02,MUM001,Mumbai,West,In-store,Non-Member,Home Improvement,Measuring Tape,1,89,89,0,0.0,89.0,35,54.0,Wallet
+MDIY100649,2025-02-02,PUN001,Pune,West,In-store,Non-Member,Toys,Building Blocks,2,299,598,0,0.0,598.0,250,348.0,Cash
+MDIY100127,2025-02-03,AHM001,Ahmedabad,West,In-store,Member,Stationery,Pen Pack,2,39,78,20,15.6,62.4,28,34.4,Credit/Debit Card
+MDIY101283,2025-02-03,BLR001,Bengaluru,South,In-store,Member,Toys,Puzzle Set,1,199,199,15,29.85,169.15,75,94.15,Credit/Debit Card
+MDIY101152,2025-02-03,MUM001,Mumbai,West,In-store,Non-Member,Stationery,Notebook,6,49,294,5,14.7,279.3,108,171.3,UPI
+MDIY100696,2025-02-04,DEL001,Delhi,North,Online,Member,Electrical,Power Strip,1,399,399,5,19.95,379.05,165,214.05,UPI
+MDIY100941,2025-02-04,CHE001,Chennai,South,In-store,Member,Stationery,Notebook,3,49,147,0,0.0,147.0,54,93.0,Credit/Debit Card
+MDIY100522,2025-02-04,BHO001,Bhopal,Central,In-store,Non-Member,Electrical,Battery Pack,3,79,237,5,11.85,225.15,84,141.15,Cash
+MDIY100367,2025-02-05,BHO001,Bhopal,Central,In-store,Non-Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,UPI
+MDIY100702,2025-02-05,LKO001,Lucknow,North,In-store,Non-Member,Home Improvement,Extension Cord,3,299,897,10,89.7,807.3,375,432.3,Cash
+MDIY100552,2025-02-05,IND001,Indore,Central,In-store,Non-Member,Stationery,Marker Set,4,99,396,5,19.8,376.2,160,216.2,Wallet
+MDIY100349,2025-02-06,KOL001,Kolkata,East,Online,Non-Member,Kitchenware,Peeler,1,49,49,0,0.0,49.0,17,32.0,Credit/Debit Card
+MDIY100186,2025-02-07,IND001,Indore,Central,In-store,Non-Member,Household,Cleaning Brush,1,59,59,10,5.9,53.1,22,31.1,Credit/Debit Card
+MDIY100493,2025-02-07,KOL001,Kolkata,East,In-store,Member,Stationery,File Folder,4,35,140,5,7.0,133.0,48,85.0,Credit/Debit Card
+MDIY100653,2025-02-07,HYD001,Hyderabad,South,In-store,Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,Credit/Debit Card
+MDIY100125,2025-02-08,PUN001,Pune,West,In-store,Non-Member,Toys,Building Blocks,1,299,299,15,44.85,254.15,125,129.15,Credit/Debit Card
+MDIY100680,2025-02-08,BHO001,Bhopal,Central,In-store,Member,Toys,Puzzle Set,1,199,199,5,9.95,189.05,75,114.05,Credit/Debit Card
+MDIY100432,2025-02-08,CHE001,Chennai,South,In-store,Member,Fashion Accessories,Sunglasses,3,149,447,10,44.7,402.3,165,237.3,UPI
+MDIY101273,2025-02-08,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Measuring Tape,3,89,267,5,13.35,253.65,105,148.65,Credit/Debit Card
+MDIY100969,2025-02-09,KOL001,Kolkata,East,In-store,Non-Member,Household,Cleaning Brush,1,59,59,0,0.0,59.0,22,37.0,Cash
+MDIY101018,2025-02-09,LKO001,Lucknow,North,Online,Non-Member,Toys,Soft Toy,1,199,199,10,19.9,179.1,82,97.1,Wallet
+MDIY101064,2025-02-10,JAI001,Jaipur,North,In-store,Member,Electrical,Phone Cable,2,149,298,0,0.0,298.0,110,188.0,UPI
+MDIY100497,2025-02-11,MUM001,Mumbai,West,In-store,Member,Kitchenware,Peeler,1,49,49,0,0.0,49.0,17,32.0,Credit/Debit Card
+MDIY101405,2025-02-11,MUM001,Mumbai,West,In-store,Non-Member,Kitchenware,Food Container Set,1,299,299,5,14.95,284.05,120,164.05,UPI
+MDIY100755,2025-02-11,JAI001,Jaipur,North,In-store,Member,Fashion Accessories,Keychain,1,39,39,0,0.0,39.0,12,27.0,Wallet
+MDIY101286,2025-02-12,LKO001,Lucknow,North,In-store,Non-Member,Home Improvement,Measuring Tape,2,89,178,10,17.8,160.2,70,90.2,Cash
+MDIY100483,2025-02-12,DEL001,Delhi,North,In-store,Member,Electrical,Battery Pack,2,79,158,5,7.9,150.1,56,94.1,Credit/Debit Card
+MDIY101244,2025-02-12,BHO001,Bhopal,Central,In-store,Non-Member,Electrical,Mobile Holder,4,99,396,0,0.0,396.0,140,256.0,Credit/Debit Card
+MDIY100229,2025-02-13,PUN001,Pune,West,In-store,Non-Member,Fashion Accessories,Hair Clips Set,1,49,49,5,2.45,46.55,17,29.55,Cash
+MDIY100569,2025-02-13,BHO001,Bhopal,Central,In-store,Member,Kitchenware,Peeler,3,49,147,0,0.0,147.0,51,96.0,Cash
+MDIY100365,2025-02-13,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,Screwdriver Set,5,249,1245,5,62.25,1182.75,550,632.75,UPI
+MDIY100169,2025-02-14,CHE001,Chennai,South,In-store,Non-Member,Stationery,Pen Pack,5,39,195,5,9.75,185.25,70,115.25,Cash
+MDIY100185,2025-02-14,MUM001,Mumbai,West,Online,Non-Member,Home Improvement,Adhesive Tape,5,49,245,5,12.25,232.75,90,142.75,Credit/Debit Card
+MDIY100851,2025-02-14,IND001,Indore,Central,In-store,Member,Electrical,Night Lamp,1,199,199,10,19.9,179.1,78,101.1,Cash
+MDIY101129,2025-02-15,LKO001,Lucknow,North,In-store,Member,Electrical,Mobile Holder,1,99,99,15,14.85,84.15,35,49.15,Cash
+MDIY100254,2025-02-15,CHE001,Chennai,South,In-store,Member,Toys,Toy Car,2,99,198,10,19.8,178.2,76,102.2,Credit/Debit Card
+MDIY100860,2025-02-16,KOL001,Kolkata,East,In-store,Non-Member,Home Improvement,Extension Cord,2,299,598,0,0.0,598.0,250,348.0,Credit/Debit Card
+MDIY100149,2025-02-16,MUM001,Mumbai,West,Online,Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,Credit/Debit Card
+MDIY100862,2025-02-16,LKO001,Lucknow,North,In-store,Non-Member,Toys,Puzzle Set,1,199,199,10,19.9,179.1,75,104.1,Credit/Debit Card
+MDIY101325,2025-02-16,LKO001,Lucknow,North,In-store,Non-Member,Fashion Accessories,Sunglasses,5,149,745,15,111.75,633.25,275,358.25,Credit/Debit Card
+MDIY100206,2025-02-16,IND001,Indore,Central,In-store,Member,Kitchenware,Food Container Set,1,299,299,0,0.0,299.0,120,179.0,Wallet
+MDIY100215,2025-02-16,CHE001,Chennai,South,In-store,Non-Member,Home Improvement,Extension Cord,2,299,598,0,0.0,598.0,250,348.0,Wallet
+MDIY100880,2025-02-17,KOL001,Kolkata,East,In-store,Member,Stationery,Pen Pack,4,39,156,15,23.4,132.6,56,76.6,UPI
+MDIY100326,2025-02-17,LKO001,Lucknow,North,In-store,Non-Member,Fashion Accessories,Travel Pouch,1,129,129,15,19.35,109.65,48,61.65,UPI
+MDIY101483,2025-02-17,IND001,Indore,Central,In-store,Member,Toys,Doll,1,249,249,20,49.8,199.2,100,99.2,UPI
+MDIY101211,2025-02-17,PUN001,Pune,West,In-store,Non-Member,Toys,Building Blocks,1,299,299,0,0.0,299.0,125,174.0,Cash
+MDIY100383,2025-02-19,CHE001,Chennai,South,In-store,Non-Member,Toys,Doll,5,249,1245,15,186.75,1058.25,500,558.25,Credit/Debit Card
+MDIY101076,2025-02-19,JAI001,Jaipur,North,In-store,Non-Member,Stationery,Scissors,1,69,69,10,6.9,62.1,25,37.1,Wallet
+MDIY101421,2025-02-19,HYD001,Hyderabad,South,In-store,Non-Member,Stationery,Notebook,1,49,49,5,2.45,46.55,18,28.55,Credit/Debit Card
+MDIY100852,2025-02-19,IND001,Indore,Central,In-store,Non-Member,Stationery,Marker Set,3,99,297,10,29.7,267.3,120,147.3,UPI
+MDIY101153,2025-02-19,BLR001,Bengaluru,South,In-store,Non-Member,Home Improvement,Adhesive Tape,1,49,49,0,0.0,49.0,18,31.0,Cash
+MDIY101351,2025-02-20,KOL001,Kolkata,East,In-store,Non-Member,Household,Cleaning Brush,2,59,118,20,23.6,94.4,44,50.4,Cash
+MDIY101500,2025-02-20,HYD001,Hyderabad,South,In-store,Member,Toys,Doll,1,249,249,10,24.9,224.1,100,124.1,UPI
+MDIY100231,2025-02-21,IND001,Indore,Central,In-store,Non-Member,Electrical,Phone Cable,2,149,298,0,0.0,298.0,110,188.0,UPI
+MDIY101085,2025-02-22,CHE001,Chennai,South,In-store,Member,Toys,Doll,1,249,249,20,49.8,199.2,100,99.2,UPI
+MDIY101194,2025-02-22,PUN001,Pune,West,In-store,Member,Home Improvement,Screwdriver Set,2,249,498,10,49.8,448.2,220,228.2,UPI
+MDIY101288,2025-02-23,CHE001,Chennai,South,In-store,Member,Kitchenware,Peeler,3,49,147,5,7.35,139.65,51,88.65,UPI
+MDIY100690,2025-02-23,JAI001,Jaipur,North,Online,Member,Toys,Doll,2,249,498,5,24.9,473.1,200,273.1,Wallet
+MDIY100935,2025-02-23,BLR001,Bengaluru,South,In-store,Non-Member,Toys,Doll,1,249,249,10,24.9,224.1,100,124.1,UPI
+MDIY101050,2025-02-23,JAI001,Jaipur,North,In-store,Member,Kitchenware,Peeler,3,49,147,0,0.0,147.0,51,96.0,UPI
+MDIY100172,2025-02-23,IND001,Indore,Central,In-store,Member,Toys,Puzzle Set,2,199,398,0,0.0,398.0,150,248.0,Credit/Debit Card
+MDIY100535,2025-02-25,KOL001,Kolkata,East,In-store,Non-Member,Kitchenware,Peeler,2,49,98,5,4.9,93.1,34,59.1,Cash
+MDIY100083,2025-02-25,KOL001,Kolkata,East,In-store,Member,Stationery,Pen Pack,2,39,78,10,7.8,70.2,28,42.2,Credit/Debit Card
+MDIY100347,2025-02-26,HYD001,Hyderabad,South,In-store,Member,Kitchenware,Food Container Set,1,299,299,0,0.0,299.0,120,179.0,Cash
+MDIY101256,2025-02-26,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Water Bottle,1,149,149,0,0.0,149.0,55,94.0,Credit/Debit Card
+MDIY100816,2025-02-26,LKO001,Lucknow,North,Online,Non-Member,Stationery,File Folder,1,35,35,0,0.0,35.0,12,23.0,UPI
+MDIY100010,2025-02-27,MUM001,Mumbai,West,In-store,Non-Member,Kitchenware,Water Bottle,3,149,447,5,22.35,424.65,165,259.65,Cash
+MDIY101465,2025-02-27,HYD001,Hyderabad,South,In-store,Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,Cash
+MDIY101484,2025-02-27,IND001,Indore,Central,In-store,Non-Member,Stationery,Marker Set,2,99,198,5,9.9,188.1,80,108.1,Cash
+MDIY100111,2025-02-27,PUN001,Pune,West,In-store,Member,Stationery,Marker Set,2,99,198,0,0.0,198.0,80,118.0,Cash
+MDIY101118,2025-02-28,IND001,Indore,Central,Online,Member,Kitchenware,Water Bottle,4,149,596,0,0.0,596.0,220,376.0,Credit/Debit Card
+MDIY100191,2025-02-28,LKO001,Lucknow,North,In-store,Member,Fashion Accessories,Travel Pouch,1,129,129,10,12.9,116.1,48,68.1,Cash
+MDIY101307,2025-03-01,BHO001,Bhopal,Central,Online,Non-Member,Home Improvement,Adhesive Tape,4,49,196,5,9.8,186.2,72,114.2,Cash
+MDIY100581,2025-03-01,BHO001,Bhopal,Central,In-store,Member,Stationery,File Folder,1,35,35,0,0.0,35.0,12,23.0,UPI
+MDIY101363,2025-03-02,HYD001,Hyderabad,South,In-store,Non-Member,Stationery,Scissors,1,69,69,0,0.0,69.0,25,44.0,Wallet
+MDIY100319,2025-03-02,BHO001,Bhopal,Central,In-store,Non-Member,Stationery,File Folder,1,35,35,5,1.75,33.25,12,21.25,Credit/Debit Card
+MDIY100443,2025-03-02,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,Measuring Tape,5,89,445,5,22.25,422.75,175,247.75,Cash
+MDIY100376,2025-03-02,DEL001,Delhi,North,In-store,Non-Member,Household,Kitchen Organizer,3,349,1047,0,0.0,1047.0,435,612.0,UPI
+MDIY100947,2025-03-03,JAI001,Jaipur,North,In-store,Non-Member,Stationery,File Folder,2,35,70,20,14.0,56.0,24,32.0,Cash
+MDIY101298,2025-03-03,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Food Container Set,2,299,598,0,0.0,598.0,240,358.0,UPI
+MDIY101310,2025-03-04,AHM001,Ahmedabad,West,In-store,Member,Stationery,Marker Set,1,99,99,15,14.85,84.15,40,44.15,Cash
+MDIY100872,2025-03-04,KOL001,Kolkata,East,In-store,Non-Member,Home Improvement,Measuring Tape,2,89,178,5,8.9,169.1,70,99.1,Wallet
+MDIY101030,2025-03-04,PUN001,Pune,West,In-store,Member,Kitchenware,Water Bottle,3,149,447,10,44.7,402.3,165,237.3,UPI
+MDIY101257,2025-03-04,LKO001,Lucknow,North,In-store,Member,Fashion Accessories,Keychain,3,39,117,10,11.7,105.3,36,69.3,Cash
+MDIY100684,2025-03-04,IND001,Indore,Central,Online,Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,Credit/Debit Card
+MDIY101284,2025-03-05,MUM001,Mumbai,West,In-store,Member,Toys,Building Blocks,3,299,897,5,44.85,852.15,375,477.15,Credit/Debit Card
+MDIY100124,2025-03-06,IND001,Indore,Central,In-store,Member,Kitchenware,Peeler,4,49,196,0,0.0,196.0,68,128.0,UPI
+MDIY100415,2025-03-07,BLR001,Bengaluru,South,In-store,Non-Member,Stationery,Marker Set,4,99,396,0,0.0,396.0,160,236.0,Cash
+MDIY100085,2025-03-08,CHE001,Chennai,South,In-store,Non-Member,Toys,Building Blocks,2,299,598,10,59.8,538.2,250,288.2,UPI
+MDIY100958,2025-03-08,LKO001,Lucknow,North,In-store,Non-Member,Household,Laundry Basket,3,249,747,0,0.0,747.0,315,432.0,Credit/Debit Card
+MDIY100200,2025-03-09,PUN001,Pune,West,In-store,Member,Toys,Doll,2,249,498,10,49.8,448.2,200,248.2,Cash
+MDIY101341,2025-03-10,HYD001,Hyderabad,South,In-store,Non-Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,Wallet
+MDIY101161,2025-03-11,PUN001,Pune,West,In-store,Non-Member,Electrical,Mobile Holder,1,99,99,0,0.0,99.0,35,64.0,Credit/Debit Card
+MDIY100022,2025-03-11,DEL001,Delhi,North,In-store,Member,Kitchenware,Mug,1,99,99,0,0.0,99.0,35,64.0,Cash
+MDIY100950,2025-03-12,BLR001,Bengaluru,South,In-store,Non-Member,Household,Microfiber Cloth,3,79,237,20,47.4,189.6,90,99.6,Credit/Debit Card
+MDIY100130,2025-03-12,KOL001,Kolkata,East,In-store,Member,Household,Kitchen Organizer,1,349,349,15,52.35,296.65,145,151.65,UPI
+MDIY100072,2025-03-12,KOL001,Kolkata,East,In-store,Non-Member,Fashion Accessories,Sunglasses,1,149,149,5,7.45,141.55,55,86.55,Credit/Debit Card
+MDIY100524,2025-03-12,LKO001,Lucknow,North,In-store,Non-Member,Electrical,Mobile Holder,3,99,297,5,14.85,282.15,105,177.15,Credit/Debit Card
+MDIY100351,2025-03-12,HYD001,Hyderabad,South,In-store,Non-Member,Kitchenware,Mug,3,99,297,0,0.0,297.0,105,192.0,UPI
+MDIY100007,2025-03-13,DEL001,Delhi,North,In-store,Member,Fashion Accessories,Wallet,3,199,597,20,119.4,477.6,225,252.6,Wallet
+MDIY100145,2025-03-13,JAI001,Jaipur,North,In-store,Non-Member,Fashion Accessories,Hair Clips Set,1,49,49,5,2.45,46.55,17,29.55,Credit/Debit Card
+MDIY101450,2025-03-14,CHE001,Chennai,South,In-store,Member,Stationery,File Folder,1,35,35,10,3.5,31.5,12,19.5,Wallet
+MDIY101285,2025-03-14,CHE001,Chennai,South,In-store,Member,Electrical,Battery Pack,5,79,395,15,59.25,335.75,140,195.75,Credit/Debit Card
+MDIY100331,2025-03-14,MUM001,Mumbai,West,In-store,Non-Member,Toys,Building Blocks,3,299,897,0,0.0,897.0,375,522.0,Cash
+MDIY100598,2025-03-15,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Peeler,1,49,49,15,7.35,41.65,17,24.65,Wallet
+MDIY100151,2025-03-15,CHE001,Chennai,South,In-store,Non-Member,Kitchenware,Water Bottle,2,149,298,5,14.9,283.1,110,173.1,Wallet
+MDIY100208,2025-03-16,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Screwdriver Set,2,249,498,5,24.9,473.1,220,253.1,Credit/Debit Card
+MDIY101166,2025-03-16,MUM001,Mumbai,West,In-store,Non-Member,Toys,Doll,3,249,747,0,0.0,747.0,300,447.0,UPI
+MDIY100940,2025-03-16,BHO001,Bhopal,Central,In-store,Member,Electrical,Night Lamp,3,199,597,10,59.7,537.3,234,303.3,UPI
+MDIY101485,2025-03-17,BLR001,Bengaluru,South,In-store,Member,Kitchenware,Peeler,4,49,196,15,29.4,166.6,68,98.6,UPI
+MDIY100114,2025-03-17,HYD001,Hyderabad,South,In-store,Non-Member,Stationery,File Folder,1,35,35,20,7.0,28.0,12,16.0,Credit/Debit Card
+MDIY100726,2025-03-17,HYD001,Hyderabad,South,In-store,Non-Member,Electrical,Night Lamp,1,199,199,5,9.95,189.05,78,111.05,Cash
+MDIY100468,2025-03-18,JAI001,Jaipur,North,In-store,Non-Member,Household,Kitchen Organizer,1,349,349,0,0.0,349.0,145,204.0,Cash
+MDIY100269,2025-03-18,IND001,Indore,Central,In-store,Member,Home Improvement,LED Bulb,2,99,198,15,29.7,168.3,90,78.3,UPI
+MDIY100364,2025-03-18,DEL001,Delhi,North,In-store,Non-Member,Home Improvement,Screwdriver Set,4,249,996,5,49.8,946.2,440,506.2,UPI
+MDIY100281,2025-03-19,BLR001,Bengaluru,South,In-store,Member,Electrical,Battery Pack,5,79,395,0,0.0,395.0,140,255.0,Credit/Debit Card
+MDIY100121,2025-03-19,JAI001,Jaipur,North,Online,Non-Member,Kitchenware,Lunch Box,4,249,996,10,99.6,896.4,400,496.4,UPI
+MDIY101426,2025-03-20,BLR001,Bengaluru,South,In-store,Member,Stationery,Notebook,1,49,49,20,9.8,39.2,18,21.2,Wallet
+MDIY101081,2025-03-20,AHM001,Ahmedabad,West,In-store,Non-Member,Household,Storage Box,1,199,199,0,0.0,199.0,80,119.0,UPI
+MDIY100350,2025-03-21,BHO001,Bhopal,Central,In-store,Member,Stationery,Notebook,2,49,98,15,14.7,83.3,36,47.3,Wallet
+MDIY100777,2025-03-21,DEL001,Delhi,North,In-store,Member,Kitchenware,Peeler,3,49,147,0,0.0,147.0,51,96.0,Wallet
+MDIY101222,2025-03-21,LKO001,Lucknow,North,In-store,Non-Member,Toys,Building Blocks,1,299,299,10,29.9,269.1,125,144.1,Cash
+MDIY101336,2025-03-22,AHM001,Ahmedabad,West,In-store,Non-Member,Kitchenware,Lunch Box,3,249,747,0,0.0,747.0,300,447.0,Wallet
+MDIY100592,2025-03-22,DEL001,Delhi,North,In-store,Member,Kitchenware,Mug,1,99,99,10,9.9,89.1,35,54.1,Cash
+MDIY101420,2025-03-23,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,Adhesive Tape,5,49,245,10,24.5,220.5,90,130.5,Wallet
+MDIY100547,2025-03-23,JAI001,Jaipur,North,In-store,Non-Member,Stationery,Pen Pack,1,39,39,10,3.9,35.1,14,21.1,Credit/Debit Card
+MDIY100136,2025-03-24,BLR001,Bengaluru,South,In-store,Non-Member,Electrical,Phone Cable,1,149,149,0,0.0,149.0,55,94.0,Wallet
+MDIY100825,2025-03-24,HYD001,Hyderabad,South,In-store,Member,Toys,Doll,5,249,1245,0,0.0,1245.0,500,745.0,Cash
+MDIY100093,2025-03-24,BHO001,Bhopal,Central,In-store,Member,Home Improvement,Measuring Tape,3,89,267,5,13.35,253.65,105,148.65,UPI
+MDIY100899,2025-03-25,LKO001,Lucknow,North,In-store,Non-Member,Home Improvement,Measuring Tape,4,89,356,5,17.8,338.2,140,198.2,Wallet
+MDIY100961,2025-03-25,HYD001,Hyderabad,South,In-store,Non-Member,Kitchenware,Food Container Set,1,299,299,5,14.95,284.05,120,164.05,Wallet
+MDIY100164,2025-03-25,BHO001,Bhopal,Central,In-store,Non-Member,Fashion Accessories,Wallet,5,199,995,0,0.0,995.0,375,620.0,Cash
+MDIY100173,2025-03-27,JAI001,Jaipur,North,In-store,Member,Stationery,Scissors,4,69,276,0,0.0,276.0,100,176.0,Wallet
+MDIY100341,2025-03-27,PUN001,Pune,West,In-store,Non-Member,Home Improvement,Extension Cord,5,299,1495,20,299.0,1196.0,625,571.0,Wallet
+MDIY100830,2025-03-28,CHE001,Chennai,South,In-store,Member,Stationery,Pen Pack,2,39,78,0,0.0,78.0,28,50.0,UPI
+MDIY100601,2025-03-29,LKO001,Lucknow,North,In-store,Non-Member,Fashion Accessories,Hair Clips Set,1,49,49,10,4.9,44.1,17,27.1,UPI
+MDIY101167,2025-03-29,JAI001,Jaipur,North,In-store,Member,Fashion Accessories,Hair Clips Set,5,49,245,15,36.75,208.25,85,123.25,Wallet
+MDIY100140,2025-03-29,LKO001,Lucknow,North,In-store,Member,Toys,Building Blocks,3,299,897,0,0.0,897.0,375,522.0,Credit/Debit Card
+MDIY100628,2025-03-29,KOL001,Kolkata,East,In-store,Member,Fashion Accessories,Travel Pouch,3,129,387,20,77.4,309.6,144,165.6,Wallet
+MDIY100730,2025-03-30,CHE001,Chennai,South,In-store,Non-Member,Kitchenware,Food Container Set,2,299,598,20,119.6,478.4,240,238.4,Credit/Debit Card
+MDIY100368,2025-03-31,PUN001,Pune,West,In-store,Member,Toys,Toy Car,2,99,198,10,19.8,178.2,76,102.2,UPI
+MDIY100866,2025-03-31,JAI001,Jaipur,North,In-store,Member,Household,Storage Box,1,199,199,10,19.9,179.1,80,99.1,UPI
+MDIY101139,2025-03-31,MUM001,Mumbai,West,In-store,Non-Member,Stationery,Notebook,1,49,49,15,7.35,41.65,18,23.65,Cash
+MDIY100635,2025-03-31,DEL001,Delhi,North,In-store,Member,Home Improvement,Measuring Tape,6,89,534,0,0.0,534.0,210,324.0,Wallet
+MDIY100197,2025-03-31,IND001,Indore,Central,In-store,Non-Member,Kitchenware,Mug,3,99,297,10,29.7,267.3,105,162.3,Credit/Debit Card
+MDIY101393,2025-04-01,LKO001,Lucknow,North,In-store,Member,Home Improvement,Screwdriver Set,3,249,747,0,0.0,747.0,330,417.0,Cash
+MDIY100097,2025-04-01,BLR001,Bengaluru,South,In-store,Member,Stationery,Marker Set,1,99,99,10,9.9,89.1,40,49.1,Wallet
+MDIY101254,2025-04-01,JAI001,Jaipur,North,In-store,Non-Member,Electrical,Mobile Holder,3,99,297,5,14.85,282.15,105,177.15,UPI
+MDIY100930,2025-04-03,BHO001,Bhopal,Central,Online,Non-Member,Fashion Accessories,Sunglasses,3,149,447,0,0.0,447.0,165,282.0,UPI
+MDIY100438,2025-04-03,KOL001,Kolkata,East,In-store,Non-Member,Home Improvement,LED Bulb,4,99,396,10,39.6,356.4,180,176.4,Credit/Debit Card
+MDIY100625,2025-04-03,AHM001,Ahmedabad,West,Online,Member,Electrical,Power Strip,1,399,399,5,19.95,379.05,165,214.05,Wallet
+MDIY100110,2025-04-03,CHE001,Chennai,South,Online,Member,Home Improvement,LED Bulb,2,99,198,10,19.8,178.2,90,88.2,Credit/Debit Card
+MDIY100627,2025-04-03,PUN001,Pune,West,In-store,Non-Member,Stationery,Pen Pack,3,39,117,0,0.0,117.0,42,75.0,Credit/Debit Card
+MDIY101136,2025-04-03,BLR001,Bengaluru,South,In-store,Non-Member,Household,Laundry Basket,3,249,747,0,0.0,747.0,315,432.0,Wallet
+MDIY101101,2025-04-04,DEL001,Delhi,North,Online,Member,Toys,Doll,2,249,498,10,49.8,448.2,200,248.2,Credit/Debit Card
+MDIY101290,2025-04-05,BHO001,Bhopal,Central,In-store,Member,Home Improvement,Screwdriver Set,2,249,498,10,49.8,448.2,220,228.2,UPI
+MDIY100857,2025-04-06,DEL001,Delhi,North,In-store,Member,Electrical,Mobile Holder,6,99,594,10,59.4,534.6,210,324.6,Wallet
+MDIY100978,2025-04-06,JAI001,Jaipur,North,In-store,Member,Home Improvement,Extension Cord,1,299,299,15,44.85,254.15,125,129.15,Cash
+MDIY100661,2025-04-06,AHM001,Ahmedabad,West,In-store,Non-Member,Toys,Building Blocks,2,299,598,10,59.8,538.2,250,288.2,Wallet
+MDIY100027,2025-04-06,MUM001,Mumbai,West,In-store,Member,Household,Microfiber Cloth,2,79,158,0,0.0,158.0,60,98.0,Cash
+MDIY100275,2025-04-06,CHE001,Chennai,South,In-store,Member,Toys,Doll,2,249,498,0,0.0,498.0,200,298.0,UPI
+MDIY101474,2025-04-07,HYD001,Hyderabad,South,In-store,Member,Stationery,File Folder,4,35,140,0,0.0,140.0,48,92.0,Cash
+MDIY100589,2025-04-07,DEL001,Delhi,North,Online,Member,Toys,Puzzle Set,1,199,199,0,0.0,199.0,75,124.0,Cash
+MDIY101002,2025-04-08,BHO001,Bhopal,Central,In-store,Non-Member,Stationery,Scissors,3,69,207,20,41.4,165.6,75,90.6,Cash
+MDIY101214,2025-04-08,CHE001,Chennai,South,In-store,Non-Member,Fashion Accessories,Sunglasses,1,149,149,10,14.9,134.1,55,79.1,Wallet
+MDIY100943,2025-04-09,BHO001,Bhopal,Central,In-store,Member,Kitchenware,Peeler,1,49,49,5,2.45,46.55,17,29.55,Wallet
+MDIY101344,2025-04-09,MUM001,Mumbai,West,In-store,Non-Member,Home Improvement,Adhesive Tape,2,49,98,5,4.9,93.1,36,57.1,UPI
+MDIY100393,2025-04-10,LKO001,Lucknow,North,In-store,Member,Fashion Accessories,Sunglasses,3,149,447,5,22.35,424.65,165,259.65,UPI
+MDIY101328,2025-04-10,MUM001,Mumbai,West,Online,Non-Member,Stationery,Scissors,1,69,69,5,3.45,65.55,25,40.55,Credit/Debit Card
+MDIY100733,2025-04-11,HYD001,Hyderabad,South,In-store,Non-Member,Toys,Toy Car,1,99,99,10,9.9,89.1,38,51.1,Cash
+MDIY101358,2025-04-13,PUN001,Pune,West,In-store,Non-Member,Fashion Accessories,Keychain,2,39,78,0,0.0,78.0,24,54.0,Credit/Debit Card
+MDIY100334,2025-04-13,JAI001,Jaipur,North,Online,Non-Member,Kitchenware,Water Bottle,2,149,298,0,0.0,298.0,110,188.0,Cash
+MDIY100582,2025-04-14,AHM001,Ahmedabad,West,In-store,Member,Household,Kitchen Organizer,2,349,698,0,0.0,698.0,290,408.0,Wallet
+MDIY100561,2025-04-15,PUN001,Pune,West,In-store,Member,Stationery,Pen Pack,3,39,117,10,11.7,105.3,42,63.3,UPI
+MDIY101099,2025-04-16,AHM001,Ahmedabad,West,In-store,Member,Fashion Accessories,Keychain,2,39,78,0,0.0,78.0,24,54.0,Cash
+MDIY101203,2025-04-16,BHO001,Bhopal,Central,Online,Non-Member,Kitchenware,Food Container Set,1,299,299,10,29.9,269.1,120,149.1,Wallet
+MDIY100142,2025-04-17,BHO001,Bhopal,Central,In-store,Non-Member,Electrical,Phone Cable,1,149,149,5,7.45,141.55,55,86.55,Credit/Debit Card
+MDIY101183,2025-04-17,LKO001,Lucknow,North,In-store,Member,Fashion Accessories,Hair Clips Set,2,49,98,5,4.9,93.1,34,59.1,Wallet
+MDIY100036,2025-04-17,JAI001,Jaipur,North,In-store,Non-Member,Stationery,Notebook,4,49,196,10,19.6,176.4,72,104.4,Cash
+MDIY101272,2025-04-18,JAI001,Jaipur,North,In-store,Non-Member,Fashion Accessories,Travel Pouch,3,129,387,5,19.35,367.65,144,223.65,UPI
+MDIY100359,2025-04-19,JAI001,Jaipur,North,In-store,Member,Toys,Doll,1,249,249,0,0.0,249.0,100,149.0,Wallet
+MDIY100713,2025-04-19,LKO001,Lucknow,North,In-store,Non-Member,Toys,Soft Toy,3,199,597,0,0.0,597.0,246,351.0,Credit/Debit Card
+MDIY100299,2025-04-19,DEL001,Delhi,North,In-store,Member,Home Improvement,Adhesive Tape,1,49,49,10,4.9,44.1,18,26.1,Wallet
+MDIY100583,2025-04-19,IND001,Indore,Central,In-store,Member,Electrical,Mobile Holder,3,99,297,10,29.7,267.3,105,162.3,Cash
+MDIY100454,2025-04-19,DEL001,Delhi,North,In-store,Member,Household,Microfiber Cloth,1,79,79,10,7.9,71.1,30,41.1,Credit/Debit Card
+MDIY100056,2025-04-20,CHE001,Chennai,South,In-store,Member,Household,Laundry Basket,3,249,747,10,74.7,672.3,315,357.3,UPI
+MDIY100456,2025-04-21,CHE001,Chennai,South,In-store,Member,Home Improvement,Extension Cord,1,299,299,15,44.85,254.15,125,129.15,Wallet
+MDIY101274,2025-04-21,AHM001,Ahmedabad,West,In-store,Member,Toys,Doll,1,249,249,10,24.9,224.1,100,124.1,Credit/Debit Card
+MDIY100701,2025-04-22,JAI001,Jaipur,North,Online,Non-Member,Electrical,Night Lamp,1,199,199,10,19.9,179.1,78,101.1,UPI
+MDIY101230,2025-04-22,IND001,Indore,Central,In-store,Member,Home Improvement,Screwdriver Set,5,249,1245,0,0.0,1245.0,550,695.0,Credit/Debit Card
+MDIY101140,2025-04-23,DEL001,Delhi,North,In-store,Non-Member,Stationery,Marker Set,4,99,396,15,59.4,336.6,160,176.6,Wallet
+MDIY101245,2025-04-23,DEL001,Delhi,North,Online,Member,Toys,Toy Car,2,99,198,0,0.0,198.0,76,122.0,Credit/Debit Card
+MDIY100957,2025-04-24,BLR001,Bengaluru,South,In-store,Member,Household,Cleaning Brush,2,59,118,0,0.0,118.0,44,74.0,Wallet
+MDIY100002,2025-04-25,DEL001,Delhi,North,In-store,Member,Fashion Accessories,Sunglasses,1,149,149,0,0.0,149.0,55,94.0,Wallet
+MDIY100399,2025-04-26,CHE001,Chennai,South,Online,Member,Household,Laundry Basket,2,249,498,5,24.9,473.1,210,263.1,UPI
+MDIY100143,2025-04-28,PUN001,Pune,West,Online,Member,Electrical,Phone Cable,3,149,447,15,67.05,379.95,165,214.95,Credit/Debit Card
+MDIY100485,2025-04-28,JAI001,Jaipur,North,Online,Non-Member,Fashion Accessories,Keychain,4,39,156,15,23.4,132.6,48,84.6,UPI
+MDIY101309,2025-04-28,IND001,Indore,Central,In-store,Member,Home Improvement,Screwdriver Set,3,249,747,15,112.05,634.95,330,304.95,Cash
+MDIY100473,2025-04-28,IND001,Indore,Central,Online,Member,Stationery,Scissors,1,69,69,10,6.9,62.1,25,37.1,UPI
+MDIY101185,2025-04-28,MUM001,Mumbai,West,In-store,Non-Member,Kitchenware,Peeler,5,49,245,0,0.0,245.0,85,160.0,Wallet
+MDIY100440,2025-04-29,LKO001,Lucknow,North,In-store,Non-Member,Kitchenware,Water Bottle,1,149,149,0,0.0,149.0,55,94.0,Credit/Debit Card
+MDIY100873,2025-04-30,HYD001,Hyderabad,South,In-store,Member,Electrical,Mobile Holder,2,99,198,5,9.9,188.1,70,118.1,Wallet
+MDIY100842,2025-04-30,BLR001,Bengaluru,South,In-store,Non-Member,Home Improvement,Screwdriver Set,2,249,498,20,99.6,398.4,220,178.4,Wallet
+MDIY101280,2025-05-01,HYD001,Hyderabad,South,In-store,Non-Member,Household,Storage Box,2,199,398,0,0.0,398.0,160,238.0,Credit/Debit Card
+MDIY101063,2025-05-01,JAI001,Jaipur,North,In-store,Non-Member,Kitchenware,Food Container Set,3,299,897,0,0.0,897.0,360,537.0,UPI
+MDIY101198,2025-05-01,BLR001,Bengaluru,South,In-store,Non-Member,Stationery,Scissors,6,69,414,5,20.7,393.3,150,243.3,UPI
+MDIY100101,2025-05-01,IND001,Indore,Central,In-store,Non-Member,Kitchenware,Lunch Box,2,249,498,10,49.8,448.2,200,248.2,Wallet
+MDIY100422,2025-05-01,HYD001,Hyderabad,South,In-store,Member,Home Improvement,Extension Cord,2,299,598,10,59.8,538.2,250,288.2,UPI
+MDIY100250,2025-05-02,JAI001,Jaipur,North,In-store,Member,Electrical,Night Lamp,2,199,398,10,39.8,358.2,156,202.2,UPI
+MDIY100778,2025-05-02,PUN001,Pune,West,In-store,Member,Home Improvement,LED Bulb,1,99,99,0,0.0,99.0,45,54.0,Cash
+MDIY100479,2025-05-02,KOL001,Kolkata,East,In-store,Member,Home Improvement,Extension Cord,1,299,299,10,29.9,269.1,125,144.1,Credit/Debit Card
+MDIY100766,2025-05-03,PUN001,Pune,West,In-store,Non-Member,Toys,Building Blocks,2,299,598,0,0.0,598.0,250,348.0,Credit/Debit Card
+MDIY100697,2025-05-03,LKO001,Lucknow,North,Online,Member,Kitchenware,Food Container Set,1,299,299,10,29.9,269.1,120,149.1,UPI
+MDIY100903,2025-05-04,BLR001,Bengaluru,South,In-store,Non-Member,Electrical,Mobile Holder,1,99,99,0,0.0,99.0,35,64.0,Credit/Debit Card
+MDIY101100,2025-05-04,JAI001,Jaipur,North,In-store,Member,Toys,Building Blocks,1,299,299,0,0.0,299.0,125,174.0,Cash
+MDIY101265,2025-05-04,BHO001,Bhopal,Central,In-store,Non-Member,Toys,Building Blocks,2,299,598,0,0.0,598.0,250,348.0,UPI
+MDIY100911,2025-05-04,IND001,Indore,Central,In-store,Non-Member,Electrical,Phone Cable,5,149,745,0,0.0,745.0,275,470.0,UPI
+MDIY100363,2025-05-05,DEL001,Delhi,North,In-store,Member,Home Improvement,Screwdriver Set,1,249,249,15,37.35,211.65,110,101.65,Credit/Debit Card
+MDIY100792,2025-05-06,PUN001,Pune,West,In-store,Member,Toys,Doll,1,249,249,20,49.8,199.2,100,99.2,UPI
+MDIY101220,2025-05-06,KOL001,Kolkata,East,Online,Non-Member,Electrical,Phone Cable,2,149,298,10,29.8,268.2,110,158.2,Wallet
+MDIY100141,2025-05-06,CHE001,Chennai,South,Online,Non-Member,Stationery,Scissors,4,69,276,10,27.6,248.4,100,148.4,Credit/Debit Card
+MDIY101090,2025-05-07,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,Screwdriver Set,3,249,747,0,0.0,747.0,330,417.0,Credit/Debit Card
+MDIY100092,2025-05-08,HYD001,Hyderabad,South,In-store,Non-Member,Fashion Accessories,Sunglasses,3,149,447,20,89.4,357.6,165,192.6,Wallet
+MDIY101065,2025-05-08,KOL001,Kolkata,East,Online,Member,Stationery,Marker Set,5,99,495,0,0.0,495.0,200,295.0,Cash
+MDIY100187,2025-05-08,BLR001,Bengaluru,South,In-store,Member,Toys,Doll,3,249,747,15,112.05,634.95,300,334.95,Wallet
+MDIY100049,2025-05-08,AHM001,Ahmedabad,West,In-store,Non-Member,Stationery,File Folder,1,35,35,5,1.75,33.25,12,21.25,Cash
+MDIY100765,2025-05-08,IND001,Indore,Central,In-store,Member,Fashion Accessories,Sunglasses,2,149,298,5,14.9,283.1,110,173.1,UPI
+MDIY101323,2025-05-10,DEL001,Delhi,North,In-store,Non-Member,Kitchenware,Peeler,1,49,49,0,0.0,49.0,17,32.0,Wallet
+MDIY100728,2025-05-11,DEL001,Delhi,North,In-store,Non-Member,Fashion Accessories,Keychain,1,39,39,0,0.0,39.0,12,27.0,Wallet
+MDIY101038,2025-05-11,HYD001,Hyderabad,South,In-store,Non-Member,Kitchenware,Water Bottle,1,149,149,10,14.9,134.1,55,79.1,Cash
+MDIY100420,2025-05-12,AHM001,Ahmedabad,West,In-store,Non-Member,Stationery,File Folder,3,35,105,0,0.0,105.0,36,69.0,UPI
+MDIY101069,2025-05-12,AHM001,Ahmedabad,West,In-store,Member,Electrical,Night Lamp,1,199,199,0,0.0,199.0,78,121.0,Wallet
+MDIY100776,2025-05-12,AHM001,Ahmedabad,West,Online,Non-Member,Household,Laundry Basket,1,249,249,0,0.0,249.0,105,144.0,UPI
+MDIY100458,2025-05-12,LKO001,Lucknow,North,Online,Non-Member,Toys,Soft Toy,2,199,398,0,0.0,398.0,164,234.0,Cash
+MDIY100487,2025-05-12,IND001,Indore,Central,Online,Non-Member,Fashion Accessories,Wallet,1,199,199,5,9.95,189.05,75,114.05,Wallet
+MDIY100712,2025-05-14,DEL001,Delhi,North,In-store,Member,Household,Storage Box,4,199,796,15,119.4,676.6,320,356.6,UPI
+MDIY101407,2025-05-14,IND001,Indore,Central,In-store,Non-Member,Stationery,Notebook,6,49,294,0,0.0,294.0,108,186.0,Wallet
+MDIY100835,2025-05-14,CHE001,Chennai,South,In-store,Member,Kitchenware,Lunch Box,2,249,498,20,99.6,398.4,200,198.4,Wallet
+MDIY101355,2025-05-15,AHM001,Ahmedabad,West,In-store,Non-Member,Stationery,Notebook,1,49,49,5,2.45,46.55,18,28.55,UPI
+MDIY101213,2025-05-15,CHE001,Chennai,South,In-store,Member,Home Improvement,Extension Cord,5,299,1495,0,0.0,1495.0,625,870.0,Wallet
+MDIY101158,2025-05-15,BLR001,Bengaluru,South,In-store,Non-Member,Stationery,Marker Set,2,99,198,20,39.6,158.4,80,78.4,Cash
+MDIY101053,2025-05-15,BLR001,Bengaluru,South,Online,Non-Member,Kitchenware,Food Container Set,4,299,1196,0,0.0,1196.0,480,716.0,Wallet
+MDIY101388,2025-05-15,LKO001,Lucknow,North,In-store,Member,Toys,Building Blocks,1,299,299,10,29.9,269.1,125,144.1,Credit/Debit Card
+MDIY101395,2025-05-16,PUN001,Pune,West,In-store,Non-Member,Home Improvement,Measuring Tape,3,89,267,0,0.0,267.0,105,162.0,Wallet
+MDIY100412,2025-05-16,IND001,Indore,Central,In-store,Non-Member,Household,Kitchen Organizer,3,349,1047,0,0.0,1047.0,435,612.0,Credit/Debit Card
+MDIY100734,2025-05-16,BLR001,Bengaluru,South,In-store,Non-Member,Stationery,Pen Pack,2,39,78,0,0.0,78.0,28,50.0,Cash
+MDIY100285,2025-05-16,LKO001,Lucknow,North,In-store,Member,Household,Microfiber Cloth,2,79,158,5,7.9,150.1,60,90.1,UPI
+MDIY100183,2025-05-17,DEL001,Delhi,North,In-store,Non-Member,Stationery,File Folder,1,35,35,10,3.5,31.5,12,19.5,Wallet
+MDIY100490,2025-05-18,IND001,Indore,Central,In-store,Non-Member,Fashion Accessories,Sunglasses,4,149,596,5,29.8,566.2,220,346.2,Wallet
+MDIY100617,2025-05-18,KOL001,Kolkata,East,In-store,Non-Member,Kitchenware,Food Container Set,2,299,598,10,59.8,538.2,240,298.2,Wallet
+MDIY100553,2025-05-19,AHM001,Ahmedabad,West,In-store,Non-Member,Electrical,Phone Cable,2,149,298,5,14.9,283.1,110,173.1,Credit/Debit Card
+MDIY100677,2025-05-20,LKO001,Lucknow,North,In-store,Non-Member,Household,Microfiber Cloth,4,79,316,15,47.4,268.6,120,148.6,Cash
+MDIY101339,2025-05-21,BHO001,Bhopal,Central,In-store,Member,Toys,Toy Car,3,99,297,0,0.0,297.0,114,183.0,Wallet
+MDIY100218,2025-05-21,AHM001,Ahmedabad,West,Online,Member,Stationery,Scissors,2,69,138,0,0.0,138.0,50,88.0,Credit/Debit Card
+MDIY100232,2025-05-21,DEL001,Delhi,North,In-store,Non-Member,Electrical,Phone Cable,2,149,298,15,44.7,253.3,110,143.3,Cash
+MDIY100886,2025-05-22,CHE001,Chennai,South,In-store,Non-Member,Toys,Doll,4,249,996,20,199.2,796.8,400,396.8,UPI
+MDIY100740,2025-05-22,BLR001,Bengaluru,South,Online,Member,Household,Kitchen Organizer,1,349,349,5,17.45,331.55,145,186.55,Cash
+MDIY100060,2025-05-22,JAI001,Jaipur,North,In-store,Non-Member,Household,Microfiber Cloth,3,79,237,10,23.7,213.3,90,123.3,Credit/Debit Card
+MDIY100761,2025-05-23,BHO001,Bhopal,Central,Online,Non-Member,Electrical,Power Strip,1,399,399,0,0.0,399.0,165,234.0,UPI
+MDIY100295,2025-05-23,IND001,Indore,Central,In-store,Non-Member,Stationery,Pen Pack,1,39,39,0,0.0,39.0,14,25.0,UPI
+MDIY101487,2025-05-24,LKO001,Lucknow,North,In-store,Member,Kitchenware,Mug,5,99,495,0,0.0,495.0,175,320.0,Cash
+MDIY100417,2025-05-24,AHM001,Ahmedabad,West,In-store,Non-Member,Home Improvement,Measuring Tape,6,89,534,0,0.0,534.0,210,324.0,UPI
+MDIY101268,2025-05-24,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Mug,5,99,495,0,0.0,495.0,175,320.0,Wallet
+MDIY101480,2025-05-24,HYD001,Hyderabad,South,In-store,Non-Member,Kitchenware,Mug,1,99,99,10,9.9,89.1,35,54.1,Credit/Debit Card
+MDIY101092,2025-05-24,BLR001,Bengaluru,South,In-store,Member,Fashion Accessories,Travel Pouch,1,129,129,15,19.35,109.65,48,61.65,Cash
+MDIY100280,2025-05-24,AHM001,Ahmedabad,West,In-store,Non-Member,Fashion Accessories,Hair Clips Set,2,49,98,20,19.6,78.4,34,44.4,Cash
+MDIY100381,2025-05-25,BLR001,Bengaluru,South,In-store,Member,Fashion Accessories,Hair Clips Set,1,49,49,20,9.8,39.2,17,22.2,Credit/Debit Card
+MDIY101157,2025-05-25,AHM001,Ahmedabad,West,In-store,Non-Member,Household,Kitchen Organizer,2,349,698,10,69.8,628.2,290,338.2,Wallet
+MDIY101068,2025-05-26,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Lunch Box,5,249,1245,5,62.25,1182.75,500,682.75,Credit/Debit Card
+MDIY100322,2025-05-26,BHO001,Bhopal,Central,In-store,Member,Fashion Accessories,Sunglasses,2,149,298,0,0.0,298.0,110,188.0,Wallet
+MDIY101378,2025-05-27,JAI001,Jaipur,North,In-store,Non-Member,Toys,Building Blocks,1,299,299,15,44.85,254.15,125,129.15,Wallet
+MDIY101160,2025-05-27,PUN001,Pune,West,In-store,Non-Member,Electrical,Power Strip,2,399,798,5,39.9,758.1,330,428.1,Cash
+MDIY100256,2025-05-27,IND001,Indore,Central,In-store,Member,Electrical,Phone Cable,2,149,298,0,0.0,298.0,110,188.0,Wallet
+MDIY100788,2025-05-27,CHE001,Chennai,South,Online,Member,Toys,Soft Toy,6,199,1194,10,119.4,1074.6,492,582.6,UPI
+MDIY101141,2025-05-28,KOL001,Kolkata,East,In-store,Member,Toys,Toy Car,1,99,99,0,0.0,99.0,38,61.0,Cash
+MDIY100259,2025-05-28,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,Extension Cord,2,299,598,5,29.9,568.1,250,318.1,Cash
+MDIY100688,2025-05-29,BHO001,Bhopal,Central,In-store,Non-Member,Kitchenware,Lunch Box,4,249,996,10,99.6,896.4,400,496.4,Cash
+MDIY100630,2025-05-29,JAI001,Jaipur,North,In-store,Non-Member,Kitchenware,Water Bottle,2,149,298,0,0.0,298.0,110,188.0,Credit/Debit Card
+MDIY100948,2025-05-31,HYD001,Hyderabad,South,In-store,Member,Stationery,File Folder,1,35,35,0,0.0,35.0,12,23.0,UPI
+MDIY101226,2025-05-31,HYD001,Hyderabad,South,In-store,Member,Home Improvement,LED Bulb,1,99,99,15,14.85,84.15,45,39.15,Wallet
+MDIY100222,2025-06-01,IND001,Indore,Central,In-store,Non-Member,Household,Storage Box,2,199,398,10,39.8,358.2,160,198.2,Credit/Debit Card
+MDIY101135,2025-06-01,CHE001,Chennai,South,In-store,Non-Member,Toys,Doll,3,249,747,0,0.0,747.0,300,447.0,Cash
+MDIY101456,2025-06-01,KOL001,Kolkata,East,In-store,Non-Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,Credit/Debit Card
+MDIY100859,2025-06-02,JAI001,Jaipur,North,In-store,Member,Fashion Accessories,Sunglasses,4,149,596,5,29.8,566.2,220,346.2,UPI
+MDIY100656,2025-06-02,JAI001,Jaipur,North,In-store,Member,Stationery,Notebook,1,49,49,10,4.9,44.1,18,26.1,Credit/Debit Card
+MDIY100447,2025-06-02,KOL001,Kolkata,East,In-store,Non-Member,Electrical,Power Strip,1,399,399,15,59.85,339.15,165,174.15,Wallet
+MDIY101057,2025-06-02,IND001,Indore,Central,In-store,Non-Member,Fashion Accessories,Travel Pouch,1,129,129,0,0.0,129.0,48,81.0,Cash
+MDIY100416,2025-06-03,KOL001,Kolkata,East,In-store,Non-Member,Kitchenware,Lunch Box,4,249,996,10,99.6,896.4,400,496.4,Credit/Debit Card
+MDIY101133,2025-06-03,IND001,Indore,Central,In-store,Non-Member,Fashion Accessories,Sunglasses,2,149,298,0,0.0,298.0,110,188.0,Wallet
+MDIY101176,2025-06-04,HYD001,Hyderabad,South,Online,Non-Member,Household,Microfiber Cloth,4,79,316,0,0.0,316.0,120,196.0,Credit/Debit Card
+MDIY100157,2025-06-04,HYD001,Hyderabad,South,In-store,Member,Home Improvement,Measuring Tape,2,89,178,0,0.0,178.0,70,108.0,Credit/Debit Card
+MDIY100013,2025-06-06,IND001,Indore,Central,In-store,Non-Member,Household,Microfiber Cloth,2,79,158,0,0.0,158.0,60,98.0,Credit/Debit Card
+MDIY100676,2025-06-07,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Lunch Box,1,249,249,0,0.0,249.0,100,149.0,Wallet
+MDIY100477,2025-06-07,DEL001,Delhi,North,In-store,Non-Member,Toys,Puzzle Set,1,199,199,0,0.0,199.0,75,124.0,UPI
+MDIY100252,2025-06-08,PUN001,Pune,West,In-store,Member,Household,Storage Box,1,199,199,10,19.9,179.1,80,99.1,Cash
+MDIY100753,2025-06-09,DEL001,Delhi,North,In-store,Non-Member,Fashion Accessories,Keychain,6,39,234,0,0.0,234.0,72,162.0,Credit/Debit Card
+MDIY101437,2025-06-09,BHO001,Bhopal,Central,In-store,Member,Electrical,Phone Cable,2,149,298,5,14.9,283.1,110,173.1,Credit/Debit Card
+MDIY100877,2025-06-10,BHO001,Bhopal,Central,In-store,Member,Toys,Building Blocks,3,299,897,20,179.4,717.6,375,342.6,Cash
+MDIY100198,2025-06-11,AHM001,Ahmedabad,West,In-store,Member,Fashion Accessories,Wallet,3,199,597,5,29.85,567.15,225,342.15,Cash
+MDIY100147,2025-06-11,BHO001,Bhopal,Central,In-store,Non-Member,Home Improvement,LED Bulb,1,99,99,10,9.9,89.1,45,44.1,Wallet
+MDIY100502,2025-06-11,BLR001,Bengaluru,South,In-store,Member,Electrical,Power Strip,3,399,1197,5,59.85,1137.15,495,642.15,Wallet
+MDIY100146,2025-06-11,BLR001,Bengaluru,South,In-store,Member,Stationery,Marker Set,3,99,297,5,14.85,282.15,120,162.15,Cash
+MDIY101457,2025-06-12,BHO001,Bhopal,Central,In-store,Member,Fashion Accessories,Sunglasses,2,149,298,5,14.9,283.1,110,173.1,Cash
+MDIY100463,2025-06-14,PUN001,Pune,West,In-store,Member,Fashion Accessories,Sunglasses,1,149,149,0,0.0,149.0,55,94.0,UPI
+MDIY100469,2025-06-14,BHO001,Bhopal,Central,Online,Member,Kitchenware,Mug,1,99,99,5,4.95,94.05,35,59.05,Cash
+MDIY100876,2025-06-15,BHO001,Bhopal,Central,In-store,Member,Household,Cleaning Brush,3,59,177,0,0.0,177.0,66,111.0,Cash
+MDIY101156,2025-06-15,JAI001,Jaipur,North,Online,Member,Fashion Accessories,Travel Pouch,1,129,129,10,12.9,116.1,48,68.1,Cash
+MDIY100750,2025-06-15,MUM001,Mumbai,West,In-store,Non-Member,Home Improvement,LED Bulb,6,99,594,5,29.7,564.3,270,294.3,Cash
+MDIY100923,2025-06-15,AHM001,Ahmedabad,West,In-store,Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,Credit/Debit Card
+MDIY100518,2025-06-15,LKO001,Lucknow,North,In-store,Member,Household,Kitchen Organizer,2,349,698,0,0.0,698.0,290,408.0,Cash
+MDIY101123,2025-06-16,JAI001,Jaipur,North,In-store,Non-Member,Kitchenware,Peeler,3,49,147,0,0.0,147.0,51,96.0,Cash
+MDIY100042,2025-06-16,JAI001,Jaipur,North,In-store,Non-Member,Toys,Building Blocks,1,299,299,15,44.85,254.15,125,129.15,Cash
+MDIY101151,2025-06-16,KOL001,Kolkata,East,Online,Member,Home Improvement,LED Bulb,1,99,99,0,0.0,99.0,45,54.0,Cash
+MDIY101406,2025-06-17,KOL001,Kolkata,East,Online,Member,Household,Cleaning Brush,4,59,236,20,47.2,188.8,88,100.8,Cash
+MDIY101416,2025-06-17,CHE001,Chennai,South,In-store,Member,Fashion Accessories,Keychain,4,39,156,5,7.8,148.2,48,100.2,Wallet
+MDIY101054,2025-06-17,BHO001,Bhopal,Central,In-store,Member,Household,Microfiber Cloth,3,79,237,0,0.0,237.0,90,147.0,Cash
+MDIY100120,2025-06-18,PUN001,Pune,West,In-store,Member,Kitchenware,Peeler,5,49,245,0,0.0,245.0,85,160.0,Wallet
+MDIY100938,2025-06-18,BLR001,Bengaluru,South,In-store,Member,Stationery,Notebook,2,49,98,0,0.0,98.0,36,62.0,Credit/Debit Card
+MDIY100989,2025-06-18,PUN001,Pune,West,In-store,Non-Member,Household,Kitchen Organizer,1,349,349,0,0.0,349.0,145,204.0,Wallet
+MDIY100244,2025-06-18,BLR001,Bengaluru,South,In-store,Non-Member,Kitchenware,Food Container Set,2,299,598,10,59.8,538.2,240,298.2,UPI
+MDIY100909,2025-06-19,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Extension Cord,2,299,598,10,59.8,538.2,250,288.2,UPI
+MDIY100448,2025-06-19,LKO001,Lucknow,North,In-store,Member,Kitchenware,Peeler,1,49,49,0,0.0,49.0,17,32.0,Wallet
+MDIY100624,2025-06-20,CHE001,Chennai,South,Online,Non-Member,Stationery,File Folder,5,35,175,10,17.5,157.5,60,97.5,Wallet
+MDIY100298,2025-06-20,IND001,Indore,Central,In-store,Non-Member,Electrical,Power Strip,2,399,798,10,79.8,718.2,330,388.2,Wallet
+MDIY101056,2025-06-22,DEL001,Delhi,North,In-store,Non-Member,Home Improvement,Adhesive Tape,6,49,294,0,0.0,294.0,108,186.0,Wallet
+MDIY100489,2025-06-22,DEL001,Delhi,North,In-store,Non-Member,Stationery,Pen Pack,3,39,117,10,11.7,105.3,42,63.3,Credit/Debit Card
+MDIY100832,2025-06-22,DEL001,Delhi,North,In-store,Non-Member,Toys,Soft Toy,2,199,398,0,0.0,398.0,164,234.0,Cash
+MDIY101025,2025-06-22,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,LED Bulb,1,99,99,10,9.9,89.1,45,44.1,Wallet
+MDIY101461,2025-06-23,KOL001,Kolkata,East,In-store,Member,Toys,Toy Car,2,99,198,0,0.0,198.0,76,122.0,Credit/Debit Card
+MDIY101453,2025-06-23,BLR001,Bengaluru,South,In-store,Non-Member,Toys,Puzzle Set,1,199,199,0,0.0,199.0,75,124.0,UPI
+MDIY100802,2025-06-23,DEL001,Delhi,North,In-store,Non-Member,Electrical,Mobile Holder,1,99,99,10,9.9,89.1,35,54.1,Credit/Debit Card
+MDIY100288,2025-06-23,JAI001,Jaipur,North,In-store,Non-Member,Stationery,Marker Set,1,99,99,0,0.0,99.0,40,59.0,Wallet
+MDIY101026,2025-06-24,JAI001,Jaipur,North,In-store,Member,Stationery,Pen Pack,3,39,117,0,0.0,117.0,42,75.0,Wallet
+MDIY101188,2025-06-24,BHO001,Bhopal,Central,In-store,Non-Member,Toys,Toy Car,2,99,198,0,0.0,198.0,76,122.0,UPI
+MDIY100386,2025-06-24,CHE001,Chennai,South,In-store,Non-Member,Household,Storage Box,2,199,398,15,59.7,338.3,160,178.3,UPI
+MDIY101219,2025-06-24,JAI001,Jaipur,North,In-store,Non-Member,Electrical,Night Lamp,1,199,199,0,0.0,199.0,78,121.0,Wallet
+MDIY101115,2025-06-25,MUM001,Mumbai,West,In-store,Non-Member,Home Improvement,Extension Cord,1,299,299,0,0.0,299.0,125,174.0,Cash
+MDIY100748,2025-06-25,PUN001,Pune,West,In-store,Member,Household,Microfiber Cloth,1,79,79,0,0.0,79.0,30,49.0,Credit/Debit Card
+MDIY100729,2025-06-25,BLR001,Bengaluru,South,In-store,Member,Household,Cleaning Brush,2,59,118,10,11.8,106.2,44,62.2,Cash
+MDIY101387,2025-06-27,HYD001,Hyderabad,South,In-store,Member,Fashion Accessories,Keychain,3,39,117,0,0.0,117.0,36,81.0,Cash
+MDIY100591,2025-06-27,HYD001,Hyderabad,South,In-store,Member,Kitchenware,Food Container Set,3,299,897,0,0.0,897.0,360,537.0,Wallet
+MDIY100362,2025-06-28,DEL001,Delhi,North,In-store,Member,Toys,Doll,2,249,498,5,24.9,473.1,200,273.1,Cash
+MDIY100687,2025-06-29,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Lunch Box,2,249,498,10,49.8,448.2,200,248.2,UPI
+MDIY101501,2025-06-29,KOL001,Kolkata,East,In-store,Non-Member,Electrical,Battery Pack,1,79,79,10,7.9,71.1,28,43.1,Credit/Debit Card
+MDIY100112,2025-06-29,LKO001,Lucknow,North,Online,Member,Electrical,Night Lamp,2,199,398,0,0.0,398.0,156,242.0,Cash
+MDIY101345,2025-06-30,HYD001,Hyderabad,South,In-store,Non-Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,Wallet
+MDIY100541,2025-06-30,CHE001,Chennai,South,In-store,Non-Member,Toys,Toy Car,6,99,594,15,89.1,504.9,228,276.9,Wallet
+MDIY100722,2025-06-30,JAI001,Jaipur,North,In-store,Non-Member,Fashion Accessories,Hair Clips Set,1,49,49,0,0.0,49.0,17,32.0,Credit/Debit Card
+MDIY100156,2025-07-01,IND001,Indore,Central,In-store,Non-Member,Toys,Doll,3,249,747,10,74.7,672.3,300,372.3,Credit/Debit Card
+MDIY101448,2025-07-01,HYD001,Hyderabad,South,In-store,Member,Electrical,Power Strip,3,399,1197,15,179.55,1017.45,495,522.45,Cash
+MDIY100956,2025-07-02,MUM001,Mumbai,West,In-store,Member,Home Improvement,Screwdriver Set,4,249,996,15,149.4,846.6,440,406.6,Wallet
+MDIY100278,2025-07-03,BLR001,Bengaluru,South,In-store,Non-Member,Home Improvement,Screwdriver Set,2,249,498,10,49.8,448.2,220,228.2,UPI
+MDIY100787,2025-07-03,DEL001,Delhi,North,In-store,Member,Fashion Accessories,Travel Pouch,3,129,387,0,0.0,387.0,144,243.0,UPI
+MDIY101322,2025-07-04,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,Screwdriver Set,1,249,249,0,0.0,249.0,110,139.0,UPI
+MDIY100913,2025-07-04,CHE001,Chennai,South,In-store,Member,Home Improvement,Extension Cord,1,299,299,0,0.0,299.0,125,174.0,Cash
+MDIY100584,2025-07-04,KOL001,Kolkata,East,Online,Non-Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,Credit/Debit Card
+MDIY100836,2025-07-04,CHE001,Chennai,South,In-store,Non-Member,Kitchenware,Lunch Box,1,249,249,20,49.8,199.2,100,99.2,Cash
+MDIY101144,2025-07-06,HYD001,Hyderabad,South,In-store,Non-Member,Fashion Accessories,Wallet,3,199,597,10,59.7,537.3,225,312.3,Credit/Debit Card
+MDIY100698,2025-07-08,PUN001,Pune,West,In-store,Non-Member,Stationery,Scissors,3,69,207,0,0.0,207.0,75,132.0,Wallet
+MDIY101122,2025-07-09,JAI001,Jaipur,North,In-store,Member,Household,Kitchen Organizer,2,349,698,10,69.8,628.2,290,338.2,Credit/Debit Card
+MDIY101409,2025-07-09,MUM001,Mumbai,West,In-store,Non-Member,Kitchenware,Lunch Box,2,249,498,10,49.8,448.2,200,248.2,UPI
+MDIY100634,2025-07-09,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,Adhesive Tape,1,49,49,15,7.35,41.65,18,23.65,Credit/Debit Card
+MDIY100305,2025-07-10,IND001,Indore,Central,Online,Non-Member,Fashion Accessories,Travel Pouch,2,129,258,10,25.8,232.2,96,136.2,Wallet
+MDIY101207,2025-07-10,BLR001,Bengaluru,South,In-store,Non-Member,Household,Storage Box,1,199,199,0,0.0,199.0,80,119.0,UPI
+MDIY100195,2025-07-10,HYD001,Hyderabad,South,In-store,Non-Member,Electrical,Night Lamp,5,199,995,0,0.0,995.0,390,605.0,Cash
+MDIY101193,2025-07-11,MUM001,Mumbai,West,In-store,Non-Member,Fashion Accessories,Wallet,1,199,199,5,9.95,189.05,75,114.05,Credit/Debit Card
+MDIY100392,2025-07-11,HYD001,Hyderabad,South,In-store,Member,Home Improvement,Adhesive Tape,2,49,98,0,0.0,98.0,36,62.0,Cash
+MDIY100746,2025-07-13,LKO001,Lucknow,North,In-store,Non-Member,Home Improvement,Screwdriver Set,4,249,996,5,49.8,946.2,440,506.2,Credit/Debit Card
+MDIY100557,2025-07-13,CHE001,Chennai,South,In-store,Non-Member,Electrical,Night Lamp,2,199,398,0,0.0,398.0,156,242.0,Wallet
+MDIY100029,2025-07-14,PUN001,Pune,West,In-store,Member,Household,Storage Box,2,199,398,5,19.9,378.1,160,218.1,UPI
+MDIY100708,2025-07-14,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,Screwdriver Set,1,249,249,20,49.8,199.2,110,89.2,UPI
+MDIY100707,2025-07-15,PUN001,Pune,West,In-store,Member,Fashion Accessories,Travel Pouch,4,129,516,10,51.6,464.4,192,272.4,Wallet
+MDIY100050,2025-07-16,CHE001,Chennai,South,In-store,Non-Member,Fashion Accessories,Travel Pouch,3,129,387,15,58.05,328.95,144,184.95,Wallet
+MDIY100226,2025-07-16,MUM001,Mumbai,West,Online,Non-Member,Stationery,File Folder,1,35,35,20,7.0,28.0,12,16.0,Cash
+MDIY100564,2025-07-16,PUN001,Pune,West,In-store,Member,Kitchenware,Peeler,4,49,196,0,0.0,196.0,68,128.0,Wallet
+MDIY100572,2025-07-17,DEL001,Delhi,North,Online,Non-Member,Fashion Accessories,Travel Pouch,1,129,129,0,0.0,129.0,48,81.0,Wallet
+MDIY100910,2025-07-17,BHO001,Bhopal,Central,In-store,Non-Member,Electrical,Battery Pack,3,79,237,20,47.4,189.6,84,105.6,UPI
+MDIY101010,2025-07-17,DEL001,Delhi,North,In-store,Member,Fashion Accessories,Wallet,5,199,995,0,0.0,995.0,375,620.0,Cash
+MDIY101199,2025-07-17,BHO001,Bhopal,Central,In-store,Non-Member,Home Improvement,Extension Cord,1,299,299,5,14.95,284.05,125,159.05,UPI
+MDIY100407,2025-07-17,MUM001,Mumbai,West,Online,Member,Kitchenware,Water Bottle,1,149,149,5,7.45,141.55,55,86.55,Credit/Debit Card
+MDIY100641,2025-07-18,DEL001,Delhi,North,In-store,Member,Home Improvement,LED Bulb,2,99,198,10,19.8,178.2,90,88.2,Wallet
+MDIY100082,2025-07-18,PUN001,Pune,West,In-store,Non-Member,Household,Cleaning Brush,1,59,59,0,0.0,59.0,22,37.0,UPI
+MDIY101389,2025-07-18,IND001,Indore,Central,Online,Member,Electrical,Power Strip,1,399,399,10,39.9,359.1,165,194.1,Credit/Debit Card
+MDIY101470,2025-07-19,BHO001,Bhopal,Central,In-store,Non-Member,Kitchenware,Food Container Set,3,299,897,20,179.4,717.6,360,357.6,Credit/Debit Card
+MDIY100353,2025-07-20,AHM001,Ahmedabad,West,In-store,Non-Member,Electrical,Phone Cable,1,149,149,15,22.35,126.65,55,71.65,UPI
+MDIY101367,2025-07-22,HYD001,Hyderabad,South,In-store,Non-Member,Kitchenware,Water Bottle,1,149,149,5,7.45,141.55,55,86.55,Cash
+MDIY100054,2025-07-23,JAI001,Jaipur,North,In-store,Member,Home Improvement,LED Bulb,1,99,99,5,4.95,94.05,45,49.05,Wallet
+MDIY100979,2025-07-23,LKO001,Lucknow,North,In-store,Non-Member,Toys,Puzzle Set,1,199,199,0,0.0,199.0,75,124.0,UPI
+MDIY100115,2025-07-23,CHE001,Chennai,South,In-store,Non-Member,Kitchenware,Peeler,1,49,49,0,0.0,49.0,17,32.0,Credit/Debit Card
+MDIY100390,2025-07-24,LKO001,Lucknow,North,In-store,Member,Home Improvement,Screwdriver Set,1,249,249,0,0.0,249.0,110,139.0,Credit/Debit Card
+MDIY100763,2025-07-24,JAI001,Jaipur,North,In-store,Non-Member,Kitchenware,Peeler,1,49,49,5,2.45,46.55,17,29.55,Credit/Debit Card
+MDIY101251,2025-07-24,PUN001,Pune,West,In-store,Non-Member,Household,Microfiber Cloth,2,79,158,0,0.0,158.0,60,98.0,Cash
+MDIY101496,2025-07-25,BHO001,Bhopal,Central,In-store,Member,Stationery,File Folder,1,35,35,10,3.5,31.5,12,19.5,UPI
+MDIY100230,2025-07-26,KOL001,Kolkata,East,In-store,Member,Stationery,File Folder,3,35,105,0,0.0,105.0,36,69.0,Cash
+MDIY101006,2025-07-29,IND001,Indore,Central,Online,Non-Member,Home Improvement,Screwdriver Set,5,249,1245,5,62.25,1182.75,550,632.75,Cash
+MDIY100891,2025-07-30,KOL001,Kolkata,East,Online,Non-Member,Electrical,Battery Pack,2,79,158,10,15.8,142.2,56,86.2,Cash
+MDIY100751,2025-07-30,KOL001,Kolkata,East,In-store,Non-Member,Fashion Accessories,Hair Clips Set,3,49,147,20,29.4,117.6,51,66.6,Cash
+MDIY100434,2025-07-30,AHM001,Ahmedabad,West,In-store,Non-Member,Fashion Accessories,Hair Clips Set,1,49,49,10,4.9,44.1,17,27.1,Cash
+MDIY100302,2025-07-31,KOL001,Kolkata,East,In-store,Non-Member,Toys,Puzzle Set,2,199,398,5,19.9,378.1,150,228.1,UPI
+MDIY100411,2025-07-31,PUN001,Pune,West,Online,Member,Fashion Accessories,Travel Pouch,2,129,258,15,38.7,219.3,96,123.3,Wallet
+MDIY100253,2025-07-31,LKO001,Lucknow,North,In-store,Member,Home Improvement,Extension Cord,1,299,299,5,14.95,284.05,125,159.05,Cash
+MDIY100612,2025-07-31,IND001,Indore,Central,In-store,Non-Member,Household,Kitchen Organizer,2,349,698,10,69.8,628.2,290,338.2,Cash
+MDIY101436,2025-08-01,AHM001,Ahmedabad,West,In-store,Non-Member,Electrical,Mobile Holder,1,99,99,10,9.9,89.1,35,54.1,UPI
+MDIY101278,2025-08-01,BHO001,Bhopal,Central,Online,Member,Kitchenware,Peeler,2,49,98,0,0.0,98.0,34,64.0,UPI
+MDIY100580,2025-08-02,IND001,Indore,Central,In-store,Non-Member,Toys,Building Blocks,2,299,598,10,59.8,538.2,250,288.2,Credit/Debit Card
+MDIY101159,2025-08-02,BHO001,Bhopal,Central,Online,Member,Electrical,Power Strip,5,399,1995,5,99.75,1895.25,825,1070.25,UPI
+MDIY100262,2025-08-02,BLR001,Bengaluru,South,In-store,Non-Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,Cash
+MDIY100867,2025-08-03,HYD001,Hyderabad,South,In-store,Member,Fashion Accessories,Wallet,2,199,398,5,19.9,378.1,150,228.1,UPI
+MDIY101179,2025-08-03,MUM001,Mumbai,West,In-store,Non-Member,Fashion Accessories,Keychain,5,39,195,0,0.0,195.0,60,135.0,Credit/Debit Card
+MDIY100638,2025-08-03,BHO001,Bhopal,Central,In-store,Member,Home Improvement,LED Bulb,2,99,198,20,39.6,158.4,90,68.4,Wallet
+MDIY100041,2025-08-04,IND001,Indore,Central,In-store,Member,Household,Storage Box,1,199,199,5,9.95,189.05,80,109.05,Cash
+MDIY101107,2025-08-04,BHO001,Bhopal,Central,In-store,Member,Toys,Building Blocks,4,299,1196,0,0.0,1196.0,500,696.0,UPI
+MDIY100824,2025-08-04,JAI001,Jaipur,North,In-store,Member,Toys,Puzzle Set,4,199,796,10,79.6,716.4,300,416.4,Credit/Debit Card
+MDIY100476,2025-08-04,IND001,Indore,Central,In-store,Non-Member,Fashion Accessories,Wallet,4,199,796,5,39.8,756.2,300,456.2,UPI
+MDIY100484,2025-08-05,CHE001,Chennai,South,In-store,Non-Member,Fashion Accessories,Keychain,1,39,39,0,0.0,39.0,12,27.0,Cash
+MDIY100277,2025-08-05,AHM001,Ahmedabad,West,In-store,Non-Member,Electrical,Night Lamp,1,199,199,15,29.85,169.15,78,91.15,UPI
+MDIY100405,2025-08-05,CHE001,Chennai,South,In-store,Member,Fashion Accessories,Travel Pouch,3,129,387,15,58.05,328.95,144,184.95,UPI
+MDIY100129,2025-08-06,IND001,Indore,Central,In-store,Member,Fashion Accessories,Keychain,6,39,234,0,0.0,234.0,72,162.0,Cash
+MDIY101104,2025-08-06,PUN001,Pune,West,In-store,Non-Member,Toys,Puzzle Set,4,199,796,0,0.0,796.0,300,496.0,Credit/Debit Card
+MDIY100810,2025-08-07,IND001,Indore,Central,In-store,Non-Member,Kitchenware,Peeler,1,49,49,10,4.9,44.1,17,27.1,UPI
+MDIY100999,2025-08-07,LKO001,Lucknow,North,In-store,Non-Member,Stationery,Marker Set,1,99,99,5,4.95,94.05,40,54.05,Cash
+MDIY100893,2025-08-07,LKO001,Lucknow,North,In-store,Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,UPI
+MDIY100782,2025-08-08,KOL001,Kolkata,East,In-store,Member,Kitchenware,Peeler,1,49,49,5,2.45,46.55,17,29.55,Cash
+MDIY100905,2025-08-09,JAI001,Jaipur,North,In-store,Member,Kitchenware,Peeler,1,49,49,5,2.45,46.55,17,29.55,Wallet
+MDIY100760,2025-08-09,AHM001,Ahmedabad,West,In-store,Non-Member,Toys,Doll,3,249,747,0,0.0,747.0,300,447.0,Wallet
+MDIY101430,2025-08-09,CHE001,Chennai,South,In-store,Member,Stationery,Pen Pack,1,39,39,10,3.9,35.1,14,21.1,Credit/Debit Card
+MDIY100005,2025-08-09,BLR001,Bengaluru,South,In-store,Non-Member,Home Improvement,LED Bulb,1,99,99,0,0.0,99.0,45,54.0,UPI
+MDIY100213,2025-08-09,BHO001,Bhopal,Central,Online,Non-Member,Stationery,Notebook,1,49,49,5,2.45,46.55,18,28.55,Credit/Debit Card
+MDIY100081,2025-08-10,AHM001,Ahmedabad,West,In-store,Non-Member,Toys,Puzzle Set,3,199,597,20,119.4,477.6,225,252.6,UPI
+MDIY100506,2025-08-10,HYD001,Hyderabad,South,In-store,Member,Electrical,Night Lamp,4,199,796,0,0.0,796.0,312,484.0,Cash
+MDIY100670,2025-08-11,JAI001,Jaipur,North,In-store,Non-Member,Electrical,Power Strip,3,399,1197,10,119.7,1077.3,495,582.3,Wallet
+MDIY101200,2025-08-11,DEL001,Delhi,North,Online,Non-Member,Stationery,Pen Pack,1,39,39,10,3.9,35.1,14,21.1,Credit/Debit Card
+MDIY100270,2025-08-12,KOL001,Kolkata,East,Online,Non-Member,Toys,Puzzle Set,1,199,199,10,19.9,179.1,75,104.1,Wallet
+MDIY101400,2025-08-12,HYD001,Hyderabad,South,In-store,Non-Member,Stationery,Notebook,5,49,245,5,12.25,232.75,90,142.75,Cash
+MDIY101178,2025-08-12,AHM001,Ahmedabad,West,In-store,Member,Household,Microfiber Cloth,3,79,237,10,23.7,213.3,90,123.3,Credit/Debit Card
+MDIY100952,2025-08-13,DEL001,Delhi,North,In-store,Non-Member,Fashion Accessories,Wallet,3,199,597,5,29.85,567.15,225,342.15,Credit/Debit Card
+MDIY100558,2025-08-14,PUN001,Pune,West,In-store,Non-Member,Home Improvement,Measuring Tape,2,89,178,5,8.9,169.1,70,99.1,Credit/Debit Card
+MDIY100997,2025-08-14,LKO001,Lucknow,North,In-store,Non-Member,Kitchenware,Lunch Box,3,249,747,0,0.0,747.0,300,447.0,Credit/Debit Card
+MDIY100421,2025-08-16,BLR001,Bengaluru,South,In-store,Non-Member,Household,Cleaning Brush,2,59,118,15,17.7,100.3,44,56.3,Wallet
+MDIY100595,2025-08-16,CHE001,Chennai,South,In-store,Member,Stationery,Scissors,1,69,69,0,0.0,69.0,25,44.0,Wallet
+MDIY100619,2025-08-16,AHM001,Ahmedabad,West,Online,Non-Member,Fashion Accessories,Wallet,3,199,597,0,0.0,597.0,225,372.0,Wallet
+MDIY100175,2025-08-18,DEL001,Delhi,North,In-store,Member,Stationery,Notebook,4,49,196,10,19.6,176.4,72,104.4,UPI
+MDIY100834,2025-08-18,AHM001,Ahmedabad,West,In-store,Non-Member,Household,Laundry Basket,5,249,1245,10,124.5,1120.5,525,595.5,Wallet
+MDIY100067,2025-08-18,IND001,Indore,Central,In-store,Member,Home Improvement,LED Bulb,3,99,297,20,59.4,237.6,135,102.6,Cash
+MDIY101299,2025-08-18,MUM001,Mumbai,West,In-store,Member,Toys,Toy Car,2,99,198,5,9.9,188.1,76,112.1,Credit/Debit Card
+MDIY100936,2025-08-18,DEL001,Delhi,North,In-store,Non-Member,Stationery,Scissors,2,69,138,0,0.0,138.0,50,88.0,UPI
+MDIY101462,2025-08-19,PUN001,Pune,West,In-store,Member,Household,Laundry Basket,1,249,249,5,12.45,236.55,105,131.55,Cash
+MDIY100203,2025-08-19,BLR001,Bengaluru,South,In-store,Non-Member,Electrical,Mobile Holder,4,99,396,0,0.0,396.0,140,256.0,Cash
+MDIY101441,2025-08-19,CHE001,Chennai,South,In-store,Member,Toys,Doll,1,249,249,15,37.35,211.65,100,111.65,Wallet
+MDIY100314,2025-08-19,KOL001,Kolkata,East,In-store,Non-Member,Stationery,Pen Pack,3,39,117,5,5.85,111.15,42,69.15,UPI
+MDIY100525,2025-08-20,BHO001,Bhopal,Central,In-store,Non-Member,Household,Microfiber Cloth,5,79,395,5,19.75,375.25,150,225.25,UPI
+MDIY101221,2025-08-20,LKO001,Lucknow,North,In-store,Member,Stationery,Marker Set,3,99,297,0,0.0,297.0,120,177.0,Cash
+MDIY100167,2025-08-20,JAI001,Jaipur,North,In-store,Member,Household,Storage Box,1,199,199,10,19.9,179.1,80,99.1,Credit/Debit Card
+MDIY101396,2025-08-20,MUM001,Mumbai,West,In-store,Non-Member,Stationery,Pen Pack,1,39,39,0,0.0,39.0,14,25.0,UPI
+MDIY101217,2025-08-20,JAI001,Jaipur,North,In-store,Member,Home Improvement,Screwdriver Set,3,249,747,10,74.7,672.3,330,342.3,UPI
+MDIY101147,2025-08-21,CHE001,Chennai,South,Online,Member,Household,Cleaning Brush,6,59,354,5,17.7,336.3,132,204.3,Cash
+MDIY100972,2025-08-22,MUM001,Mumbai,West,In-store,Non-Member,Fashion Accessories,Wallet,2,199,398,5,19.9,378.1,150,228.1,Wallet
+MDIY101237,2025-08-22,KOL001,Kolkata,East,In-store,Non-Member,Electrical,Phone Cable,3,149,447,10,44.7,402.3,165,237.3,Wallet
+MDIY100551,2025-08-23,MUM001,Mumbai,West,In-store,Member,Fashion Accessories,Sunglasses,2,149,298,0,0.0,298.0,110,188.0,UPI
+MDIY101008,2025-08-23,AHM001,Ahmedabad,West,Online,Member,Stationery,Marker Set,1,99,99,5,4.95,94.05,40,54.05,Cash
+MDIY100532,2025-08-23,MUM001,Mumbai,West,In-store,Member,Kitchenware,Lunch Box,4,249,996,0,0.0,996.0,400,596.0,UPI
+MDIY101414,2025-08-24,JAI001,Jaipur,North,In-store,Non-Member,Toys,Toy Car,1,99,99,0,0.0,99.0,38,61.0,Cash
+MDIY101498,2025-08-24,IND001,Indore,Central,In-store,Member,Household,Laundry Basket,1,249,249,5,12.45,236.55,105,131.55,Credit/Debit Card
+MDIY101354,2025-08-24,IND001,Indore,Central,In-store,Non-Member,Kitchenware,Lunch Box,1,249,249,10,24.9,224.1,100,124.1,Wallet
+MDIY100725,2025-08-24,LKO001,Lucknow,North,In-store,Non-Member,Stationery,Pen Pack,1,39,39,10,3.9,35.1,14,21.1,Cash
+MDIY101190,2025-08-25,LKO001,Lucknow,North,In-store,Non-Member,Fashion Accessories,Wallet,2,199,398,10,39.8,358.2,150,208.2,Cash
+MDIY101271,2025-08-26,LKO001,Lucknow,North,In-store,Member,Fashion Accessories,Hair Clips Set,2,49,98,10,9.8,88.2,34,54.2,Cash
+MDIY100662,2025-08-26,MUM001,Mumbai,West,In-store,Non-Member,Household,Kitchen Organizer,1,349,349,0,0.0,349.0,145,204.0,Credit/Debit Card
+MDIY101043,2025-08-27,MUM001,Mumbai,West,In-store,Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,UPI
+MDIY100255,2025-08-28,AHM001,Ahmedabad,West,In-store,Member,Electrical,Mobile Holder,2,99,198,10,19.8,178.2,70,108.2,Credit/Debit Card
+MDIY100090,2025-08-28,PUN001,Pune,West,In-store,Member,Kitchenware,Food Container Set,3,299,897,15,134.55,762.45,360,402.45,Cash
+MDIY100801,2025-08-29,IND001,Indore,Central,In-store,Member,Stationery,File Folder,1,35,35,10,3.5,31.5,12,19.5,Credit/Debit Card
+MDIY100549,2025-08-29,IND001,Indore,Central,In-store,Non-Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,UPI
+MDIY100674,2025-08-29,CHE001,Chennai,South,In-store,Non-Member,Fashion Accessories,Keychain,2,39,78,0,0.0,78.0,24,54.0,Wallet
+MDIY100540,2025-08-30,KOL001,Kolkata,East,In-store,Non-Member,Toys,Doll,1,249,249,10,24.9,224.1,100,124.1,UPI
+MDIY100373,2025-08-31,BHO001,Bhopal,Central,In-store,Member,Stationery,Marker Set,5,99,495,0,0.0,495.0,200,295.0,Cash
+MDIY100199,2025-08-31,HYD001,Hyderabad,South,In-store,Member,Home Improvement,Adhesive Tape,2,49,98,0,0.0,98.0,36,62.0,UPI
+MDIY100949,2025-09-01,KOL001,Kolkata,East,In-store,Member,Kitchenware,Food Container Set,4,299,1196,5,59.8,1136.2,480,656.2,Cash
+MDIY100178,2025-09-01,PUN001,Pune,West,In-store,Member,Home Improvement,LED Bulb,1,99,99,10,9.9,89.1,45,44.1,UPI
+MDIY100068,2025-09-02,JAI001,Jaipur,North,In-store,Non-Member,Toys,Building Blocks,2,299,598,0,0.0,598.0,250,348.0,Cash
+MDIY100105,2025-09-02,BHO001,Bhopal,Central,In-store,Non-Member,Toys,Toy Car,4,99,396,5,19.8,376.2,152,224.2,Wallet
+MDIY101231,2025-09-02,LKO001,Lucknow,North,In-store,Non-Member,Electrical,Power Strip,1,399,399,15,59.85,339.15,165,174.15,Wallet
+MDIY100822,2025-09-03,PUN001,Pune,West,In-store,Member,Electrical,Night Lamp,1,199,199,20,39.8,159.2,78,81.2,Cash
+MDIY100273,2025-09-04,MUM001,Mumbai,West,In-store,Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,Credit/Debit Card
+MDIY100210,2025-09-05,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,Adhesive Tape,2,49,98,0,0.0,98.0,36,62.0,Wallet
+MDIY101187,2025-09-05,DEL001,Delhi,North,In-store,Non-Member,Toys,Building Blocks,1,299,299,0,0.0,299.0,125,174.0,Credit/Debit Card
+MDIY101318,2025-09-06,BLR001,Bengaluru,South,In-store,Non-Member,Household,Microfiber Cloth,1,79,79,20,15.8,63.2,30,33.2,Wallet
+MDIY100075,2025-09-07,HYD001,Hyderabad,South,In-store,Non-Member,Electrical,Battery Pack,3,79,237,0,0.0,237.0,84,153.0,Cash
+MDIY100035,2025-09-08,BLR001,Bengaluru,South,In-store,Member,Stationery,Pen Pack,2,39,78,5,3.9,74.1,28,46.1,Credit/Debit Card
+MDIY100343,2025-09-08,LKO001,Lucknow,North,In-store,Member,Toys,Building Blocks,2,299,598,5,29.9,568.1,250,318.1,UPI
+MDIY101165,2025-09-08,AHM001,Ahmedabad,West,In-store,Member,Kitchenware,Food Container Set,1,299,299,15,44.85,254.15,120,134.15,Wallet
+MDIY100335,2025-09-11,PUN001,Pune,West,In-store,Non-Member,Fashion Accessories,Hair Clips Set,1,49,49,5,2.45,46.55,17,29.55,UPI
+MDIY100608,2025-09-11,KOL001,Kolkata,East,In-store,Non-Member,Stationery,Marker Set,2,99,198,10,19.8,178.2,80,98.2,Credit/Debit Card
+MDIY101260,2025-09-11,MUM001,Mumbai,West,In-store,Member,Home Improvement,Measuring Tape,1,89,89,5,4.45,84.55,35,49.55,Credit/Debit Card
+MDIY101424,2025-09-12,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,Extension Cord,1,299,299,10,29.9,269.1,125,144.1,Credit/Debit Card
+MDIY101126,2025-09-12,LKO001,Lucknow,North,In-store,Member,Stationery,Pen Pack,5,39,195,5,9.75,185.25,70,115.25,UPI
+MDIY100211,2025-09-12,JAI001,Jaipur,North,In-store,Member,Kitchenware,Mug,5,99,495,10,49.5,445.5,175,270.5,Wallet
+MDIY100086,2025-09-12,LKO001,Lucknow,North,In-store,Non-Member,Electrical,Night Lamp,2,199,398,10,39.8,358.2,156,202.2,Wallet
+MDIY101291,2025-09-13,DEL001,Delhi,North,In-store,Non-Member,Home Improvement,LED Bulb,1,99,99,0,0.0,99.0,45,54.0,Cash
+MDIY101304,2025-09-13,KOL001,Kolkata,East,In-store,Non-Member,Stationery,Marker Set,2,99,198,0,0.0,198.0,80,118.0,Credit/Debit Card
+MDIY100939,2025-09-14,MUM001,Mumbai,West,In-store,Non-Member,Home Improvement,Measuring Tape,1,89,89,0,0.0,89.0,35,54.0,Cash
+MDIY100182,2025-09-17,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Adhesive Tape,3,49,147,0,0.0,147.0,54,93.0,Credit/Debit Card
+MDIY100861,2025-09-18,BHO001,Bhopal,Central,In-store,Member,Home Improvement,Extension Cord,1,299,299,10,29.9,269.1,125,144.1,Wallet
+MDIY100643,2025-09-18,LKO001,Lucknow,North,In-store,Non-Member,Stationery,Marker Set,2,99,198,0,0.0,198.0,80,118.0,Credit/Debit Card
+MDIY101021,2025-09-18,MUM001,Mumbai,West,In-store,Member,Electrical,Battery Pack,5,79,395,15,59.25,335.75,140,195.75,Wallet
+MDIY101435,2025-09-19,CHE001,Chennai,South,In-store,Non-Member,Home Improvement,Extension Cord,5,299,1495,10,149.5,1345.5,625,720.5,UPI
+MDIY100260,2025-09-19,MUM001,Mumbai,West,In-store,Member,Stationery,Notebook,5,49,245,15,36.75,208.25,90,118.25,UPI
+MDIY100813,2025-09-20,IND001,Indore,Central,In-store,Member,Electrical,Phone Cable,2,149,298,0,0.0,298.0,110,188.0,Credit/Debit Card
+MDIY100590,2025-09-20,PUN001,Pune,West,In-store,Non-Member,Home Improvement,Extension Cord,2,299,598,15,89.7,508.3,250,258.3,Wallet
+MDIY100177,2025-09-20,MUM001,Mumbai,West,In-store,Member,Kitchenware,Lunch Box,2,249,498,10,49.8,448.2,200,248.2,Credit/Debit Card
+MDIY101041,2025-09-21,IND001,Indore,Central,In-store,Non-Member,Toys,Building Blocks,3,299,897,15,134.55,762.45,375,387.45,UPI
+MDIY101428,2025-09-21,AHM001,Ahmedabad,West,In-store,Member,Fashion Accessories,Hair Clips Set,4,49,196,5,9.8,186.2,68,118.2,Credit/Debit Card
+MDIY100686,2025-09-21,DEL001,Delhi,North,In-store,Non-Member,Fashion Accessories,Hair Clips Set,2,49,98,15,14.7,83.3,34,49.3,Credit/Debit Card
+MDIY101308,2025-09-22,PUN001,Pune,West,In-store,Member,Stationery,Scissors,1,69,69,10,6.9,62.1,25,37.1,Cash
+MDIY100505,2025-09-22,JAI001,Jaipur,North,In-store,Non-Member,Electrical,Night Lamp,2,199,398,5,19.9,378.1,156,222.1,UPI
+MDIY101218,2025-09-23,DEL001,Delhi,North,In-store,Non-Member,Home Improvement,LED Bulb,5,99,495,0,0.0,495.0,225,270.0,Credit/Debit Card
+MDIY100845,2025-09-24,JAI001,Jaipur,North,Online,Member,Fashion Accessories,Travel Pouch,2,129,258,20,51.6,206.4,96,110.4,Wallet
+MDIY100046,2025-09-25,JAI001,Jaipur,North,In-store,Non-Member,Electrical,Mobile Holder,1,99,99,5,4.95,94.05,35,59.05,Wallet
+MDIY100266,2025-09-25,KOL001,Kolkata,East,In-store,Member,Electrical,Battery Pack,3,79,237,0,0.0,237.0,84,153.0,Wallet
+MDIY100826,2025-09-25,KOL001,Kolkata,East,In-store,Non-Member,Home Improvement,Adhesive Tape,2,49,98,10,9.8,88.2,36,52.2,Wallet
+MDIY100596,2025-09-26,LKO001,Lucknow,North,In-store,Non-Member,Toys,Soft Toy,2,199,398,10,39.8,358.2,164,194.2,Cash
+MDIY101376,2025-09-27,BHO001,Bhopal,Central,In-store,Non-Member,Home Improvement,Screwdriver Set,3,249,747,5,37.35,709.65,330,379.65,Credit/Debit Card
+MDIY100317,2025-09-27,BLR001,Bengaluru,South,In-store,Member,Kitchenware,Water Bottle,2,149,298,20,59.6,238.4,110,128.4,Cash
+MDIY100436,2025-09-27,KOL001,Kolkata,East,In-store,Non-Member,Household,Cleaning Brush,3,59,177,0,0.0,177.0,66,111.0,Cash
+MDIY100520,2025-09-27,MUM001,Mumbai,West,Online,Non-Member,Stationery,Notebook,2,49,98,10,9.8,88.2,36,52.2,Credit/Debit Card
+MDIY100700,2025-09-29,JAI001,Jaipur,North,In-store,Member,Toys,Building Blocks,2,299,598,15,89.7,508.3,250,258.3,Wallet
+MDIY101243,2025-09-29,IND001,Indore,Central,Online,Non-Member,Stationery,Marker Set,2,99,198,5,9.9,188.1,80,108.1,Cash
+MDIY100033,2025-09-29,CHE001,Chennai,South,Online,Member,Household,Cleaning Brush,2,59,118,15,17.7,100.3,44,56.3,Wallet
+MDIY100091,2025-09-30,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,LED Bulb,1,99,99,0,0.0,99.0,45,54.0,Wallet
+MDIY100885,2025-09-30,BLR001,Bengaluru,South,In-store,Non-Member,Fashion Accessories,Travel Pouch,1,129,129,10,12.9,116.1,48,68.1,Cash
+MDIY101094,2025-09-30,LKO001,Lucknow,North,In-store,Non-Member,Toys,Doll,2,249,498,10,49.8,448.2,200,248.2,Wallet
+MDIY101391,2025-10-01,LKO001,Lucknow,North,In-store,Non-Member,Household,Microfiber Cloth,1,79,79,5,3.95,75.05,30,45.05,Cash
+MDIY100099,2025-10-01,KOL001,Kolkata,East,In-store,Member,Household,Cleaning Brush,2,59,118,10,11.8,106.2,44,62.2,Cash
+MDIY100043,2025-10-01,JAI001,Jaipur,North,In-store,Member,Kitchenware,Water Bottle,2,149,298,0,0.0,298.0,110,188.0,Wallet
+MDIY100261,2025-10-02,CHE001,Chennai,South,In-store,Member,Fashion Accessories,Keychain,2,39,78,15,11.7,66.3,24,42.3,Wallet
+MDIY101348,2025-10-02,HYD001,Hyderabad,South,In-store,Non-Member,Fashion Accessories,Wallet,1,199,199,10,19.9,179.1,75,104.1,Cash
+MDIY100963,2025-10-02,BHO001,Bhopal,Central,Online,Non-Member,Toys,Soft Toy,2,199,398,0,0.0,398.0,164,234.0,Cash
+MDIY100094,2025-10-03,BHO001,Bhopal,Central,Online,Member,Home Improvement,Screwdriver Set,2,249,498,10,49.8,448.2,220,228.2,Wallet
+MDIY101116,2025-10-04,DEL001,Delhi,North,In-store,Non-Member,Fashion Accessories,Wallet,6,199,1194,0,0.0,1194.0,450,744.0,Credit/Debit Card
+MDIY100370,2025-10-04,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,Adhesive Tape,2,49,98,0,0.0,98.0,36,62.0,UPI
+MDIY101240,2025-10-04,IND001,Indore,Central,In-store,Member,Electrical,Power Strip,1,399,399,5,19.95,379.05,165,214.05,Credit/Debit Card
+MDIY101150,2025-10-04,LKO001,Lucknow,North,In-store,Member,Home Improvement,LED Bulb,1,99,99,10,9.9,89.1,45,44.1,Credit/Debit Card
+MDIY100771,2025-10-05,IND001,Indore,Central,In-store,Member,Fashion Accessories,Sunglasses,1,149,149,5,7.45,141.55,55,86.55,Cash
+MDIY100442,2025-10-06,CHE001,Chennai,South,In-store,Member,Fashion Accessories,Travel Pouch,3,129,387,10,38.7,348.3,144,204.3,Cash
+MDIY100346,2025-10-06,KOL001,Kolkata,East,In-store,Non-Member,Home Improvement,Adhesive Tape,3,49,147,5,7.35,139.65,54,85.65,Credit/Debit Card
+MDIY100560,2025-10-06,AHM001,Ahmedabad,West,In-store,Member,Electrical,Night Lamp,1,199,199,0,0.0,199.0,78,121.0,Cash
+MDIY100148,2025-10-07,MUM001,Mumbai,West,In-store,Non-Member,Kitchenware,Food Container Set,1,299,299,5,14.95,284.05,120,164.05,Credit/Debit Card
+MDIY100967,2025-10-07,CHE001,Chennai,South,In-store,Member,Home Improvement,Screwdriver Set,2,249,498,0,0.0,498.0,220,278.0,Credit/Debit Card
+MDIY101431,2025-10-07,DEL001,Delhi,North,In-store,Non-Member,Toys,Toy Car,1,99,99,5,4.95,94.05,38,56.05,Wallet
+MDIY100459,2025-10-08,CHE001,Chennai,South,In-store,Non-Member,Stationery,Marker Set,2,99,198,0,0.0,198.0,80,118.0,Credit/Debit Card
+MDIY101374,2025-10-09,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Peeler,2,49,98,0,0.0,98.0,34,64.0,Credit/Debit Card
+MDIY100983,2025-10-10,MUM001,Mumbai,West,In-store,Member,Home Improvement,Screwdriver Set,2,249,498,15,74.7,423.3,220,203.3,Credit/Debit Card
+MDIY100103,2025-10-10,CHE001,Chennai,South,In-store,Non-Member,Stationery,File Folder,1,35,35,0,0.0,35.0,12,23.0,Cash
+MDIY100131,2025-10-11,JAI001,Jaipur,North,In-store,Member,Household,Kitchen Organizer,1,349,349,0,0.0,349.0,145,204.0,Cash
+MDIY101029,2025-10-11,LKO001,Lucknow,North,In-store,Member,Stationery,Notebook,2,49,98,5,4.9,93.1,36,57.1,UPI
+MDIY100321,2025-10-11,IND001,Indore,Central,In-store,Non-Member,Household,Laundry Basket,1,249,249,10,24.9,224.1,105,119.1,Wallet
+MDIY101007,2025-10-12,BLR001,Bengaluru,South,In-store,Non-Member,Fashion Accessories,Hair Clips Set,2,49,98,20,19.6,78.4,34,44.4,UPI
+MDIY101381,2025-10-12,AHM001,Ahmedabad,West,In-store,Member,Household,Microfiber Cloth,2,79,158,5,7.9,150.1,60,90.1,Wallet
+MDIY100932,2025-10-12,BHO001,Bhopal,Central,In-store,Member,Electrical,Night Lamp,1,199,199,0,0.0,199.0,78,121.0,UPI
+MDIY100008,2025-10-12,HYD001,Hyderabad,South,In-store,Member,Fashion Accessories,Sunglasses,1,149,149,0,0.0,149.0,55,94.0,Cash
+MDIY101332,2025-10-13,JAI001,Jaipur,North,In-store,Member,Home Improvement,Screwdriver Set,2,249,498,5,24.9,473.1,220,253.1,Cash
+MDIY100790,2025-10-13,AHM001,Ahmedabad,West,In-store,Non-Member,Kitchenware,Food Container Set,2,299,598,10,59.8,538.2,240,298.2,Credit/Debit Card
+MDIY101169,2025-10-13,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,Extension Cord,1,299,299,5,14.95,284.05,125,159.05,UPI
+MDIY100045,2025-10-13,BLR001,Bengaluru,South,In-store,Member,Fashion Accessories,Keychain,2,39,78,20,15.6,62.4,24,38.4,UPI
+MDIY100026,2025-10-13,HYD001,Hyderabad,South,In-store,Member,Household,Storage Box,2,199,398,15,59.7,338.3,160,178.3,UPI
+MDIY101098,2025-10-15,LKO001,Lucknow,North,In-store,Member,Kitchenware,Mug,6,99,594,0,0.0,594.0,210,384.0,Wallet
+MDIY100931,2025-10-15,HYD001,Hyderabad,South,In-store,Non-Member,Fashion Accessories,Keychain,1,39,39,0,0.0,39.0,12,27.0,UPI
+MDIY100171,2025-10-16,CHE001,Chennai,South,In-store,Member,Electrical,Battery Pack,2,79,158,0,0.0,158.0,56,102.0,Credit/Debit Card
+MDIY101412,2025-10-17,IND001,Indore,Central,In-store,Member,Fashion Accessories,Travel Pouch,2,129,258,5,12.9,245.1,96,149.1,Cash
+MDIY101340,2025-10-17,JAI001,Jaipur,North,In-store,Member,Household,Storage Box,5,199,995,15,149.25,845.75,400,445.75,Wallet
+MDIY100843,2025-10-17,PUN001,Pune,West,In-store,Non-Member,Electrical,Mobile Holder,2,99,198,5,9.9,188.1,70,118.1,Cash
+MDIY101491,2025-10-17,BHO001,Bhopal,Central,Online,Member,Stationery,Notebook,3,49,147,5,7.35,139.65,54,85.65,Cash
+MDIY101248,2025-10-18,KOL001,Kolkata,East,In-store,Member,Fashion Accessories,Keychain,1,39,39,0,0.0,39.0,12,27.0,Wallet
+MDIY100513,2025-10-18,BHO001,Bhopal,Central,In-store,Member,Electrical,Night Lamp,1,199,199,0,0.0,199.0,78,121.0,UPI
+MDIY100053,2025-10-18,KOL001,Kolkata,East,In-store,Non-Member,Fashion Accessories,Keychain,1,39,39,10,3.9,35.1,12,23.1,Cash
+MDIY101093,2025-10-19,DEL001,Delhi,North,In-store,Member,Household,Microfiber Cloth,2,79,158,0,0.0,158.0,60,98.0,Wallet
+MDIY100749,2025-10-19,HYD001,Hyderabad,South,In-store,Member,Household,Kitchen Organizer,5,349,1745,10,174.5,1570.5,725,845.5,Cash
+MDIY100799,2025-10-19,BLR001,Bengaluru,South,In-store,Member,Home Improvement,LED Bulb,2,99,198,0,0.0,198.0,90,108.0,Credit/Debit Card
+MDIY100410,2025-10-19,DEL001,Delhi,North,Online,Member,Toys,Building Blocks,1,299,299,5,14.95,284.05,125,159.05,Cash
+MDIY100914,2025-10-20,JAI001,Jaipur,North,Online,Member,Household,Cleaning Brush,3,59,177,0,0.0,177.0,66,111.0,UPI
+MDIY101321,2025-10-21,BLR001,Bengaluru,South,Online,Non-Member,Stationery,Notebook,1,49,49,5,2.45,46.55,18,28.55,Cash
+MDIY100176,2025-10-21,HYD001,Hyderabad,South,In-store,Member,Fashion Accessories,Wallet,3,199,597,5,29.85,567.15,225,342.15,UPI
+MDIY100117,2025-10-21,MUM001,Mumbai,West,In-store,Member,Electrical,Mobile Holder,1,99,99,0,0.0,99.0,35,64.0,UPI
+MDIY100248,2025-10-21,CHE001,Chennai,South,In-store,Non-Member,Household,Laundry Basket,3,249,747,20,149.4,597.6,315,282.6,Credit/Debit Card
+MDIY100806,2025-10-22,PUN001,Pune,West,In-store,Member,Home Improvement,Adhesive Tape,6,49,294,5,14.7,279.3,108,171.3,UPI
+MDIY100233,2025-10-22,BLR001,Bengaluru,South,In-store,Member,Stationery,Notebook,4,49,196,0,0.0,196.0,72,124.0,Cash
+MDIY101442,2025-10-23,DEL001,Delhi,North,In-store,Member,Electrical,Mobile Holder,3,99,297,10,29.7,267.3,105,162.3,Wallet
+MDIY100744,2025-10-23,LKO001,Lucknow,North,In-store,Member,Home Improvement,Screwdriver Set,1,249,249,10,24.9,224.1,110,114.1,UPI
+MDIY100150,2025-10-24,BLR001,Bengaluru,South,In-store,Member,Home Improvement,LED Bulb,2,99,198,5,9.9,188.1,90,98.1,Credit/Debit Card
+MDIY101352,2025-10-25,JAI001,Jaipur,North,In-store,Member,Stationery,Marker Set,2,99,198,5,9.9,188.1,80,108.1,UPI
+MDIY101086,2025-10-25,PUN001,Pune,West,In-store,Non-Member,Toys,Puzzle Set,1,199,199,0,0.0,199.0,75,124.0,Cash
+MDIY101314,2025-10-25,JAI001,Jaipur,North,In-store,Non-Member,Electrical,Power Strip,1,399,399,0,0.0,399.0,165,234.0,Cash
+MDIY100486,2025-10-25,IND001,Indore,Central,In-store,Non-Member,Home Improvement,Adhesive Tape,1,49,49,10,4.9,44.1,18,26.1,Credit/Debit Card
+MDIY101049,2025-10-26,AHM001,Ahmedabad,West,In-store,Member,Toys,Building Blocks,6,299,1794,0,0.0,1794.0,750,1044.0,Cash
+MDIY101343,2025-10-27,IND001,Indore,Central,In-store,Non-Member,Toys,Doll,3,249,747,0,0.0,747.0,300,447.0,Credit/Debit Card
+MDIY101292,2025-10-27,JAI001,Jaipur,North,In-store,Non-Member,Electrical,Night Lamp,2,199,398,0,0.0,398.0,156,242.0,Cash
+MDIY100015,2025-10-28,CHE001,Chennai,South,In-store,Member,Household,Microfiber Cloth,1,79,79,10,7.9,71.1,30,41.1,UPI
+MDIY101447,2025-10-28,LKO001,Lucknow,North,In-store,Non-Member,Home Improvement,Screwdriver Set,2,249,498,5,24.9,473.1,220,253.1,Cash
+MDIY101206,2025-10-28,BHO001,Bhopal,Central,In-store,Non-Member,Kitchenware,Food Container Set,1,299,299,0,0.0,299.0,120,179.0,Wallet
+MDIY100875,2025-10-28,AHM001,Ahmedabad,West,In-store,Non-Member,Fashion Accessories,Travel Pouch,5,129,645,15,96.75,548.25,240,308.25,Wallet
+MDIY100745,2025-10-28,CHE001,Chennai,South,In-store,Member,Fashion Accessories,Keychain,5,39,195,5,9.75,185.25,60,125.25,Credit/Debit Card
+MDIY100904,2025-10-29,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,Screwdriver Set,1,249,249,5,12.45,236.55,110,126.55,Credit/Debit Card
+MDIY100119,2025-10-30,BLR001,Bengaluru,South,In-store,Non-Member,Fashion Accessories,Travel Pouch,1,129,129,0,0.0,129.0,48,81.0,Credit/Debit Card
+MDIY100301,2025-10-30,CHE001,Chennai,South,In-store,Non-Member,Home Improvement,LED Bulb,4,99,396,10,39.6,356.4,180,176.4,Wallet
+MDIY100241,2025-10-30,BLR001,Bengaluru,South,In-store,Non-Member,Electrical,Phone Cable,1,149,149,0,0.0,149.0,55,94.0,Wallet
+MDIY101455,2025-10-30,AHM001,Ahmedabad,West,In-store,Member,Toys,Puzzle Set,3,199,597,10,59.7,537.3,225,312.3,Cash
+MDIY100737,2025-10-31,CHE001,Chennai,South,In-store,Member,Kitchenware,Mug,3,99,297,5,14.85,282.15,105,177.15,UPI
+MDIY100985,2025-11-01,CHE001,Chennai,South,In-store,Non-Member,Electrical,Phone Cable,2,149,298,0,0.0,298.0,110,188.0,Wallet
+MDIY101173,2025-11-01,JAI001,Jaipur,North,In-store,Member,Household,Cleaning Brush,5,59,295,5,14.75,280.25,110,170.25,Wallet
+MDIY100896,2025-11-02,BHO001,Bhopal,Central,In-store,Member,Fashion Accessories,Hair Clips Set,2,49,98,20,19.6,78.4,34,44.4,Credit/Debit Card
+MDIY100251,2025-11-02,HYD001,Hyderabad,South,In-store,Non-Member,Fashion Accessories,Keychain,2,39,78,0,0.0,78.0,24,54.0,Credit/Debit Card
+MDIY100482,2025-11-02,IND001,Indore,Central,In-store,Member,Kitchenware,Mug,5,99,495,0,0.0,495.0,175,320.0,UPI
+MDIY100897,2025-11-03,PUN001,Pune,West,In-store,Member,Fashion Accessories,Keychain,3,39,117,10,11.7,105.3,36,69.3,UPI
+MDIY100279,2025-11-03,JAI001,Jaipur,North,In-store,Non-Member,Electrical,Phone Cable,2,149,298,15,44.7,253.3,110,143.3,Wallet
+MDIY100395,2025-11-03,LKO001,Lucknow,North,In-store,Member,Toys,Building Blocks,2,299,598,15,89.7,508.3,250,258.3,UPI
+MDIY100289,2025-11-03,HYD001,Hyderabad,South,In-store,Non-Member,Kitchenware,Water Bottle,1,149,149,20,29.8,119.2,55,64.2,Cash
+MDIY100303,2025-11-04,DEL001,Delhi,North,In-store,Member,Kitchenware,Water Bottle,1,149,149,0,0.0,149.0,55,94.0,Cash
+MDIY100542,2025-11-04,PUN001,Pune,West,In-store,Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,Credit/Debit Card
+MDIY101066,2025-11-04,DEL001,Delhi,North,In-store,Non-Member,Electrical,Mobile Holder,2,99,198,5,9.9,188.1,70,118.1,Credit/Debit Card
+MDIY100588,2025-11-04,MUM001,Mumbai,West,In-store,Non-Member,Household,Cleaning Brush,1,59,59,15,8.85,50.15,22,28.15,Cash
+MDIY100404,2025-11-04,AHM001,Ahmedabad,West,In-store,Member,Toys,Puzzle Set,1,199,199,5,9.95,189.05,75,114.05,Wallet
+MDIY101239,2025-11-05,AHM001,Ahmedabad,West,Online,Non-Member,Stationery,File Folder,3,35,105,15,15.75,89.25,36,53.25,UPI
+MDIY100868,2025-11-05,HYD001,Hyderabad,South,Online,Non-Member,Household,Microfiber Cloth,2,79,158,0,0.0,158.0,60,98.0,Wallet
+MDIY100071,2025-11-05,IND001,Indore,Central,In-store,Non-Member,Electrical,Power Strip,3,399,1197,5,59.85,1137.15,495,642.15,Credit/Debit Card
+MDIY101001,2025-11-05,BHO001,Bhopal,Central,Online,Member,Toys,Building Blocks,3,299,897,10,89.7,807.3,375,432.3,Credit/Debit Card
+MDIY100892,2025-11-05,LKO001,Lucknow,North,In-store,Member,Home Improvement,Extension Cord,1,299,299,10,29.9,269.1,125,144.1,Credit/Debit Card
+MDIY100336,2025-11-05,MUM001,Mumbai,West,In-store,Member,Electrical,Battery Pack,2,79,158,10,15.8,142.2,56,86.2,Cash
+MDIY100808,2025-11-06,KOL001,Kolkata,East,In-store,Non-Member,Kitchenware,Mug,2,99,198,5,9.9,188.1,70,118.1,Credit/Debit Card
+MDIY101023,2025-11-06,KOL001,Kolkata,East,In-store,Member,Electrical,Night Lamp,2,199,398,10,39.8,358.2,156,202.2,UPI
+MDIY100555,2025-11-07,DEL001,Delhi,North,In-store,Non-Member,Home Improvement,Extension Cord,3,299,897,15,134.55,762.45,375,387.45,UPI
+MDIY101012,2025-11-07,PUN001,Pune,West,In-store,Non-Member,Electrical,Night Lamp,5,199,995,0,0.0,995.0,390,605.0,UPI
+MDIY101478,2025-11-07,BLR001,Bengaluru,South,In-store,Non-Member,Household,Cleaning Brush,1,59,59,0,0.0,59.0,22,37.0,Credit/Debit Card
+MDIY100865,2025-11-07,BHO001,Bhopal,Central,In-store,Non-Member,Kitchenware,Food Container Set,1,299,299,10,29.9,269.1,120,149.1,Credit/Debit Card
+MDIY101429,2025-11-07,BHO001,Bhopal,Central,In-store,Non-Member,Electrical,Battery Pack,4,79,316,0,0.0,316.0,112,204.0,Wallet
+MDIY101087,2025-11-09,IND001,Indore,Central,In-store,Member,Electrical,Power Strip,5,399,1995,15,299.25,1695.75,825,870.75,Credit/Debit Card
+MDIY101080,2025-11-09,IND001,Indore,Central,In-store,Member,Kitchenware,Water Bottle,5,149,745,5,37.25,707.75,275,432.75,UPI
+MDIY100080,2025-11-10,PUN001,Pune,West,In-store,Member,Household,Storage Box,3,199,597,0,0.0,597.0,240,357.0,Cash
+MDIY101128,2025-11-11,BLR001,Bengaluru,South,In-store,Member,Toys,Toy Car,1,99,99,5,4.95,94.05,38,56.05,UPI
+MDIY101475,2025-11-11,KOL001,Kolkata,East,In-store,Member,Stationery,Marker Set,3,99,297,5,14.85,282.15,120,162.15,Cash
+MDIY100360,2025-11-12,HYD001,Hyderabad,South,In-store,Member,Stationery,Notebook,1,49,49,10,4.9,44.1,18,26.1,Cash
+MDIY100246,2025-11-12,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Measuring Tape,1,89,89,0,0.0,89.0,35,54.0,UPI
+MDIY101048,2025-11-13,KOL001,Kolkata,East,In-store,Member,Fashion Accessories,Hair Clips Set,1,49,49,15,7.35,41.65,17,24.65,Wallet
+MDIY100406,2025-11-15,AHM001,Ahmedabad,West,In-store,Member,Electrical,Night Lamp,1,199,199,15,29.85,169.15,78,91.15,Cash
+MDIY100100,2025-11-15,KOL001,Kolkata,East,In-store,Member,Home Improvement,Extension Cord,2,299,598,0,0.0,598.0,250,348.0,Wallet
+MDIY100658,2025-11-15,BHO001,Bhopal,Central,In-store,Member,Stationery,File Folder,2,35,70,0,0.0,70.0,24,46.0,UPI
+MDIY101372,2025-11-16,AHM001,Ahmedabad,West,In-store,Member,Household,Laundry Basket,3,249,747,5,37.35,709.65,315,394.65,Wallet
+MDIY100660,2025-11-16,BLR001,Bengaluru,South,In-store,Non-Member,Kitchenware,Lunch Box,3,249,747,10,74.7,672.3,300,372.3,Cash
+MDIY100292,2025-11-18,JAI001,Jaipur,North,In-store,Member,Toys,Puzzle Set,1,199,199,10,19.9,179.1,75,104.1,Credit/Debit Card
+MDIY100585,2025-11-19,KOL001,Kolkata,East,In-store,Non-Member,Stationery,Marker Set,2,99,198,10,19.8,178.2,80,98.2,Cash
+MDIY101234,2025-11-19,IND001,Indore,Central,In-store,Member,Home Improvement,Screwdriver Set,1,249,249,15,37.35,211.65,110,101.65,Wallet
+MDIY101154,2025-11-19,CHE001,Chennai,South,In-store,Non-Member,Fashion Accessories,Sunglasses,6,149,894,10,89.4,804.6,330,474.6,UPI
+MDIY100692,2025-11-20,KOL001,Kolkata,East,In-store,Non-Member,Fashion Accessories,Hair Clips Set,1,49,49,5,2.45,46.55,17,29.55,Credit/Debit Card
+MDIY100529,2025-11-20,CHE001,Chennai,South,In-store,Non-Member,Stationery,File Folder,2,35,70,10,7.0,63.0,24,39.0,UPI
+MDIY100450,2025-11-20,LKO001,Lucknow,North,In-store,Member,Toys,Building Blocks,1,299,299,5,14.95,284.05,125,159.05,UPI
+MDIY100338,2025-11-21,JAI001,Jaipur,North,In-store,Non-Member,Toys,Soft Toy,2,199,398,5,19.9,378.1,164,214.1,UPI
+MDIY100201,2025-11-21,IND001,Indore,Central,In-store,Member,Home Improvement,Measuring Tape,2,89,178,5,8.9,169.1,70,99.1,Cash
+MDIY100284,2025-11-21,BLR001,Bengaluru,South,In-store,Non-Member,Home Improvement,LED Bulb,1,99,99,0,0.0,99.0,45,54.0,UPI
+MDIY100614,2025-11-22,JAI001,Jaipur,North,In-store,Non-Member,Fashion Accessories,Hair Clips Set,3,49,147,15,22.05,124.95,51,73.95,Credit/Debit Card
+MDIY101003,2025-11-22,IND001,Indore,Central,In-store,Non-Member,Toys,Building Blocks,1,299,299,5,14.95,284.05,125,159.05,Cash
+MDIY100358,2025-11-22,HYD001,Hyderabad,South,In-store,Member,Stationery,Pen Pack,1,39,39,0,0.0,39.0,14,25.0,Cash
+MDIY100471,2025-11-22,KOL001,Kolkata,East,In-store,Non-Member,Household,Laundry Basket,2,249,498,10,49.8,448.2,210,238.2,UPI
+MDIY100209,2025-11-23,AHM001,Ahmedabad,West,In-store,Member,Kitchenware,Mug,6,99,594,0,0.0,594.0,210,384.0,Credit/Debit Card
+MDIY100829,2025-11-24,HYD001,Hyderabad,South,In-store,Non-Member,Toys,Toy Car,1,99,99,10,9.9,89.1,38,51.1,Cash
+MDIY100265,2025-11-24,MUM001,Mumbai,West,In-store,Member,Stationery,Marker Set,2,99,198,5,9.9,188.1,80,108.1,UPI
+MDIY100655,2025-11-25,MUM001,Mumbai,West,In-store,Member,Household,Cleaning Brush,1,59,59,0,0.0,59.0,22,37.0,Credit/Debit Card
+MDIY101488,2025-11-25,HYD001,Hyderabad,South,Online,Non-Member,Household,Microfiber Cloth,1,79,79,0,0.0,79.0,30,49.0,Credit/Debit Card
+MDIY100474,2025-11-25,CHE001,Chennai,South,In-store,Non-Member,Kitchenware,Water Bottle,2,149,298,5,14.9,283.1,110,173.1,Wallet
+MDIY100576,2025-11-25,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Extension Cord,3,299,897,0,0.0,897.0,375,522.0,Credit/Debit Card
+MDIY100741,2025-11-25,BLR001,Bengaluru,South,In-store,Non-Member,Stationery,File Folder,3,35,105,0,0.0,105.0,36,69.0,Wallet
+MDIY101365,2025-11-26,HYD001,Hyderabad,South,Online,Member,Fashion Accessories,Travel Pouch,2,129,258,15,38.7,219.3,96,123.3,UPI
+MDIY101191,2025-11-27,MUM001,Mumbai,West,In-store,Member,Home Improvement,LED Bulb,1,99,99,0,0.0,99.0,45,54.0,UPI
+MDIY100577,2025-11-27,CHE001,Chennai,South,In-store,Member,Fashion Accessories,Sunglasses,1,149,149,5,7.45,141.55,55,86.55,Cash
+MDIY101329,2025-11-27,CHE001,Chennai,South,Online,Member,Stationery,Pen Pack,5,39,195,0,0.0,195.0,70,125.0,Wallet
+MDIY100325,2025-11-27,PUN001,Pune,West,In-store,Non-Member,Stationery,File Folder,2,35,70,5,3.5,66.5,24,42.5,UPI
+MDIY100470,2025-11-27,BHO001,Bhopal,Central,In-store,Non-Member,Home Improvement,Extension Cord,4,299,1196,0,0.0,1196.0,500,696.0,UPI
+MDIY100699,2025-11-28,PUN001,Pune,West,In-store,Member,Household,Storage Box,1,199,199,0,0.0,199.0,80,119.0,Credit/Debit Card
+MDIY101270,2025-11-28,BHO001,Bhopal,Central,In-store,Member,Electrical,Mobile Holder,2,99,198,15,29.7,168.3,70,98.3,Cash
+MDIY100916,2025-11-28,PUN001,Pune,West,In-store,Member,Toys,Building Blocks,1,299,299,0,0.0,299.0,125,174.0,Wallet
+MDIY101476,2025-11-28,JAI001,Jaipur,North,In-store,Member,Household,Microfiber Cloth,3,79,237,15,35.55,201.45,90,111.45,Credit/Debit Card
+MDIY101117,2025-11-29,LKO001,Lucknow,North,Online,Non-Member,Fashion Accessories,Keychain,1,39,39,0,0.0,39.0,12,27.0,Credit/Debit Card
+MDIY100620,2025-11-29,HYD001,Hyderabad,South,In-store,Non-Member,Household,Microfiber Cloth,2,79,158,0,0.0,158.0,60,98.0,Credit/Debit Card
+MDIY100898,2025-12-02,KOL001,Kolkata,East,In-store,Non-Member,Electrical,Phone Cable,4,149,596,0,0.0,596.0,220,376.0,Wallet
+MDIY100960,2025-12-02,MUM001,Mumbai,West,Online,Non-Member,Home Improvement,Adhesive Tape,4,49,196,15,29.4,166.6,72,94.6,Cash
+MDIY100361,2025-12-02,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,Screwdriver Set,5,249,1245,0,0.0,1245.0,550,695.0,Credit/Debit Card
+MDIY100785,2025-12-02,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,Measuring Tape,1,89,89,5,4.45,84.55,35,49.55,Cash
+MDIY100652,2025-12-02,JAI001,Jaipur,North,In-store,Member,Kitchenware,Water Bottle,4,149,596,15,89.4,506.6,220,286.6,Cash
+MDIY101168,2025-12-03,LKO001,Lucknow,North,In-store,Non-Member,Stationery,Marker Set,6,99,594,5,29.7,564.3,240,324.3,UPI
+MDIY100849,2025-12-03,DEL001,Delhi,North,Online,Non-Member,Stationery,Notebook,2,49,98,5,4.9,93.1,36,57.1,Cash
+MDIY100163,2025-12-04,LKO001,Lucknow,North,In-store,Member,Electrical,Night Lamp,1,199,199,10,19.9,179.1,78,101.1,Credit/Debit Card
+MDIY101073,2025-12-04,IND001,Indore,Central,In-store,Member,Home Improvement,Adhesive Tape,4,49,196,10,19.6,176.4,72,104.4,Credit/Debit Card
+MDIY101454,2025-12-04,IND001,Indore,Central,In-store,Non-Member,Fashion Accessories,Hair Clips Set,2,49,98,10,9.8,88.2,34,54.2,Credit/Debit Card
+MDIY100563,2025-12-05,LKO001,Lucknow,North,In-store,Non-Member,Kitchenware,Lunch Box,1,249,249,10,24.9,224.1,100,124.1,Cash
+MDIY101042,2025-12-07,MUM001,Mumbai,West,Online,Non-Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,Wallet
+MDIY101016,2025-12-08,JAI001,Jaipur,North,In-store,Non-Member,Fashion Accessories,Travel Pouch,1,129,129,15,19.35,109.65,48,61.65,Wallet
+MDIY100870,2025-12-08,DEL001,Delhi,North,In-store,Non-Member,Home Improvement,Measuring Tape,6,89,534,15,80.1,453.9,210,243.9,UPI
+MDIY101105,2025-12-09,PUN001,Pune,West,In-store,Member,Home Improvement,LED Bulb,3,99,297,10,29.7,267.3,135,132.3,Credit/Debit Card
+MDIY100354,2025-12-10,DEL001,Delhi,North,In-store,Member,Kitchenware,Peeler,4,49,196,10,19.6,176.4,68,108.4,Wallet
+MDIY100693,2025-12-10,PUN001,Pune,West,In-store,Member,Stationery,Notebook,1,49,49,5,2.45,46.55,18,28.55,Cash
+MDIY100403,2025-12-12,PUN001,Pune,West,In-store,Member,Stationery,Marker Set,4,99,396,15,59.4,336.6,160,176.6,Cash
+MDIY100879,2025-12-12,CHE001,Chennai,South,In-store,Non-Member,Home Improvement,Extension Cord,1,299,299,5,14.95,284.05,125,159.05,Credit/Debit Card
+MDIY100066,2025-12-12,CHE001,Chennai,South,In-store,Member,Stationery,Scissors,1,69,69,0,0.0,69.0,25,44.0,Credit/Debit Card
+MDIY100021,2025-12-13,DEL001,Delhi,North,In-store,Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,Cash
+MDIY100154,2025-12-14,MUM001,Mumbai,West,In-store,Member,Stationery,Pen Pack,1,39,39,10,3.9,35.1,14,21.1,Credit/Debit Card
+MDIY100710,2025-12-14,DEL001,Delhi,North,In-store,Non-Member,Stationery,Notebook,2,49,98,0,0.0,98.0,36,62.0,Cash
+MDIY100217,2025-12-14,KOL001,Kolkata,East,In-store,Member,Stationery,Pen Pack,1,39,39,5,1.95,37.05,14,23.05,UPI
+MDIY101434,2025-12-15,BLR001,Bengaluru,South,In-store,Member,Stationery,Scissors,1,69,69,15,10.35,58.65,25,33.65,Wallet
+MDIY100973,2025-12-15,LKO001,Lucknow,North,In-store,Non-Member,Stationery,Pen Pack,2,39,78,20,15.6,62.4,28,34.4,Wallet
+MDIY100863,2025-12-16,JAI001,Jaipur,North,In-store,Member,Household,Laundry Basket,1,249,249,20,49.8,199.2,105,94.2,Wallet
+MDIY101301,2025-12-16,AHM001,Ahmedabad,West,In-store,Member,Kitchenware,Food Container Set,2,299,598,5,29.9,568.1,240,328.1,UPI
+MDIY101399,2025-12-17,AHM001,Ahmedabad,West,In-store,Member,Electrical,Battery Pack,4,79,316,10,31.6,284.4,112,172.4,Credit/Debit Card
+MDIY100037,2025-12-18,MUM001,Mumbai,West,Online,Member,Fashion Accessories,Sunglasses,2,149,298,0,0.0,298.0,110,188.0,UPI
+MDIY100990,2025-12-18,AHM001,Ahmedabad,West,In-store,Member,Toys,Toy Car,2,99,198,0,0.0,198.0,76,122.0,Credit/Debit Card
+MDIY100161,2025-12-18,AHM001,Ahmedabad,West,In-store,Non-Member,Home Improvement,Extension Cord,2,299,598,0,0.0,598.0,250,348.0,Cash
+MDIY100602,2025-12-18,AHM001,Ahmedabad,West,In-store,Member,Kitchenware,Water Bottle,1,149,149,5,7.45,141.55,55,86.55,Cash
+MDIY100890,2025-12-19,DEL001,Delhi,North,In-store,Non-Member,Kitchenware,Mug,4,99,396,5,19.8,376.2,140,236.2,Wallet
+MDIY100672,2025-12-19,LKO001,Lucknow,North,In-store,Non-Member,Electrical,Power Strip,2,399,798,5,39.9,758.1,330,428.1,UPI
+MDIY100874,2025-12-19,HYD001,Hyderabad,South,In-store,Non-Member,Household,Kitchen Organizer,1,349,349,15,52.35,296.65,145,151.65,Cash
+MDIY101096,2025-12-19,KOL001,Kolkata,East,In-store,Member,Home Improvement,Screwdriver Set,1,249,249,15,37.35,211.65,110,101.65,Wallet
+MDIY101425,2025-12-20,HYD001,Hyderabad,South,In-store,Non-Member,Fashion Accessories,Keychain,1,39,39,15,5.85,33.15,12,21.15,UPI
+MDIY101295,2025-12-21,CHE001,Chennai,South,Online,Member,Fashion Accessories,Keychain,2,39,78,0,0.0,78.0,24,54.0,Credit/Debit Card
+MDIY100554,2025-12-22,HYD001,Hyderabad,South,In-store,Non-Member,Electrical,Phone Cable,3,149,447,5,22.35,424.65,165,259.65,Cash
+MDIY100664,2025-12-23,BHO001,Bhopal,Central,In-store,Member,Electrical,Phone Cable,2,149,298,5,14.9,283.1,110,173.1,Credit/Debit Card
+MDIY101382,2025-12-23,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,Adhesive Tape,4,49,196,10,19.6,176.4,72,104.4,Cash
+MDIY100174,2025-12-24,DEL001,Delhi,North,In-store,Member,Toys,Building Blocks,2,299,598,0,0.0,598.0,250,348.0,Credit/Debit Card
+MDIY100847,2025-12-24,LKO001,Lucknow,North,In-store,Non-Member,Household,Cleaning Brush,1,59,59,0,0.0,59.0,22,37.0,Cash
+MDIY100472,2025-12-24,MUM001,Mumbai,West,Online,Non-Member,Household,Cleaning Brush,1,59,59,0,0.0,59.0,22,37.0,UPI
+MDIY100044,2025-12-25,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Lunch Box,1,249,249,10,24.9,224.1,100,124.1,UPI
+MDIY101311,2025-12-25,LKO001,Lucknow,North,In-store,Non-Member,Home Improvement,Extension Cord,2,299,598,5,29.9,568.1,250,318.1,Credit/Debit Card
+MDIY101103,2025-12-26,AHM001,Ahmedabad,West,In-store,Member,Toys,Toy Car,1,99,99,0,0.0,99.0,38,61.0,Credit/Debit Card
+MDIY100155,2025-12-26,AHM001,Ahmedabad,West,In-store,Member,Kitchenware,Lunch Box,1,249,249,0,0.0,249.0,100,149.0,UPI
+MDIY100333,2025-12-26,AHM001,Ahmedabad,West,In-store,Member,Household,Laundry Basket,5,249,1245,5,62.25,1182.75,525,657.75,UPI
+MDIY100780,2025-12-27,JAI001,Jaipur,North,In-store,Member,Kitchenware,Food Container Set,3,299,897,5,44.85,852.15,360,492.15,UPI
+MDIY101440,2025-12-27,MUM001,Mumbai,West,In-store,Non-Member,Toys,Soft Toy,1,199,199,10,19.9,179.1,82,97.1,Wallet
+MDIY100928,2025-12-28,CHE001,Chennai,South,In-store,Member,Kitchenware,Food Container Set,1,299,299,0,0.0,299.0,120,179.0,UPI
+MDIY100024,2025-12-29,CHE001,Chennai,South,In-store,Member,Toys,Doll,4,249,996,0,0.0,996.0,400,596.0,UPI
+MDIY101324,2025-12-29,JAI001,Jaipur,North,In-store,Non-Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,UPI
+MDIY100286,2025-12-29,KOL001,Kolkata,East,In-store,Non-Member,Home Improvement,Extension Cord,2,299,598,0,0.0,598.0,250,348.0,Wallet
+MDIY101253,2025-12-29,CHE001,Chennai,South,Online,Member,Toys,Doll,5,249,1245,5,62.25,1182.75,500,682.75,Wallet
+MDIY101266,2025-12-30,JAI001,Jaipur,North,In-store,Member,Toys,Doll,1,249,249,20,49.8,199.2,100,99.2,Credit/Debit Card
+MDIY100975,2025-12-30,BLR001,Bengaluru,South,In-store,Non-Member,Household,Microfiber Cloth,2,79,158,10,15.8,142.2,60,82.2,Credit/Debit Card
+MDIY101089,2025-12-30,DEL001,Delhi,North,In-store,Member,Home Improvement,Measuring Tape,2,89,178,0,0.0,178.0,70,108.0,Wallet
+MDIY100545,2025-12-30,BLR001,Bengaluru,South,Online,Non-Member,Fashion Accessories,Keychain,2,39,78,10,7.8,70.2,24,46.2,Credit/Debit Card
+MDIY101174,2025-12-30,AHM001,Ahmedabad,West,Online,Member,Electrical,Night Lamp,4,199,796,5,39.8,756.2,312,444.2,UPI
+MDIY101380,2025-12-30,PUN001,Pune,West,In-store,Member,Kitchenware,Food Container Set,1,299,299,0,0.0,299.0,120,179.0,Cash
+MDIY100783,2025-12-30,CHE001,Chennai,South,In-store,Non-Member,Toys,Toy Car,2,99,198,5,9.9,188.1,76,112.1,UPI
+MDIY100571,2025-12-31,IND001,Indore,Central,In-store,Non-Member,Household,Kitchen Organizer,3,349,1047,0,0.0,1047.0,435,612.0,Wallet
+MDIY101033,2025-12-31,BLR001,Bengaluru,South,In-store,Member,Kitchenware,Water Bottle,1,149,149,15,22.35,126.65,55,71.65,UPI
+MDIY100846,2026-01-01,AHM001,Ahmedabad,West,In-store,Member,Electrical,Night Lamp,2,199,398,0,0.0,398.0,156,242.0,UPI
+MDIY100756,2026-01-01,LKO001,Lucknow,North,In-store,Non-Member,Stationery,Notebook,2,49,98,0,0.0,98.0,36,62.0,Cash
+MDIY101463,2026-01-01,HYD001,Hyderabad,South,In-store,Member,Toys,Soft Toy,5,199,995,15,149.25,845.75,410,435.75,Cash
+MDIY100994,2026-01-02,JAI001,Jaipur,North,In-store,Member,Household,Storage Box,4,199,796,5,39.8,756.2,320,436.2,UPI
+MDIY101403,2026-01-02,PUN001,Pune,West,In-store,Non-Member,Household,Microfiber Cloth,2,79,158,10,15.8,142.2,60,82.2,Wallet
+MDIY100324,2026-01-02,LKO001,Lucknow,North,In-store,Non-Member,Kitchenware,Food Container Set,2,299,598,20,119.6,478.4,240,238.4,Credit/Debit Card
+MDIY100855,2026-01-03,IND001,Indore,Central,Online,Non-Member,Home Improvement,Adhesive Tape,2,49,98,5,4.9,93.1,36,57.1,Credit/Debit Card
+MDIY100464,2026-01-03,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,Extension Cord,4,299,1196,10,119.6,1076.4,500,576.4,Cash
+MDIY100240,2026-01-04,AHM001,Ahmedabad,West,In-store,Non-Member,Household,Storage Box,3,199,597,5,29.85,567.15,240,327.15,UPI
+MDIY100297,2026-01-04,AHM001,Ahmedabad,West,In-store,Member,Kitchenware,Food Container Set,2,299,598,15,89.7,508.3,240,268.3,Credit/Debit Card
+MDIY101013,2026-01-04,CHE001,Chennai,South,In-store,Non-Member,Toys,Toy Car,2,99,198,5,9.9,188.1,76,112.1,Cash
+MDIY101036,2026-01-04,DEL001,Delhi,North,In-store,Member,Kitchenware,Mug,3,99,297,0,0.0,297.0,105,192.0,Credit/Debit Card
+MDIY100769,2026-01-05,CHE001,Chennai,South,In-store,Member,Fashion Accessories,Sunglasses,1,149,149,0,0.0,149.0,55,94.0,Cash
+MDIY100328,2026-01-05,PUN001,Pune,West,In-store,Non-Member,Home Improvement,Adhesive Tape,3,49,147,10,14.7,132.3,54,78.3,Cash
+MDIY101132,2026-01-05,LKO001,Lucknow,North,In-store,Member,Home Improvement,Extension Cord,1,299,299,5,14.95,284.05,125,159.05,Wallet
+MDIY101106,2026-01-05,AHM001,Ahmedabad,West,In-store,Member,Kitchenware,Mug,3,99,297,5,14.85,282.15,105,177.15,Credit/Debit Card
+MDIY101384,2026-01-05,KOL001,Kolkata,East,Online,Non-Member,Household,Storage Box,2,199,398,0,0.0,398.0,160,238.0,UPI
+MDIY101319,2026-01-06,LKO001,Lucknow,North,In-store,Member,Stationery,File Folder,2,35,70,15,10.5,59.5,24,35.5,Wallet
+MDIY101196,2026-01-06,MUM001,Mumbai,West,In-store,Member,Toys,Building Blocks,2,299,598,0,0.0,598.0,250,348.0,Cash
+MDIY100153,2026-01-06,LKO001,Lucknow,North,In-store,Non-Member,Toys,Building Blocks,1,299,299,5,14.95,284.05,125,159.05,Credit/Debit Card
+MDIY100821,2026-01-07,HYD001,Hyderabad,South,Online,Member,Fashion Accessories,Sunglasses,4,149,596,0,0.0,596.0,220,376.0,UPI
+MDIY100495,2026-01-08,KOL001,Kolkata,East,In-store,Member,Home Improvement,Screwdriver Set,4,249,996,10,99.6,896.4,440,456.4,Cash
+MDIY100452,2026-01-08,DEL001,Delhi,North,In-store,Non-Member,Kitchenware,Lunch Box,4,249,996,0,0.0,996.0,400,596.0,Credit/Debit Card
+MDIY100789,2026-01-08,MUM001,Mumbai,West,In-store,Non-Member,Stationery,Pen Pack,2,39,78,20,15.6,62.4,28,34.4,Wallet
+MDIY100162,2026-01-08,BLR001,Bengaluru,South,In-store,Non-Member,Stationery,Scissors,2,69,138,0,0.0,138.0,50,88.0,UPI
+MDIY101464,2026-01-08,IND001,Indore,Central,In-store,Non-Member,Home Improvement,Measuring Tape,2,89,178,20,35.6,142.4,70,72.4,UPI
+MDIY101163,2026-01-08,PUN001,Pune,West,In-store,Non-Member,Toys,Doll,4,249,996,15,149.4,846.6,400,446.6,Credit/Debit Card
+MDIY101091,2026-01-09,CHE001,Chennai,South,In-store,Non-Member,Household,Kitchen Organizer,3,349,1047,0,0.0,1047.0,435,612.0,Cash
+MDIY100599,2026-01-10,BLR001,Bengaluru,South,In-store,Member,Household,Cleaning Brush,1,59,59,10,5.9,53.1,22,31.1,Credit/Debit Card
+MDIY101110,2026-01-10,HYD001,Hyderabad,South,In-store,Member,Fashion Accessories,Hair Clips Set,5,49,245,0,0.0,245.0,85,160.0,Cash
+MDIY101059,2026-01-12,DEL001,Delhi,North,In-store,Member,Home Improvement,LED Bulb,1,99,99,5,4.95,94.05,45,49.05,UPI
+MDIY101019,2026-01-13,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Measuring Tape,5,89,445,10,44.5,400.5,175,225.5,Credit/Debit Card
+MDIY100408,2026-01-13,HYD001,Hyderabad,South,In-store,Non-Member,Electrical,Night Lamp,2,199,398,0,0.0,398.0,156,242.0,Wallet
+MDIY100352,2026-01-13,MUM001,Mumbai,West,In-store,Non-Member,Stationery,File Folder,3,35,105,10,10.5,94.5,36,58.5,Wallet
+MDIY100980,2026-01-13,KOL001,Kolkata,East,In-store,Member,Home Improvement,Screwdriver Set,1,249,249,15,37.35,211.65,110,101.65,Cash
+MDIY101134,2026-01-13,PUN001,Pune,West,Online,Member,Kitchenware,Water Bottle,3,149,447,15,67.05,379.95,165,214.95,Credit/Debit Card
+MDIY101361,2026-01-14,HYD001,Hyderabad,South,In-store,Member,Electrical,Power Strip,2,399,798,0,0.0,798.0,330,468.0,UPI
+MDIY100040,2026-01-14,BHO001,Bhopal,Central,In-store,Member,Electrical,Phone Cable,2,149,298,0,0.0,298.0,110,188.0,Credit/Debit Card
+MDIY100673,2026-01-14,KOL001,Kolkata,East,In-store,Non-Member,Home Improvement,LED Bulb,3,99,297,15,44.55,252.45,135,117.45,UPI
+MDIY100837,2026-01-14,BHO001,Bhopal,Central,In-store,Non-Member,Fashion Accessories,Travel Pouch,1,129,129,5,6.45,122.55,48,74.55,Cash
+MDIY100511,2026-01-15,DEL001,Delhi,North,In-store,Non-Member,Fashion Accessories,Keychain,2,39,78,15,11.7,66.3,24,42.3,Credit/Debit Card
+MDIY100736,2026-01-15,IND001,Indore,Central,Online,Non-Member,Toys,Building Blocks,4,299,1196,0,0.0,1196.0,500,696.0,UPI
+MDIY101445,2026-01-15,DEL001,Delhi,North,In-store,Member,Fashion Accessories,Keychain,4,39,156,10,15.6,140.4,48,92.4,Cash
+MDIY101032,2026-01-15,IND001,Indore,Central,In-store,Non-Member,Stationery,Marker Set,3,99,297,20,59.4,237.6,120,117.6,UPI
+MDIY100123,2026-01-16,LKO001,Lucknow,North,Online,Non-Member,Fashion Accessories,Wallet,2,199,398,5,19.9,378.1,150,228.1,Cash
+MDIY100345,2026-01-16,JAI001,Jaipur,North,Online,Non-Member,Fashion Accessories,Sunglasses,3,149,447,0,0.0,447.0,165,282.0,Wallet
+MDIY100895,2026-01-17,PUN001,Pune,West,In-store,Member,Fashion Accessories,Keychain,1,39,39,0,0.0,39.0,12,27.0,Wallet
+MDIY101071,2026-01-17,BHO001,Bhopal,Central,In-store,Non-Member,Fashion Accessories,Keychain,2,39,78,5,3.9,74.1,24,50.1,Wallet
+MDIY101164,2026-01-18,LKO001,Lucknow,North,In-store,Member,Fashion Accessories,Travel Pouch,2,129,258,0,0.0,258.0,96,162.0,UPI
+MDIY100920,2026-01-18,KOL001,Kolkata,East,Online,Non-Member,Household,Laundry Basket,2,249,498,5,24.9,473.1,210,263.1,UPI
+MDIY100377,2026-01-18,AHM001,Ahmedabad,West,In-store,Member,Fashion Accessories,Travel Pouch,2,129,258,0,0.0,258.0,96,162.0,Wallet
+MDIY101481,2026-01-18,DEL001,Delhi,North,In-store,Member,Stationery,Scissors,3,69,207,0,0.0,207.0,75,132.0,Cash
+MDIY100996,2026-01-19,MUM001,Mumbai,West,In-store,Member,Household,Storage Box,1,199,199,0,0.0,199.0,80,119.0,UPI
+MDIY100300,2026-01-19,CHE001,Chennai,South,Online,Non-Member,Toys,Soft Toy,3,199,597,0,0.0,597.0,246,351.0,UPI
+MDIY100953,2026-01-20,MUM001,Mumbai,West,In-store,Non-Member,Toys,Toy Car,4,99,396,0,0.0,396.0,152,244.0,UPI
+MDIY101031,2026-01-20,BHO001,Bhopal,Central,In-store,Non-Member,Electrical,Mobile Holder,5,99,495,5,24.75,470.25,175,295.25,Credit/Debit Card
+MDIY101252,2026-01-20,CHE001,Chennai,South,In-store,Non-Member,Home Improvement,Screwdriver Set,2,249,498,10,49.8,448.2,220,228.2,Wallet
+MDIY101058,2026-01-20,AHM001,Ahmedabad,West,In-store,Non-Member,Kitchenware,Water Bottle,3,149,447,15,67.05,379.95,165,214.95,Wallet
+MDIY100293,2026-01-21,PUN001,Pune,West,In-store,Member,Kitchenware,Peeler,1,49,49,15,7.35,41.65,17,24.65,UPI
+MDIY100500,2026-01-21,MUM001,Mumbai,West,In-store,Non-Member,Electrical,Night Lamp,1,199,199,15,29.85,169.15,78,91.15,UPI
+MDIY100796,2026-01-21,HYD001,Hyderabad,South,In-store,Non-Member,Toys,Building Blocks,1,299,299,5,14.95,284.05,125,159.05,Cash
+MDIY101142,2026-01-22,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Measuring Tape,1,89,89,10,8.9,80.1,35,45.1,Wallet
+MDIY101242,2026-01-22,IND001,Indore,Central,Online,Non-Member,Home Improvement,Adhesive Tape,4,49,196,10,19.6,176.4,72,104.4,Cash
+MDIY101125,2026-01-22,CHE001,Chennai,South,In-store,Member,Home Improvement,LED Bulb,4,99,396,10,39.6,356.4,180,176.4,Cash
+MDIY100508,2026-01-23,CHE001,Chennai,South,Online,Non-Member,Household,Storage Box,1,199,199,5,9.95,189.05,80,109.05,Cash
+MDIY101315,2026-01-23,BHO001,Bhopal,Central,In-store,Member,Home Improvement,Screwdriver Set,2,249,498,20,99.6,398.4,220,178.4,Cash
+MDIY100028,2026-01-24,DEL001,Delhi,North,In-store,Non-Member,Toys,Puzzle Set,5,199,995,10,99.5,895.5,375,520.5,Cash
+MDIY100800,2026-01-25,LKO001,Lucknow,North,In-store,Member,Toys,Puzzle Set,6,199,1194,5,59.7,1134.3,450,684.3,Cash
+MDIY101303,2026-01-26,HYD001,Hyderabad,South,In-store,Non-Member,Fashion Accessories,Wallet,1,199,199,0,0.0,199.0,75,124.0,UPI
+MDIY101182,2026-01-26,PUN001,Pune,West,Online,Member,Kitchenware,Peeler,2,49,98,10,9.8,88.2,34,54.2,UPI
+MDIY100423,2026-01-26,KOL001,Kolkata,East,In-store,Member,Stationery,Scissors,1,69,69,15,10.35,58.65,25,33.65,Credit/Debit Card
+MDIY100977,2026-01-26,MUM001,Mumbai,West,In-store,Non-Member,Toys,Building Blocks,2,299,598,0,0.0,598.0,250,348.0,Credit/Debit Card
+MDIY100249,2026-01-27,HYD001,Hyderabad,South,In-store,Member,Kitchenware,Peeler,1,49,49,10,4.9,44.1,17,27.1,Credit/Debit Card
+MDIY100366,2026-01-27,IND001,Indore,Central,In-store,Non-Member,Toys,Toy Car,1,99,99,15,14.85,84.15,38,46.15,Cash
+MDIY100332,2026-01-27,JAI001,Jaipur,North,In-store,Member,Fashion Accessories,Wallet,1,199,199,5,9.95,189.05,75,114.05,Wallet
+MDIY100369,2026-01-27,AHM001,Ahmedabad,West,Online,Non-Member,Stationery,Scissors,2,69,138,5,6.9,131.1,50,81.1,Wallet
+MDIY100659,2026-01-28,DEL001,Delhi,North,Online,Non-Member,Home Improvement,Measuring Tape,2,89,178,10,17.8,160.2,70,90.2,Credit/Debit Card
+MDIY100739,2026-01-28,BLR001,Bengaluru,South,In-store,Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,Cash
+MDIY100193,2026-01-28,BHO001,Bhopal,Central,In-store,Non-Member,Home Improvement,Extension Cord,1,299,299,5,14.95,284.05,125,159.05,UPI
+MDIY100838,2026-01-28,AHM001,Ahmedabad,West,In-store,Non-Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,Cash
+MDIY100986,2026-01-29,IND001,Indore,Central,In-store,Member,Household,Kitchen Organizer,1,349,349,10,34.9,314.1,145,169.1,Credit/Debit Card
+MDIY100944,2026-01-29,HYD001,Hyderabad,South,In-store,Member,Kitchenware,Peeler,4,49,196,5,9.8,186.2,68,118.2,Wallet
+MDIY100106,2026-01-31,IND001,Indore,Central,In-store,Non-Member,Kitchenware,Lunch Box,2,249,498,0,0.0,498.0,200,298.0,UPI
+MDIY101264,2026-01-31,AHM001,Ahmedabad,West,In-store,Non-Member,Kitchenware,Water Bottle,2,149,298,10,29.8,268.2,110,158.2,Wallet
+MDIY100394,2026-02-01,KOL001,Kolkata,East,In-store,Member,Toys,Soft Toy,3,199,597,15,89.55,507.45,246,261.45,Wallet
+MDIY100727,2026-02-01,BLR001,Bengaluru,South,Online,Member,Household,Microfiber Cloth,3,79,237,10,23.7,213.3,90,123.3,Credit/Debit Card
+MDIY100908,2026-02-01,MUM001,Mumbai,West,Online,Non-Member,Toys,Puzzle Set,2,199,398,20,79.6,318.4,150,168.4,UPI
+MDIY100398,2026-02-02,KOL001,Kolkata,East,In-store,Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,Wallet
+MDIY100498,2026-02-02,HYD001,Hyderabad,South,In-store,Non-Member,Toys,Building Blocks,1,299,299,10,29.9,269.1,125,144.1,Credit/Debit Card
+MDIY100287,2026-02-02,LKO001,Lucknow,North,In-store,Member,Fashion Accessories,Keychain,4,39,156,20,31.2,124.8,48,76.8,Wallet
+MDIY101045,2026-02-02,CHE001,Chennai,South,In-store,Member,Stationery,Marker Set,3,99,297,15,44.55,252.45,120,132.45,UPI
+MDIY100854,2026-02-02,CHE001,Chennai,South,In-store,Non-Member,Stationery,Pen Pack,1,39,39,5,1.95,37.05,14,23.05,Cash
+MDIY100306,2026-02-03,DEL001,Delhi,North,In-store,Member,Fashion Accessories,Wallet,1,199,199,10,19.9,179.1,75,104.1,UPI
+MDIY100519,2026-02-03,IND001,Indore,Central,In-store,Member,Home Improvement,LED Bulb,4,99,396,5,19.8,376.2,180,196.2,UPI
+MDIY100566,2026-02-03,IND001,Indore,Central,In-store,Member,Stationery,Marker Set,1,99,99,10,9.9,89.1,40,49.1,Credit/Debit Card
+MDIY100691,2026-02-04,HYD001,Hyderabad,South,In-store,Non-Member,Stationery,Pen Pack,2,39,78,5,3.9,74.1,28,46.1,Wallet
+MDIY101281,2026-02-04,AHM001,Ahmedabad,West,In-store,Member,Stationery,Notebook,4,49,196,0,0.0,196.0,72,124.0,Credit/Debit Card
+MDIY100995,2026-02-04,AHM001,Ahmedabad,West,In-store,Member,Stationery,Scissors,1,69,69,0,0.0,69.0,25,44.0,Cash
+MDIY100494,2026-02-06,MUM001,Mumbai,West,In-store,Member,Kitchenware,Food Container Set,3,299,897,0,0.0,897.0,360,537.0,Wallet
+MDIY101232,2026-02-07,LKO001,Lucknow,North,In-store,Non-Member,Household,Cleaning Brush,2,59,118,0,0.0,118.0,44,74.0,Credit/Debit Card
+MDIY101255,2026-02-07,JAI001,Jaipur,North,In-store,Member,Toys,Building Blocks,2,299,598,10,59.8,538.2,250,288.2,UPI
+MDIY100621,2026-02-08,BHO001,Bhopal,Central,In-store,Member,Fashion Accessories,Keychain,2,39,78,5,3.9,74.1,24,50.1,UPI
+MDIY101046,2026-02-09,DEL001,Delhi,North,In-store,Member,Electrical,Night Lamp,1,199,199,10,19.9,179.1,78,101.1,Wallet
+MDIY100840,2026-02-09,IND001,Indore,Central,In-store,Non-Member,Stationery,Pen Pack,5,39,195,5,9.75,185.25,70,115.25,Cash
+MDIY100122,2026-02-09,DEL001,Delhi,North,In-store,Non-Member,Stationery,File Folder,1,35,35,0,0.0,35.0,12,23.0,Wallet
+MDIY101439,2026-02-10,MUM001,Mumbai,West,In-store,Non-Member,Household,Storage Box,2,199,398,0,0.0,398.0,160,238.0,Wallet
+MDIY101408,2026-02-10,JAI001,Jaipur,North,In-store,Non-Member,Toys,Building Blocks,2,299,598,0,0.0,598.0,250,348.0,UPI
+MDIY100964,2026-02-10,MUM001,Mumbai,West,Online,Non-Member,Stationery,Scissors,4,69,276,5,13.8,262.2,100,162.2,Credit/Debit Card
+MDIY100402,2026-02-10,BLR001,Bengaluru,South,In-store,Non-Member,Fashion Accessories,Wallet,1,199,199,5,9.95,189.05,75,114.05,UPI
+MDIY101186,2026-02-10,DEL001,Delhi,North,In-store,Non-Member,Stationery,Pen Pack,2,39,78,0,0.0,78.0,28,50.0,Wallet
+MDIY100644,2026-02-10,AHM001,Ahmedabad,West,In-store,Non-Member,Electrical,Battery Pack,5,79,395,15,59.25,335.75,140,195.75,Wallet
+MDIY100817,2026-02-11,AHM001,Ahmedabad,West,In-store,Member,Kitchenware,Lunch Box,1,249,249,5,12.45,236.55,100,136.55,Credit/Debit Card
+MDIY100587,2026-02-11,DEL001,Delhi,North,In-store,Non-Member,Fashion Accessories,Hair Clips Set,6,49,294,5,14.7,279.3,102,177.3,UPI
+MDIY101228,2026-02-11,KOL001,Kolkata,East,In-store,Member,Toys,Soft Toy,1,199,199,5,9.95,189.05,82,107.05,Wallet
+MDIY100391,2026-02-12,HYD001,Hyderabad,South,In-store,Non-Member,Toys,Puzzle Set,1,199,199,5,9.95,189.05,75,114.05,Credit/Debit Card
+MDIY101022,2026-02-12,AHM001,Ahmedabad,West,In-store,Non-Member,Electrical,Power Strip,2,399,798,0,0.0,798.0,330,468.0,Credit/Debit Card
+MDIY100853,2026-02-13,PUN001,Pune,West,In-store,Member,Household,Laundry Basket,5,249,1245,15,186.75,1058.25,525,533.25,Cash
+MDIY100020,2026-02-13,IND001,Indore,Central,In-store,Member,Fashion Accessories,Sunglasses,2,149,298,5,14.9,283.1,110,173.1,UPI
+MDIY101250,2026-02-13,LKO001,Lucknow,North,In-store,Non-Member,Stationery,Marker Set,2,99,198,0,0.0,198.0,80,118.0,Cash
+MDIY101404,2026-02-13,HYD001,Hyderabad,South,In-store,Non-Member,Kitchenware,Lunch Box,1,249,249,0,0.0,249.0,100,149.0,Credit/Debit Card
+MDIY100530,2026-02-13,IND001,Indore,Central,In-store,Non-Member,Fashion Accessories,Sunglasses,1,149,149,15,22.35,126.65,55,71.65,Cash
+MDIY101282,2026-02-13,BHO001,Bhopal,Central,In-store,Non-Member,Home Improvement,Extension Cord,3,299,897,0,0.0,897.0,375,522.0,UPI
+MDIY101452,2026-02-14,AHM001,Ahmedabad,West,In-store,Non-Member,Electrical,Night Lamp,2,199,398,0,0.0,398.0,156,242.0,UPI
+MDIY101148,2026-02-15,BHO001,Bhopal,Central,Online,Member,Home Improvement,Screwdriver Set,2,249,498,15,74.7,423.3,220,203.3,Wallet
+MDIY100539,2026-02-15,PUN001,Pune,West,In-store,Member,Toys,Toy Car,2,99,198,20,39.6,158.4,76,82.4,Credit/Debit Card
+MDIY101113,2026-02-15,BHO001,Bhopal,Central,In-store,Member,Stationery,Pen Pack,1,39,39,0,0.0,39.0,14,25.0,Wallet
+MDIY100888,2026-02-16,JAI001,Jaipur,North,Online,Member,Toys,Building Blocks,2,299,598,0,0.0,598.0,250,348.0,UPI
+MDIY100714,2026-02-16,BLR001,Bengaluru,South,Online,Member,Home Improvement,Extension Cord,2,299,598,0,0.0,598.0,250,348.0,UPI
+MDIY100449,2026-02-17,MUM001,Mumbai,West,In-store,Non-Member,Home Improvement,Measuring Tape,2,89,178,5,8.9,169.1,70,99.1,Wallet
+MDIY100025,2026-02-17,AHM001,Ahmedabad,West,In-store,Non-Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,Cash
+MDIY101017,2026-02-19,CHE001,Chennai,South,Online,Member,Toys,Puzzle Set,2,199,398,0,0.0,398.0,150,248.0,Wallet
+MDIY101261,2026-02-19,HYD001,Hyderabad,South,In-store,Non-Member,Household,Laundry Basket,4,249,996,5,49.8,946.2,420,526.2,UPI
+MDIY100274,2026-02-20,HYD001,Hyderabad,South,In-store,Member,Electrical,Phone Cable,6,149,894,0,0.0,894.0,330,564.0,UPI
+MDIY100971,2026-02-20,BHO001,Bhopal,Central,In-store,Member,Kitchenware,Water Bottle,2,149,298,5,14.9,283.1,110,173.1,Wallet
+MDIY101313,2026-02-22,IND001,Indore,Central,In-store,Non-Member,Stationery,Scissors,5,69,345,0,0.0,345.0,125,220.0,UPI
+MDIY100258,2026-02-23,JAI001,Jaipur,North,In-store,Member,Stationery,Scissors,1,69,69,5,3.45,65.55,25,40.55,Credit/Debit Card
+MDIY100424,2026-02-24,BHO001,Bhopal,Central,In-store,Non-Member,Toys,Toy Car,1,99,99,10,9.9,89.1,38,51.1,Credit/Debit Card
+MDIY100633,2026-02-24,HYD001,Hyderabad,South,In-store,Member,Home Improvement,Extension Cord,2,299,598,0,0.0,598.0,250,348.0,UPI
+MDIY100388,2026-02-24,AHM001,Ahmedabad,West,In-store,Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,Wallet
+MDIY100812,2026-02-25,BLR001,Bengaluru,South,In-store,Non-Member,Kitchenware,Water Bottle,2,149,298,15,44.7,253.3,110,143.3,Cash
+MDIY100096,2026-02-26,AHM001,Ahmedabad,West,In-store,Member,Toys,Puzzle Set,3,199,597,5,29.85,567.15,225,342.15,Wallet
+MDIY100695,2026-02-26,LKO001,Lucknow,North,In-store,Non-Member,Electrical,Power Strip,3,399,1197,0,0.0,1197.0,495,702.0,Cash
+MDIY100626,2026-02-28,BLR001,Bengaluru,South,In-store,Member,Toys,Building Blocks,1,299,299,5,14.95,284.05,125,159.05,Wallet
+MDIY100642,2026-02-28,DEL001,Delhi,North,In-store,Member,Stationery,Marker Set,2,99,198,10,19.8,178.2,80,98.2,Credit/Debit Card
+MDIY100646,2026-02-28,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Extension Cord,1,299,299,10,29.9,269.1,125,144.1,Cash
+MDIY100516,2026-02-28,KOL001,Kolkata,East,In-store,Non-Member,Kitchenware,Food Container Set,2,299,598,0,0.0,598.0,240,358.0,Credit/Debit Card
+MDIY100098,2026-02-28,DEL001,Delhi,North,In-store,Member,Household,Kitchen Organizer,1,349,349,10,34.9,314.1,145,169.1,Cash
+MDIY100055,2026-03-01,IND001,Indore,Central,In-store,Member,Electrical,Phone Cable,3,149,447,0,0.0,447.0,165,282.0,UPI
+MDIY101312,2026-03-02,LKO001,Lucknow,North,In-store,Non-Member,Fashion Accessories,Travel Pouch,4,129,516,0,0.0,516.0,192,324.0,Credit/Debit Card
+MDIY100901,2026-03-03,JAI001,Jaipur,North,In-store,Member,Household,Kitchen Organizer,1,349,349,10,34.9,314.1,145,169.1,Cash
+MDIY100732,2026-03-04,DEL001,Delhi,North,In-store,Non-Member,Home Improvement,Measuring Tape,3,89,267,5,13.35,253.65,105,148.65,Wallet
+MDIY100234,2026-03-04,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,Measuring Tape,3,89,267,0,0.0,267.0,105,162.0,UPI
+MDIY100611,2026-03-04,MUM001,Mumbai,West,In-store,Non-Member,Electrical,Phone Cable,2,149,298,0,0.0,298.0,110,188.0,Cash
+MDIY101423,2026-03-04,DEL001,Delhi,North,In-store,Member,Toys,Puzzle Set,1,199,199,0,0.0,199.0,75,124.0,Wallet
+MDIY100435,2026-03-05,LKO001,Lucknow,North,In-store,Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,Cash
+MDIY101320,2026-03-05,MUM001,Mumbai,West,Online,Member,Electrical,Phone Cable,5,149,745,0,0.0,745.0,275,470.0,Credit/Debit Card
+MDIY100720,2026-03-05,DEL001,Delhi,North,Online,Non-Member,Electrical,Phone Cable,1,149,149,20,29.8,119.2,55,64.2,Cash
+MDIY100223,2026-03-05,JAI001,Jaipur,North,Online,Member,Toys,Toy Car,2,99,198,10,19.8,178.2,76,102.2,Cash
+MDIY100032,2026-03-06,IND001,Indore,Central,In-store,Non-Member,Electrical,Battery Pack,2,79,158,15,23.7,134.3,56,78.3,Cash
+MDIY101197,2026-03-06,CHE001,Chennai,South,In-store,Member,Stationery,Scissors,3,69,207,0,0.0,207.0,75,132.0,UPI
+MDIY101172,2026-03-06,KOL001,Kolkata,East,Online,Non-Member,Household,Cleaning Brush,1,59,59,0,0.0,59.0,22,37.0,Credit/Debit Card
+MDIY100683,2026-03-08,BLR001,Bengaluru,South,Online,Non-Member,Kitchenware,Mug,1,99,99,0,0.0,99.0,35,64.0,Credit/Debit Card
+MDIY100462,2026-03-09,DEL001,Delhi,North,In-store,Member,Electrical,Power Strip,1,399,399,0,0.0,399.0,165,234.0,Credit/Debit Card
+MDIY101418,2026-03-09,DEL001,Delhi,North,In-store,Non-Member,Stationery,Scissors,1,69,69,10,6.9,62.1,25,37.1,Credit/Debit Card
+MDIY101229,2026-03-09,MUM001,Mumbai,West,In-store,Non-Member,Stationery,Pen Pack,2,39,78,5,3.9,74.1,28,46.1,Wallet
+MDIY100247,2026-03-10,BLR001,Bengaluru,South,Online,Non-Member,Fashion Accessories,Hair Clips Set,2,49,98,0,0.0,98.0,34,64.0,UPI
+MDIY100819,2026-03-10,MUM001,Mumbai,West,In-store,Non-Member,Household,Storage Box,1,199,199,20,39.8,159.2,80,79.2,UPI
+MDIY100038,2026-03-10,PUN001,Pune,West,Online,Member,Home Improvement,LED Bulb,1,99,99,0,0.0,99.0,45,54.0,Wallet
+MDIY100166,2026-03-10,KOL001,Kolkata,East,In-store,Non-Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,Cash
+MDIY100413,2026-03-10,CHE001,Chennai,South,In-store,Non-Member,Kitchenware,Mug,2,99,198,0,0.0,198.0,70,128.0,UPI
+MDIY101171,2026-03-10,PUN001,Pune,West,In-store,Non-Member,Stationery,Pen Pack,1,39,39,0,0.0,39.0,14,25.0,Wallet
+MDIY101082,2026-03-11,IND001,Indore,Central,Online,Member,Electrical,Phone Cable,2,149,298,5,14.9,283.1,110,173.1,Wallet
+MDIY101366,2026-03-12,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Measuring Tape,1,89,89,0,0.0,89.0,35,54.0,Cash
+MDIY101422,2026-03-12,BLR001,Bengaluru,South,In-store,Non-Member,Fashion Accessories,Sunglasses,3,149,447,0,0.0,447.0,165,282.0,Credit/Debit Card
+MDIY101479,2026-03-12,BHO001,Bhopal,Central,In-store,Non-Member,Toys,Doll,1,249,249,15,37.35,211.65,100,111.65,Credit/Debit Card
+MDIY101415,2026-03-12,JAI001,Jaipur,North,In-store,Non-Member,Stationery,Marker Set,2,99,198,15,29.7,168.3,80,88.3,Cash
+MDIY101102,2026-03-13,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,Extension Cord,2,299,598,0,0.0,598.0,250,348.0,Credit/Debit Card
+MDIY100759,2026-03-14,BLR001,Bengaluru,South,In-store,Non-Member,Toys,Puzzle Set,1,199,199,0,0.0,199.0,75,124.0,UPI
+MDIY100139,2026-03-14,BLR001,Bengaluru,South,Online,Member,Fashion Accessories,Sunglasses,1,149,149,0,0.0,149.0,55,94.0,UPI
+MDIY101037,2026-03-15,HYD001,Hyderabad,South,In-store,Member,Fashion Accessories,Hair Clips Set,3,49,147,0,0.0,147.0,51,96.0,UPI
+MDIY100065,2026-03-15,JAI001,Jaipur,North,In-store,Non-Member,Kitchenware,Peeler,1,49,49,0,0.0,49.0,17,32.0,Credit/Debit Card
+MDIY101005,2026-03-15,MUM001,Mumbai,West,In-store,Member,Electrical,Power Strip,1,399,399,0,0.0,399.0,165,234.0,Wallet
+MDIY100327,2026-03-15,MUM001,Mumbai,West,In-store,Non-Member,Fashion Accessories,Wallet,4,199,796,0,0.0,796.0,300,496.0,UPI
+MDIY101235,2026-03-15,BLR001,Bengaluru,South,In-store,Member,Home Improvement,Screwdriver Set,6,249,1494,15,224.1,1269.9,660,609.9,Credit/Debit Card
+MDIY100329,2026-03-16,IND001,Indore,Central,In-store,Member,Home Improvement,LED Bulb,1,99,99,5,4.95,94.05,45,49.05,Wallet
+MDIY100613,2026-03-17,JAI001,Jaipur,North,In-store,Member,Fashion Accessories,Keychain,5,39,195,0,0.0,195.0,60,135.0,Cash
+MDIY100138,2026-03-17,HYD001,Hyderabad,South,In-store,Member,Household,Microfiber Cloth,1,79,79,5,3.95,75.05,30,45.05,Credit/Debit Card
+MDIY100387,2026-03-18,IND001,Indore,Central,In-store,Member,Household,Kitchen Organizer,4,349,1396,0,0.0,1396.0,580,816.0,Cash
+MDIY101262,2026-03-19,JAI001,Jaipur,North,In-store,Member,Fashion Accessories,Hair Clips Set,1,49,49,10,4.9,44.1,17,27.1,Cash
+MDIY100982,2026-03-19,AHM001,Ahmedabad,West,In-store,Member,Fashion Accessories,Travel Pouch,1,129,129,5,6.45,122.55,48,74.55,Wallet
+MDIY100924,2026-03-19,MUM001,Mumbai,West,In-store,Non-Member,Electrical,Battery Pack,5,79,395,0,0.0,395.0,140,255.0,Credit/Debit Card
+MDIY101335,2026-03-19,HYD001,Hyderabad,South,In-store,Member,Stationery,Notebook,4,49,196,20,39.2,156.8,72,84.8,Credit/Debit Card
+MDIY100202,2026-03-20,KOL001,Kolkata,East,In-store,Member,Kitchenware,Water Bottle,4,149,596,5,29.8,566.2,220,346.2,Credit/Debit Card
+MDIY100568,2026-03-21,BLR001,Bengaluru,South,In-store,Member,Home Improvement,Screwdriver Set,3,249,747,5,37.35,709.65,330,379.65,UPI
+MDIY100430,2026-03-21,IND001,Indore,Central,In-store,Member,Household,Cleaning Brush,6,59,354,5,17.7,336.3,132,204.3,Wallet
+MDIY100357,2026-03-22,IND001,Indore,Central,Online,Non-Member,Household,Laundry Basket,1,249,249,15,37.35,211.65,105,106.65,Credit/Debit Card
+MDIY101040,2026-03-22,AHM001,Ahmedabad,West,In-store,Non-Member,Home Improvement,Screwdriver Set,5,249,1245,0,0.0,1245.0,550,695.0,Cash
+MDIY100074,2026-03-23,AHM001,Ahmedabad,West,Online,Non-Member,Electrical,Mobile Holder,1,99,99,0,0.0,99.0,35,64.0,Wallet
+MDIY100441,2026-03-25,BHO001,Bhopal,Central,In-store,Non-Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,Wallet
+MDIY100881,2026-03-25,HYD001,Hyderabad,South,In-store,Member,Kitchenware,Water Bottle,6,149,894,10,89.4,804.6,330,474.6,UPI
+MDIY101486,2026-03-25,MUM001,Mumbai,West,In-store,Non-Member,Stationery,File Folder,2,35,70,10,7.0,63.0,24,39.0,UPI
+MDIY101289,2026-03-25,LKO001,Lucknow,North,Online,Member,Electrical,Mobile Holder,1,99,99,0,0.0,99.0,35,64.0,Cash
+MDIY100884,2026-03-26,CHE001,Chennai,South,In-store,Member,Kitchenware,Water Bottle,1,149,149,10,14.9,134.1,55,79.1,UPI
+MDIY101279,2026-03-26,CHE001,Chennai,South,In-store,Non-Member,Fashion Accessories,Travel Pouch,4,129,516,5,25.8,490.2,192,298.2,UPI
+MDIY100716,2026-03-26,MUM001,Mumbai,West,In-store,Non-Member,Electrical,Power Strip,1,399,399,10,39.9,359.1,165,194.1,Cash
+MDIY100107,2026-03-27,LKO001,Lucknow,North,In-store,Member,Electrical,Night Lamp,1,199,199,0,0.0,199.0,78,121.0,UPI
+MDIY100291,2026-03-27,BLR001,Bengaluru,South,Online,Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,Wallet
+MDIY100689,2026-03-27,AHM001,Ahmedabad,West,In-store,Non-Member,Fashion Accessories,Wallet,1,199,199,10,19.9,179.1,75,104.1,UPI
+MDIY101028,2026-03-28,IND001,Indore,Central,In-store,Non-Member,Electrical,Power Strip,4,399,1596,0,0.0,1596.0,660,936.0,UPI
+MDIY100775,2026-03-29,BHO001,Bhopal,Central,In-store,Member,Electrical,Mobile Holder,1,99,99,0,0.0,99.0,35,64.0,Cash
+MDIY101120,2026-03-29,MUM001,Mumbai,West,In-store,Non-Member,Stationery,Marker Set,1,99,99,10,9.9,89.1,40,49.1,Cash
+MDIY100052,2026-03-29,HYD001,Hyderabad,South,Online,Member,Fashion Accessories,Wallet,2,199,398,10,39.8,358.2,150,208.2,UPI
+MDIY100615,2026-03-30,AHM001,Ahmedabad,West,In-store,Member,Kitchenware,Mug,1,99,99,0,0.0,99.0,35,64.0,Credit/Debit Card
+MDIY100565,2026-03-30,MUM001,Mumbai,West,In-store,Member,Fashion Accessories,Hair Clips Set,1,49,49,10,4.9,44.1,17,27.1,Wallet
+MDIY100887,2026-03-30,JAI001,Jaipur,North,In-store,Non-Member,Kitchenware,Water Bottle,3,149,447,5,22.35,424.65,165,259.65,Credit/Debit Card
+MDIY100087,2026-03-30,PUN001,Pune,West,In-store,Member,Kitchenware,Food Container Set,6,299,1794,0,0.0,1794.0,720,1074.0,Cash
+MDIY100823,2026-03-30,CHE001,Chennai,South,In-store,Member,Home Improvement,Measuring Tape,5,89,445,15,66.75,378.25,175,203.25,Credit/Debit Card
+MDIY100527,2026-03-30,CHE001,Chennai,South,Online,Non-Member,Electrical,Night Lamp,3,199,597,10,59.7,537.3,234,303.3,Wallet
+MDIY100190,2026-03-31,BLR001,Bengaluru,South,In-store,Non-Member,Toys,Building Blocks,3,299,897,15,134.55,762.45,375,387.45,Credit/Debit Card
+MDIY100313,2026-03-31,HYD001,Hyderabad,South,In-store,Member,Household,Storage Box,2,199,398,10,39.8,358.2,160,198.2,Credit/Debit Card
+MDIY101145,2026-03-31,IND001,Indore,Central,Online,Member,Fashion Accessories,Hair Clips Set,1,49,49,0,0.0,49.0,17,32.0,Cash
+MDIY100548,2026-04-01,BLR001,Bengaluru,South,In-store,Member,Fashion Accessories,Keychain,2,39,78,5,3.9,74.1,24,50.1,Cash
+MDIY101121,2026-04-02,MUM001,Mumbai,West,In-store,Member,Fashion Accessories,Travel Pouch,1,129,129,15,19.35,109.65,48,61.65,Wallet
+MDIY101039,2026-04-02,LKO001,Lucknow,North,In-store,Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,UPI
+MDIY101204,2026-04-02,CHE001,Chennai,South,In-store,Non-Member,Electrical,Mobile Holder,3,99,297,10,29.7,267.3,105,162.3,Cash
+MDIY100496,2026-04-02,JAI001,Jaipur,North,Online,Non-Member,Household,Kitchen Organizer,5,349,1745,10,174.5,1570.5,725,845.5,Credit/Debit Card
+MDIY100104,2026-04-03,KOL001,Kolkata,East,In-store,Non-Member,Toys,Puzzle Set,1,199,199,10,19.9,179.1,75,104.1,Cash
+MDIY100382,2026-04-03,DEL001,Delhi,North,In-store,Member,Stationery,Pen Pack,1,39,39,0,0.0,39.0,14,25.0,UPI
+MDIY100078,2026-04-04,DEL001,Delhi,North,In-store,Non-Member,Home Improvement,Adhesive Tape,1,49,49,10,4.9,44.1,18,26.1,Wallet
+MDIY100396,2026-04-05,JAI001,Jaipur,North,In-store,Non-Member,Household,Laundry Basket,3,249,747,0,0.0,747.0,315,432.0,Cash
+MDIY100004,2026-04-05,BHO001,Bhopal,Central,In-store,Non-Member,Stationery,Notebook,3,49,147,0,0.0,147.0,54,93.0,Cash
+MDIY100296,2026-04-05,BHO001,Bhopal,Central,Online,Non-Member,Toys,Soft Toy,2,199,398,5,19.9,378.1,164,214.1,UPI
+MDIY100282,2026-04-07,HYD001,Hyderabad,South,In-store,Non-Member,Household,Cleaning Brush,2,59,118,0,0.0,118.0,44,74.0,UPI
+MDIY100488,2026-04-07,BLR001,Bengaluru,South,In-store,Non-Member,Electrical,Mobile Holder,3,99,297,0,0.0,297.0,105,192.0,Wallet
+MDIY100089,2026-04-07,AHM001,Ahmedabad,West,In-store,Non-Member,Electrical,Night Lamp,1,199,199,0,0.0,199.0,78,121.0,UPI
+MDIY100622,2026-04-08,HYD001,Hyderabad,South,In-store,Member,Kitchenware,Water Bottle,4,149,596,0,0.0,596.0,220,376.0,Wallet
+MDIY100385,2026-04-08,LKO001,Lucknow,North,Online,Member,Kitchenware,Water Bottle,1,149,149,0,0.0,149.0,55,94.0,Credit/Debit Card
+MDIY100925,2026-04-09,PUN001,Pune,West,In-store,Member,Household,Cleaning Brush,1,59,59,5,2.95,56.05,22,34.05,Cash
+MDIY100453,2026-04-09,LKO001,Lucknow,North,In-store,Non-Member,Home Improvement,Screwdriver Set,1,249,249,0,0.0,249.0,110,139.0,Credit/Debit Card
+MDIY101224,2026-04-10,IND001,Indore,Central,Online,Non-Member,Household,Kitchen Organizer,1,349,349,0,0.0,349.0,145,204.0,Wallet
+MDIY101297,2026-04-10,LKO001,Lucknow,North,In-store,Non-Member,Home Improvement,Measuring Tape,4,89,356,0,0.0,356.0,140,216.0,UPI
+MDIY100663,2026-04-10,HYD001,Hyderabad,South,In-store,Member,Home Improvement,LED Bulb,2,99,198,0,0.0,198.0,90,108.0,Credit/Debit Card
+MDIY100678,2026-04-11,KOL001,Kolkata,East,In-store,Non-Member,Toys,Soft Toy,4,199,796,0,0.0,796.0,328,468.0,UPI
+MDIY101124,2026-04-11,IND001,Indore,Central,In-store,Member,Toys,Building Blocks,3,299,897,0,0.0,897.0,375,522.0,UPI
+MDIY101047,2026-04-12,JAI001,Jaipur,North,In-store,Member,Electrical,Mobile Holder,1,99,99,10,9.9,89.1,35,54.1,Credit/Debit Card
+MDIY100902,2026-04-12,HYD001,Hyderabad,South,Online,Non-Member,Home Improvement,Screwdriver Set,5,249,1245,0,0.0,1245.0,550,695.0,UPI
+MDIY101070,2026-04-13,LKO001,Lucknow,North,In-store,Non-Member,Stationery,Scissors,5,69,345,0,0.0,345.0,125,220.0,Cash
+MDIY101466,2026-04-13,JAI001,Jaipur,North,In-store,Member,Home Improvement,Extension Cord,1,299,299,0,0.0,299.0,125,174.0,Cash
+MDIY100057,2026-04-13,JAI001,Jaipur,North,In-store,Non-Member,Kitchenware,Peeler,3,49,147,20,29.4,117.6,51,66.6,Wallet
+MDIY101079,2026-04-14,JAI001,Jaipur,North,In-store,Non-Member,Toys,Puzzle Set,3,199,597,5,29.85,567.15,225,342.15,Cash
+MDIY100290,2026-04-14,LKO001,Lucknow,North,In-store,Non-Member,Household,Cleaning Brush,1,59,59,0,0.0,59.0,22,37.0,Credit/Debit Card
+MDIY101446,2026-04-14,BLR001,Bengaluru,South,Online,Non-Member,Fashion Accessories,Wallet,1,199,199,15,29.85,169.15,75,94.15,Cash
+MDIY100536,2026-04-14,LKO001,Lucknow,North,In-store,Member,Fashion Accessories,Keychain,2,39,78,10,7.8,70.2,24,46.2,Wallet
+MDIY100356,2026-04-15,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Extension Cord,1,299,299,0,0.0,299.0,125,174.0,UPI
+MDIY101000,2026-04-15,MUM001,Mumbai,West,In-store,Member,Home Improvement,Adhesive Tape,2,49,98,0,0.0,98.0,36,62.0,Wallet
+MDIY101195,2026-04-16,BHO001,Bhopal,Central,In-store,Member,Home Improvement,LED Bulb,1,99,99,0,0.0,99.0,45,54.0,Wallet
+MDIY100006,2026-04-16,KOL001,Kolkata,East,In-store,Non-Member,Home Improvement,Measuring Tape,1,89,89,0,0.0,89.0,35,54.0,Cash
+MDIY100735,2026-04-16,BHO001,Bhopal,Central,In-store,Non-Member,Fashion Accessories,Keychain,1,39,39,5,1.95,37.05,12,25.05,Cash
+MDIY100073,2026-04-16,AHM001,Ahmedabad,West,In-store,Non-Member,Household,Microfiber Cloth,1,79,79,5,3.95,75.05,30,45.05,Wallet
+MDIY100268,2026-04-17,JAI001,Jaipur,North,In-store,Member,Fashion Accessories,Sunglasses,1,149,149,10,14.9,134.1,55,79.1,UPI
+MDIY100774,2026-04-17,LKO001,Lucknow,North,In-store,Non-Member,Home Improvement,Screwdriver Set,5,249,1245,5,62.25,1182.75,550,632.75,Cash
+MDIY100113,2026-04-18,IND001,Indore,Central,In-store,Non-Member,Stationery,Scissors,1,69,69,0,0.0,69.0,25,44.0,Cash
+MDIY100294,2026-04-18,AHM001,Ahmedabad,West,In-store,Non-Member,Household,Microfiber Cloth,3,79,237,15,35.55,201.45,90,111.45,Wallet
+MDIY101449,2026-04-19,AHM001,Ahmedabad,West,In-store,Non-Member,Home Improvement,LED Bulb,3,99,297,10,29.7,267.3,135,132.3,Wallet
+MDIY100929,2026-04-19,BLR001,Bengaluru,South,In-store,Non-Member,Household,Microfiber Cloth,1,79,79,10,7.9,71.1,30,41.1,Cash
+MDIY101306,2026-04-19,DEL001,Delhi,North,In-store,Member,Toys,Building Blocks,2,299,598,20,119.6,478.4,250,228.4,Wallet
+MDIY101411,2026-04-20,AHM001,Ahmedabad,West,Online,Non-Member,Household,Storage Box,2,199,398,0,0.0,398.0,160,238.0,Credit/Debit Card
+MDIY100546,2026-04-20,IND001,Indore,Central,In-store,Non-Member,Household,Laundry Basket,2,249,498,15,74.7,423.3,210,213.3,UPI
+MDIY100439,2026-04-21,DEL001,Delhi,North,In-store,Non-Member,Home Improvement,Screwdriver Set,4,249,996,15,149.4,846.6,440,406.6,Wallet
+MDIY100721,2026-04-21,IND001,Indore,Central,In-store,Non-Member,Fashion Accessories,Wallet,1,199,199,0,0.0,199.0,75,124.0,Wallet
+MDIY100991,2026-04-21,HYD001,Hyderabad,South,In-store,Non-Member,Toys,Building Blocks,1,299,299,10,29.9,269.1,125,144.1,Cash
+MDIY100814,2026-04-21,HYD001,Hyderabad,South,In-store,Non-Member,Electrical,Night Lamp,2,199,398,15,59.7,338.3,156,182.3,Cash
+MDIY100605,2026-04-22,IND001,Indore,Central,In-store,Non-Member,Home Improvement,LED Bulb,2,99,198,0,0.0,198.0,90,108.0,UPI
+MDIY100681,2026-04-22,KOL001,Kolkata,East,In-store,Member,Home Improvement,Extension Cord,4,299,1196,0,0.0,1196.0,500,696.0,Credit/Debit Card
+MDIY101493,2026-04-22,HYD001,Hyderabad,South,In-store,Non-Member,Fashion Accessories,Wallet,2,199,398,0,0.0,398.0,150,248.0,Wallet
+MDIY100784,2026-04-23,LKO001,Lucknow,North,In-store,Member,Electrical,Phone Cable,2,149,298,0,0.0,298.0,110,188.0,UPI
+MDIY100064,2026-04-24,JAI001,Jaipur,North,In-store,Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,UPI
+MDIY101401,2026-04-24,BHO001,Bhopal,Central,Online,Non-Member,Stationery,Marker Set,2,99,198,10,19.8,178.2,80,98.2,UPI
+MDIY100654,2026-04-24,DEL001,Delhi,North,In-store,Non-Member,Home Improvement,Extension Cord,3,299,897,10,89.7,807.3,375,432.3,Cash
+MDIY100084,2026-04-26,HYD001,Hyderabad,South,Online,Non-Member,Toys,Puzzle Set,1,199,199,0,0.0,199.0,75,124.0,UPI
+MDIY100108,2026-04-26,PUN001,Pune,West,In-store,Non-Member,Stationery,File Folder,3,35,105,10,10.5,94.5,36,58.5,Credit/Debit Card
+MDIY100869,2026-04-28,DEL001,Delhi,North,In-store,Non-Member,Kitchenware,Peeler,2,49,98,0,0.0,98.0,34,64.0,UPI
+MDIY100538,2026-04-28,BHO001,Bhopal,Central,In-store,Non-Member,Stationery,Marker Set,1,99,99,5,4.95,94.05,40,54.05,Credit/Debit Card
+MDIY100839,2026-04-28,BLR001,Bengaluru,South,In-store,Non-Member,Electrical,Battery Pack,3,79,237,10,23.7,213.3,84,129.3,Credit/Debit Card
+MDIY100992,2026-04-28,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Lunch Box,1,249,249,0,0.0,249.0,100,149.0,UPI
+MDIY100371,2026-04-29,KOL001,Kolkata,East,In-store,Member,Stationery,File Folder,6,35,210,20,42.0,168.0,72,96.0,Credit/Debit Card
+MDIY101370,2026-04-29,HYD001,Hyderabad,South,In-store,Member,Household,Cleaning Brush,5,59,295,10,29.5,265.5,110,155.5,Cash
+MDIY101379,2026-04-29,BLR001,Bengaluru,South,In-store,Non-Member,Stationery,File Folder,3,35,105,0,0.0,105.0,36,69.0,Wallet
+MDIY101269,2026-04-29,BHO001,Bhopal,Central,In-store,Non-Member,Fashion Accessories,Wallet,2,199,398,15,59.7,338.3,150,188.3,Cash
+MDIY101162,2026-04-30,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Peeler,2,49,98,0,0.0,98.0,34,64.0,UPI
+MDIY101419,2026-04-30,AHM001,Ahmedabad,West,In-store,Non-Member,Stationery,File Folder,6,35,210,0,0.0,210.0,72,138.0,Wallet
+MDIY101109,2026-05-01,MUM001,Mumbai,West,In-store,Non-Member,Electrical,Phone Cable,1,149,149,0,0.0,149.0,55,94.0,Credit/Debit Card
+MDIY101236,2026-05-01,BHO001,Bhopal,Central,In-store,Member,Home Improvement,Measuring Tape,4,89,356,5,17.8,338.2,140,198.2,Credit/Debit Card
+MDIY100645,2026-05-01,DEL001,Delhi,North,Online,Non-Member,Fashion Accessories,Wallet,2,199,398,10,39.8,358.2,150,208.2,Wallet
+MDIY100618,2026-05-01,JAI001,Jaipur,North,Online,Non-Member,Household,Laundry Basket,1,249,249,5,12.45,236.55,105,131.55,Wallet
+MDIY100019,2026-05-02,KOL001,Kolkata,East,Online,Member,Household,Cleaning Brush,2,59,118,5,5.9,112.1,44,68.1,Credit/Debit Card
+MDIY100543,2026-05-03,IND001,Indore,Central,In-store,Non-Member,Home Improvement,Measuring Tape,3,89,267,0,0.0,267.0,105,162.0,Credit/Debit Card
+MDIY100718,2026-05-03,AHM001,Ahmedabad,West,In-store,Member,Household,Laundry Basket,1,249,249,0,0.0,249.0,105,144.0,Cash
+MDIY101263,2026-05-03,HYD001,Hyderabad,South,In-store,Non-Member,Stationery,Marker Set,3,99,297,20,59.4,237.6,120,117.6,Wallet
+MDIY100798,2026-05-03,KOL001,Kolkata,East,In-store,Non-Member,Kitchenware,Lunch Box,2,249,498,0,0.0,498.0,200,298.0,Credit/Debit Card
+MDIY100791,2026-05-03,IND001,Indore,Central,In-store,Non-Member,Electrical,Night Lamp,6,199,1194,5,59.7,1134.3,468,666.3,UPI
+MDIY101149,2026-05-04,BLR001,Bengaluru,South,In-store,Non-Member,Fashion Accessories,Travel Pouch,4,129,516,0,0.0,516.0,192,324.0,Cash
+MDIY100062,2026-05-04,DEL001,Delhi,North,Online,Non-Member,Stationery,Marker Set,3,99,297,15,44.55,252.45,120,132.45,Cash
+MDIY101326,2026-05-04,AHM001,Ahmedabad,West,In-store,Member,Household,Laundry Basket,3,249,747,5,37.35,709.65,315,394.65,Cash
+MDIY101410,2026-05-04,JAI001,Jaipur,North,In-store,Non-Member,Stationery,Notebook,2,49,98,10,9.8,88.2,36,52.2,Wallet
+MDIY100704,2026-05-05,CHE001,Chennai,South,Online,Non-Member,Toys,Building Blocks,2,299,598,0,0.0,598.0,250,348.0,UPI
+MDIY100503,2026-05-06,HYD001,Hyderabad,South,In-store,Member,Household,Kitchen Organizer,1,349,349,15,52.35,296.65,145,151.65,Cash
+MDIY101097,2026-05-07,PUN001,Pune,West,In-store,Member,Stationery,Scissors,1,69,69,5,3.45,65.55,25,40.55,Cash
+MDIY101451,2026-05-08,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Adhesive Tape,3,49,147,15,22.05,124.95,54,70.95,Credit/Debit Card
+MDIY100567,2026-05-08,IND001,Indore,Central,In-store,Member,Stationery,Pen Pack,1,39,39,0,0.0,39.0,14,25.0,Cash
+MDIY100437,2026-05-08,BLR001,Bengaluru,South,In-store,Non-Member,Household,Storage Box,1,199,199,0,0.0,199.0,80,119.0,Cash
+MDIY100906,2026-05-08,BHO001,Bhopal,Central,In-store,Member,Stationery,File Folder,2,35,70,0,0.0,70.0,24,46.0,Cash
+MDIY100510,2026-05-09,IND001,Indore,Central,Online,Non-Member,Household,Kitchen Organizer,2,349,698,0,0.0,698.0,290,408.0,Wallet
+MDIY101201,2026-05-09,MUM001,Mumbai,West,In-store,Non-Member,Home Improvement,Adhesive Tape,3,49,147,10,14.7,132.3,54,78.3,Wallet
+MDIY100666,2026-05-09,CHE001,Chennai,South,In-store,Non-Member,Home Improvement,Adhesive Tape,1,49,49,10,4.9,44.1,18,26.1,Credit/Debit Card
+MDIY101014,2026-05-09,DEL001,Delhi,North,Online,Non-Member,Kitchenware,Peeler,2,49,98,0,0.0,98.0,34,64.0,Cash
+MDIY101359,2026-05-10,PUN001,Pune,West,Online,Non-Member,Fashion Accessories,Keychain,2,39,78,0,0.0,78.0,24,54.0,Credit/Debit Card
+MDIY100102,2026-05-10,HYD001,Hyderabad,South,Online,Member,Household,Microfiber Cloth,2,79,158,0,0.0,158.0,60,98.0,UPI
+MDIY101061,2026-05-11,IND001,Indore,Central,In-store,Member,Fashion Accessories,Travel Pouch,1,129,129,0,0.0,129.0,48,81.0,Wallet
+MDIY100685,2026-05-12,LKO001,Lucknow,North,In-store,Non-Member,Household,Kitchen Organizer,1,349,349,10,34.9,314.1,145,169.1,Credit/Debit Card
+MDIY100607,2026-05-12,BHO001,Bhopal,Central,In-store,Member,Electrical,Power Strip,1,399,399,5,19.95,379.05,165,214.05,UPI
+MDIY100312,2026-05-12,JAI001,Jaipur,North,In-store,Non-Member,Household,Microfiber Cloth,5,79,395,5,19.75,375.25,150,225.25,Wallet
+MDIY100742,2026-05-13,KOL001,Kolkata,East,In-store,Non-Member,Electrical,Power Strip,2,399,798,5,39.9,758.1,330,428.1,Wallet
+MDIY100747,2026-05-13,BHO001,Bhopal,Central,In-store,Member,Fashion Accessories,Keychain,4,39,156,5,7.8,148.2,48,100.2,Credit/Debit Card
+MDIY100401,2026-05-13,BHO001,Bhopal,Central,In-store,Non-Member,Electrical,Night Lamp,1,199,199,0,0.0,199.0,78,121.0,UPI
+MDIY101331,2026-05-14,HYD001,Hyderabad,South,Online,Member,Household,Laundry Basket,1,249,249,15,37.35,211.65,105,106.65,Cash
+MDIY101246,2026-05-14,PUN001,Pune,West,In-store,Member,Home Improvement,Adhesive Tape,1,49,49,0,0.0,49.0,18,31.0,UPI
+MDIY100378,2026-05-14,IND001,Indore,Central,Online,Non-Member,Stationery,Pen Pack,3,39,117,5,5.85,111.15,42,69.15,Cash
+MDIY100475,2026-05-14,DEL001,Delhi,North,In-store,Member,Stationery,Pen Pack,1,39,39,0,0.0,39.0,14,25.0,UPI
+MDIY100871,2026-05-15,CHE001,Chennai,South,In-store,Non-Member,Toys,Soft Toy,2,199,398,5,19.9,378.1,164,214.1,Cash
+MDIY101223,2026-05-15,LKO001,Lucknow,North,In-store,Non-Member,Stationery,Pen Pack,3,39,117,10,11.7,105.3,42,63.3,Credit/Debit Card
+MDIY100063,2026-05-15,MUM001,Mumbai,West,In-store,Non-Member,Stationery,Scissors,2,69,138,0,0.0,138.0,50,88.0,Cash
+MDIY100076,2026-05-15,MUM001,Mumbai,West,In-store,Non-Member,Stationery,Marker Set,1,99,99,15,14.85,84.15,40,44.15,UPI
+MDIY100445,2026-05-15,LKO001,Lucknow,North,In-store,Member,Toys,Doll,1,249,249,0,0.0,249.0,100,149.0,Credit/Debit Card
+MDIY100597,2026-05-15,CHE001,Chennai,South,In-store,Member,Fashion Accessories,Keychain,1,39,39,5,1.95,37.05,12,25.05,Cash
+MDIY101473,2026-05-15,DEL001,Delhi,North,In-store,Non-Member,Stationery,File Folder,2,35,70,0,0.0,70.0,24,46.0,Credit/Debit Card
+MDIY100227,2026-05-16,BLR001,Bengaluru,South,In-store,Non-Member,Toys,Puzzle Set,2,199,398,15,59.7,338.3,150,188.3,UPI
+MDIY100017,2026-05-16,DEL001,Delhi,North,In-store,Member,Home Improvement,Adhesive Tape,4,49,196,15,29.4,166.6,72,94.6,Cash
+MDIY100804,2026-05-16,LKO001,Lucknow,North,In-store,Non-Member,Fashion Accessories,Wallet,1,199,199,5,9.95,189.05,75,114.05,Cash
+MDIY101247,2026-05-16,PUN001,Pune,West,In-store,Member,Home Improvement,Measuring Tape,1,89,89,15,13.35,75.65,35,40.65,Credit/Debit Card
+MDIY100426,2026-05-17,LKO001,Lucknow,North,In-store,Non-Member,Household,Kitchen Organizer,2,349,698,5,34.9,663.1,290,373.1,Wallet
+MDIY101397,2026-05-17,BLR001,Bengaluru,South,In-store,Member,Electrical,Mobile Holder,1,99,99,10,9.9,89.1,35,54.1,UPI
+MDIY100311,2026-05-17,PUN001,Pune,West,In-store,Non-Member,Household,Laundry Basket,1,249,249,5,12.45,236.55,105,131.55,UPI
+MDIY100758,2026-05-18,BLR001,Bengaluru,South,In-store,Non-Member,Electrical,Battery Pack,2,79,158,0,0.0,158.0,56,102.0,Cash
+MDIY101238,2026-05-18,AHM001,Ahmedabad,West,In-store,Member,Stationery,File Folder,1,35,35,5,1.75,33.25,12,21.25,Credit/Debit Card
+MDIY101275,2026-05-18,HYD001,Hyderabad,South,In-store,Member,Fashion Accessories,Sunglasses,1,149,149,10,14.9,134.1,55,79.1,UPI
+MDIY100820,2026-05-18,KOL001,Kolkata,East,In-store,Non-Member,Stationery,Notebook,1,49,49,5,2.45,46.55,18,28.55,Cash
+MDIY100095,2026-05-19,LKO001,Lucknow,North,In-store,Member,Toys,Puzzle Set,2,199,398,0,0.0,398.0,150,248.0,Credit/Debit Card
+MDIY100797,2026-05-19,CHE001,Chennai,South,In-store,Non-Member,Household,Cleaning Brush,3,59,177,5,8.85,168.15,66,102.15,Wallet
+MDIY100355,2026-05-19,DEL001,Delhi,North,Online,Non-Member,Household,Cleaning Brush,1,59,59,15,8.85,50.15,22,28.15,Credit/Debit Card
+MDIY100556,2026-05-19,HYD001,Hyderabad,South,In-store,Member,Stationery,Notebook,3,49,147,10,14.7,132.3,54,78.3,Credit/Debit Card
+MDIY101131,2026-05-19,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,Screwdriver Set,1,249,249,20,49.8,199.2,110,89.2,UPI
+MDIY100374,2026-05-20,KOL001,Kolkata,East,In-store,Member,Stationery,Pen Pack,2,39,78,0,0.0,78.0,28,50.0,UPI
+MDIY100533,2026-05-20,BHO001,Bhopal,Central,In-store,Non-Member,Home Improvement,Extension Cord,5,299,1495,15,224.25,1270.75,625,645.75,Wallet
+MDIY101471,2026-05-20,IND001,Indore,Central,Online,Non-Member,Household,Cleaning Brush,2,59,118,5,5.9,112.1,44,68.1,Credit/Debit Card
+MDIY100764,2026-05-21,KOL001,Kolkata,East,In-store,Non-Member,Fashion Accessories,Travel Pouch,1,129,129,10,12.9,116.1,48,68.1,Wallet
+MDIY100562,2026-05-21,MUM001,Mumbai,West,Online,Non-Member,Stationery,Scissors,1,69,69,10,6.9,62.1,25,37.1,UPI
+MDIY100337,2026-05-22,CHE001,Chennai,South,In-store,Member,Home Improvement,Screwdriver Set,2,249,498,5,24.9,473.1,220,253.1,Credit/Debit Card
+MDIY101112,2026-05-22,IND001,Indore,Central,In-store,Non-Member,Electrical,Battery Pack,6,79,474,0,0.0,474.0,168,306.0,Wallet
+MDIY101293,2026-05-22,AHM001,Ahmedabad,West,In-store,Non-Member,Fashion Accessories,Sunglasses,4,149,596,15,89.4,506.6,220,286.6,Credit/Debit Card
+MDIY100818,2026-05-24,LKO001,Lucknow,North,In-store,Non-Member,Household,Kitchen Organizer,1,349,349,10,34.9,314.1,145,169.1,Cash
+MDIY100188,2026-05-25,BLR001,Bengaluru,South,In-store,Non-Member,Kitchenware,Food Container Set,1,299,299,0,0.0,299.0,120,179.0,Cash
+MDIY100632,2026-05-25,HYD001,Hyderabad,South,In-store,Non-Member,Electrical,Power Strip,2,399,798,5,39.9,758.1,330,428.1,Wallet
+MDIY101241,2026-05-25,DEL001,Delhi,North,In-store,Member,Household,Kitchen Organizer,3,349,1047,20,209.4,837.6,435,402.6,Cash
+MDIY100793,2026-05-26,IND001,Indore,Central,In-store,Member,Home Improvement,Screwdriver Set,2,249,498,10,49.8,448.2,220,228.2,UPI
+MDIY100011,2026-05-27,CHE001,Chennai,South,In-store,Non-Member,Fashion Accessories,Travel Pouch,1,129,129,0,0.0,129.0,48,81.0,Wallet
+MDIY100276,2026-05-27,CHE001,Chennai,South,In-store,Member,Fashion Accessories,Sunglasses,2,149,298,15,44.7,253.3,110,143.3,Cash
+MDIY100179,2026-05-27,BHO001,Bhopal,Central,In-store,Non-Member,Electrical,Power Strip,2,399,798,5,39.9,758.1,330,428.1,Wallet
+MDIY100570,2026-05-27,LKO001,Lucknow,North,In-store,Member,Fashion Accessories,Keychain,1,39,39,20,7.8,31.2,12,19.2,UPI
+MDIY100968,2026-05-29,KOL001,Kolkata,East,In-store,Member,Electrical,Power Strip,3,399,1197,15,179.55,1017.45,495,522.45,Credit/Debit Card
+MDIY100501,2026-05-29,JAI001,Jaipur,North,In-store,Member,Toys,Toy Car,1,99,99,5,4.95,94.05,38,56.05,Cash
+MDIY101095,2026-05-29,AHM001,Ahmedabad,West,In-store,Member,Fashion Accessories,Travel Pouch,1,129,129,20,25.8,103.2,48,55.2,Cash
+MDIY101180,2026-05-30,LKO001,Lucknow,North,In-store,Non-Member,Fashion Accessories,Travel Pouch,2,129,258,5,12.9,245.1,96,149.1,Wallet
+MDIY100594,2026-05-30,AHM001,Ahmedabad,West,In-store,Non-Member,Household,Laundry Basket,1,249,249,10,24.9,224.1,105,119.1,UPI
+MDIY100480,2026-05-30,LKO001,Lucknow,North,Online,Non-Member,Stationery,Marker Set,2,99,198,0,0.0,198.0,80,118.0,Wallet
+MDIY100272,2026-05-30,AHM001,Ahmedabad,West,In-store,Member,Fashion Accessories,Travel Pouch,3,129,387,15,58.05,328.95,144,184.95,Cash
+MDIY101155,2026-05-30,JAI001,Jaipur,North,In-store,Member,Home Improvement,Extension Cord,3,299,897,5,44.85,852.15,375,477.15,Credit/Debit Card
+MDIY101146,2026-05-31,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,Measuring Tape,4,89,356,10,35.6,320.4,140,180.4,Credit/Debit Card
+MDIY101114,2026-05-31,AHM001,Ahmedabad,West,In-store,Non-Member,Fashion Accessories,Keychain,1,39,39,15,5.85,33.15,12,21.15,UPI
+MDIY100841,2026-05-31,HYD001,Hyderabad,South,In-store,Member,Stationery,Scissors,1,69,69,0,0.0,69.0,25,44.0,Credit/Debit Card
+MDIY100461,2026-05-31,KOL001,Kolkata,East,In-store,Non-Member,Fashion Accessories,Sunglasses,3,149,447,10,44.7,402.3,165,237.3,Credit/Debit Card
+MDIY100429,2026-05-31,BHO001,Bhopal,Central,Online,Non-Member,Stationery,Pen Pack,1,39,39,0,0.0,39.0,14,25.0,Credit/Debit Card
+MDIY100773,2026-05-31,MUM001,Mumbai,West,In-store,Member,Kitchenware,Lunch Box,3,249,747,5,37.35,709.65,300,409.65,Wallet
+MDIY101184,2026-05-31,BHO001,Bhopal,Central,In-store,Non-Member,Kitchenware,Water Bottle,3,149,447,15,67.05,379.95,165,214.95,Wallet
+MDIY101004,2026-05-31,BHO001,Bhopal,Central,Online,Non-Member,Fashion Accessories,Hair Clips Set,1,49,49,5,2.45,46.55,17,29.55,Cash
+MDIY100134,2026-05-31,MUM001,Mumbai,West,In-store,Non-Member,Electrical,Power Strip,3,399,1197,15,179.55,1017.45,495,522.45,Wallet
+MDIY100236,2026-06-01,HYD001,Hyderabad,South,In-store,Non-Member,Stationery,Pen Pack,3,39,117,0,0.0,117.0,42,75.0,Cash
+MDIY100907,2026-06-01,IND001,Indore,Central,In-store,Member,Toys,Doll,3,249,747,0,0.0,747.0,300,447.0,Wallet
+MDIY100651,2026-06-03,DEL001,Delhi,North,In-store,Non-Member,Kitchenware,Peeler,4,49,196,0,0.0,196.0,68,128.0,Credit/Debit Card
+MDIY100883,2026-06-03,HYD001,Hyderabad,South,In-store,Member,Fashion Accessories,Hair Clips Set,1,49,49,0,0.0,49.0,17,32.0,Cash
+MDIY100419,2026-06-04,PUN001,Pune,West,In-store,Member,Kitchenware,Lunch Box,4,249,996,15,149.4,846.6,400,446.6,Wallet
+MDIY100882,2026-06-04,LKO001,Lucknow,North,In-store,Non-Member,Household,Storage Box,4,199,796,15,119.4,676.6,320,356.6,Wallet
+MDIY101011,2026-06-04,LKO001,Lucknow,North,In-store,Member,Toys,Doll,1,249,249,10,24.9,224.1,100,124.1,Cash
+MDIY100158,2026-06-04,LKO001,Lucknow,North,In-store,Member,Stationery,Scissors,2,69,138,0,0.0,138.0,50,88.0,UPI
+MDIY100917,2026-06-05,KOL001,Kolkata,East,In-store,Member,Toys,Building Blocks,1,299,299,0,0.0,299.0,125,174.0,Wallet
+MDIY100348,2026-06-06,DEL001,Delhi,North,In-store,Member,Home Improvement,LED Bulb,1,99,99,5,4.95,94.05,45,49.05,Cash
+MDIY100946,2026-06-06,PUN001,Pune,West,In-store,Member,Stationery,Scissors,2,69,138,10,13.8,124.2,50,74.2,UPI
+MDIY100245,2026-06-07,HYD001,Hyderabad,South,In-store,Member,Kitchenware,Water Bottle,2,149,298,5,14.9,283.1,110,173.1,Wallet
+MDIY100465,2026-06-08,AHM001,Ahmedabad,West,Online,Non-Member,Stationery,Notebook,5,49,245,0,0.0,245.0,90,155.0,UPI
+MDIY100310,2026-06-08,CHE001,Chennai,South,In-store,Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,Cash
+MDIY101202,2026-06-09,CHE001,Chennai,South,Online,Non-Member,Household,Cleaning Brush,1,59,59,10,5.9,53.1,22,31.1,Wallet
+MDIY101427,2026-06-09,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Adhesive Tape,5,49,245,10,24.5,220.5,90,130.5,Cash
+MDIY100966,2026-06-09,BHO001,Bhopal,Central,In-store,Non-Member,Stationery,Scissors,2,69,138,5,6.9,131.1,50,81.1,Credit/Debit Card
+MDIY101492,2026-06-10,LKO001,Lucknow,North,In-store,Non-Member,Electrical,Night Lamp,2,199,398,20,79.6,318.4,156,162.4,Credit/Debit Card
+MDIY100323,2026-06-12,AHM001,Ahmedabad,West,In-store,Member,Stationery,Marker Set,2,99,198,5,9.9,188.1,80,108.1,Wallet
+MDIY100724,2026-06-12,LKO001,Lucknow,North,In-store,Member,Home Improvement,Screwdriver Set,3,249,747,5,37.35,709.65,330,379.65,Credit/Debit Card
+MDIY100212,2026-06-12,HYD001,Hyderabad,South,In-store,Non-Member,Toys,Puzzle Set,2,199,398,0,0.0,398.0,150,248.0,Cash
+MDIY100238,2026-06-12,BLR001,Bengaluru,South,In-store,Non-Member,Home Improvement,Measuring Tape,3,89,267,0,0.0,267.0,105,162.0,Cash
+MDIY100623,2026-06-13,IND001,Indore,Central,In-store,Non-Member,Home Improvement,Screwdriver Set,1,249,249,0,0.0,249.0,110,139.0,Wallet
+MDIY101390,2026-06-13,DEL001,Delhi,North,In-store,Member,Fashion Accessories,Travel Pouch,2,129,258,10,25.8,232.2,96,136.2,Cash
+MDIY100304,2026-06-13,JAI001,Jaipur,North,In-store,Non-Member,Electrical,Phone Cable,1,149,149,5,7.45,141.55,55,86.55,Cash
+MDIY101477,2026-06-13,HYD001,Hyderabad,South,In-store,Non-Member,Fashion Accessories,Keychain,3,39,117,10,11.7,105.3,36,69.3,Wallet
+MDIY100945,2026-06-14,BLR001,Bengaluru,South,In-store,Member,Electrical,Phone Cable,1,149,149,0,0.0,149.0,55,94.0,Cash
+MDIY100077,2026-06-14,MUM001,Mumbai,West,In-store,Non-Member,Home Improvement,Screwdriver Set,3,249,747,5,37.35,709.65,330,379.65,Wallet
+MDIY100772,2026-06-15,PUN001,Pune,West,In-store,Member,Stationery,Scissors,2,69,138,15,20.7,117.3,50,67.3,Cash
+MDIY101330,2026-06-16,PUN001,Pune,West,In-store,Non-Member,Electrical,Battery Pack,1,79,79,0,0.0,79.0,28,51.0,Credit/Debit Card
+MDIY100224,2026-06-16,MUM001,Mumbai,West,In-store,Member,Electrical,Mobile Holder,6,99,594,5,29.7,564.3,210,354.3,Wallet
+MDIY100446,2026-06-16,KOL001,Kolkata,East,In-store,Non-Member,Fashion Accessories,Keychain,1,39,39,10,3.9,35.1,12,23.1,Wallet
+MDIY100962,2026-06-16,HYD001,Hyderabad,South,In-store,Non-Member,Household,Cleaning Brush,3,59,177,5,8.85,168.15,66,102.15,Wallet
+MDIY100048,2026-06-17,KOL001,Kolkata,East,In-store,Non-Member,Fashion Accessories,Wallet,1,199,199,0,0.0,199.0,75,124.0,Credit/Debit Card
+MDIY100794,2026-06-17,HYD001,Hyderabad,South,In-store,Non-Member,Kitchenware,Peeler,1,49,49,10,4.9,44.1,17,27.1,Credit/Debit Card
+MDIY100514,2026-06-17,DEL001,Delhi,North,In-store,Member,Toys,Toy Car,3,99,297,0,0.0,297.0,114,183.0,Wallet
+MDIY100694,2026-06-17,BLR001,Bengaluru,South,In-store,Member,Fashion Accessories,Wallet,1,199,199,0,0.0,199.0,75,124.0,UPI
+MDIY101177,2026-06-18,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Measuring Tape,5,89,445,15,66.75,378.25,175,203.25,UPI
+MDIY101334,2026-06-18,JAI001,Jaipur,North,In-store,Member,Kitchenware,Peeler,1,49,49,0,0.0,49.0,17,32.0,Wallet
+MDIY101338,2026-06-18,BLR001,Bengaluru,South,In-store,Member,Household,Kitchen Organizer,3,349,1047,15,157.05,889.95,435,454.95,Cash
+MDIY100811,2026-06-19,MUM001,Mumbai,West,In-store,Non-Member,Stationery,Scissors,1,69,69,0,0.0,69.0,25,44.0,Wallet
+MDIY101467,2026-06-20,PUN001,Pune,West,In-store,Non-Member,Home Improvement,Screwdriver Set,1,249,249,5,12.45,236.55,110,126.55,UPI
+MDIY101181,2026-06-20,BLR001,Bengaluru,South,In-store,Member,Home Improvement,Screwdriver Set,2,249,498,0,0.0,498.0,220,278.0,Wallet
+MDIY101371,2026-06-21,AHM001,Ahmedabad,West,In-store,Member,Kitchenware,Peeler,1,49,49,5,2.45,46.55,17,29.55,UPI
+MDIY100650,2026-06-22,PUN001,Pune,West,In-store,Member,Household,Storage Box,1,199,199,0,0.0,199.0,80,119.0,Wallet
+MDIY101317,2026-06-22,KOL001,Kolkata,East,In-store,Member,Toys,Puzzle Set,1,199,199,15,29.85,169.15,75,94.15,Credit/Debit Card
+MDIY101267,2026-06-22,CHE001,Chennai,South,In-store,Non-Member,Electrical,Power Strip,1,399,399,0,0.0,399.0,165,234.0,Wallet
+MDIY100133,2026-06-23,LKO001,Lucknow,North,In-store,Member,Fashion Accessories,Hair Clips Set,2,49,98,10,9.8,88.2,34,54.2,Wallet
+MDIY100181,2026-06-23,KOL001,Kolkata,East,In-store,Non-Member,Electrical,Battery Pack,2,79,158,0,0.0,158.0,56,102.0,Credit/Debit Card
+MDIY100579,2026-06-23,BHO001,Bhopal,Central,In-store,Member,Fashion Accessories,Keychain,1,39,39,0,0.0,39.0,12,27.0,UPI
+MDIY100375,2026-06-24,HYD001,Hyderabad,South,In-store,Member,Home Improvement,Adhesive Tape,5,49,245,0,0.0,245.0,90,155.0,Credit/Debit Card
+MDIY100858,2026-06-24,IND001,Indore,Central,In-store,Non-Member,Fashion Accessories,Keychain,1,39,39,5,1.95,37.05,12,25.05,Credit/Debit Card
+MDIY101052,2026-06-25,AHM001,Ahmedabad,West,In-store,Non-Member,Stationery,Marker Set,3,99,297,0,0.0,297.0,120,177.0,UPI
+MDIY101494,2026-06-25,AHM001,Ahmedabad,West,In-store,Non-Member,Fashion Accessories,Travel Pouch,4,129,516,5,25.8,490.2,192,298.2,UPI
+MDIY100243,2026-06-25,AHM001,Ahmedabad,West,In-store,Member,Stationery,Notebook,5,49,245,0,0.0,245.0,90,155.0,Cash
+MDIY101490,2026-06-26,DEL001,Delhi,North,In-store,Non-Member,Electrical,Mobile Holder,1,99,99,5,4.95,94.05,35,59.05,Wallet
+MDIY101227,2026-06-28,HYD001,Hyderabad,South,In-store,Member,Stationery,Marker Set,1,99,99,5,4.95,94.05,40,54.05,Cash
+MDIY100559,2026-06-29,PUN001,Pune,West,In-store,Non-Member,Toys,Toy Car,4,99,396,0,0.0,396.0,152,244.0,Wallet
+MDIY101472,2026-06-29,MUM001,Mumbai,West,In-store,Member,Stationery,Marker Set,3,99,297,5,14.85,282.15,120,162.15,Cash
+MDIY100225,2026-06-30,BLR001,Bengaluru,South,In-store,Non-Member,Electrical,Mobile Holder,3,99,297,15,44.55,252.45,105,147.45,Wallet
+MDIY100372,2026-07-01,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Screwdriver Set,2,249,498,20,99.6,398.4,220,178.4,Cash
+MDIY100170,2026-07-01,MUM001,Mumbai,West,In-store,Non-Member,Stationery,Scissors,4,69,276,0,0.0,276.0,100,176.0,Wallet
+MDIY100264,2026-07-01,IND001,Indore,Central,In-store,Member,Stationery,Marker Set,1,99,99,5,4.95,94.05,40,54.05,Wallet
+MDIY100752,2026-07-01,PUN001,Pune,West,In-store,Non-Member,Home Improvement,LED Bulb,2,99,198,5,9.9,188.1,90,98.1,Credit/Debit Card
+MDIY100009,2026-07-01,AHM001,Ahmedabad,West,Online,Member,Household,Laundry Basket,2,249,498,0,0.0,498.0,210,288.0,Credit/Debit Card
+MDIY100912,2026-07-01,BHO001,Bhopal,Central,Online,Non-Member,Stationery,Scissors,2,69,138,5,6.9,131.1,50,81.1,Wallet
+MDIY100706,2026-07-02,BLR001,Bengaluru,South,In-store,Member,Home Improvement,Measuring Tape,3,89,267,0,0.0,267.0,105,162.0,Wallet
+MDIY100993,2026-07-02,AHM001,Ahmedabad,West,In-store,Member,Toys,Toy Car,1,99,99,10,9.9,89.1,38,51.1,Wallet
+MDIY100864,2026-07-02,DEL001,Delhi,North,In-store,Non-Member,Home Improvement,Measuring Tape,1,89,89,0,0.0,89.0,35,54.0,Wallet
+MDIY100214,2026-07-04,DEL001,Delhi,North,In-store,Non-Member,Kitchenware,Water Bottle,2,149,298,15,44.7,253.3,110,143.3,Credit/Debit Card
+MDIY101468,2026-07-04,DEL001,Delhi,North,In-store,Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,UPI
+MDIY100307,2026-07-04,JAI001,Jaipur,North,In-store,Non-Member,Stationery,Marker Set,1,99,99,0,0.0,99.0,40,59.0,Credit/Debit Card
+MDIY100981,2026-07-04,CHE001,Chennai,South,In-store,Member,Toys,Building Blocks,2,299,598,15,89.7,508.3,250,258.3,Credit/Debit Card
+MDIY100927,2026-07-06,LKO001,Lucknow,North,In-store,Non-Member,Kitchenware,Water Bottle,2,149,298,15,44.7,253.3,110,143.3,UPI
+MDIY101138,2026-07-06,KOL001,Kolkata,East,In-store,Non-Member,Toys,Soft Toy,2,199,398,0,0.0,398.0,164,234.0,Cash
+MDIY100894,2026-07-07,BHO001,Bhopal,Central,In-store,Member,Stationery,Pen Pack,4,39,156,0,0.0,156.0,56,100.0,UPI
+MDIY100709,2026-07-08,IND001,Indore,Central,In-store,Member,Stationery,Scissors,2,69,138,15,20.7,117.3,50,67.3,UPI
+MDIY100795,2026-07-08,KOL001,Kolkata,East,In-store,Non-Member,Home Improvement,LED Bulb,6,99,594,15,89.1,504.9,270,234.9,Credit/Debit Card
+MDIY100126,2026-07-08,CHE001,Chennai,South,In-store,Non-Member,Electrical,Phone Cable,4,149,596,10,59.6,536.4,220,316.4,Credit/Debit Card
+MDIY100061,2026-07-10,HYD001,Hyderabad,South,Online,Member,Toys,Building Blocks,1,299,299,5,14.95,284.05,125,159.05,Wallet
+MDIY101469,2026-07-10,BHO001,Bhopal,Central,In-store,Member,Household,Kitchen Organizer,2,349,698,5,34.9,663.1,290,373.1,Wallet
+MDIY101127,2026-07-10,AHM001,Ahmedabad,West,In-store,Non-Member,Kitchenware,Mug,4,99,396,0,0.0,396.0,140,256.0,Cash
+MDIY100128,2026-07-12,IND001,Indore,Central,In-store,Non-Member,Stationery,Notebook,2,49,98,0,0.0,98.0,36,62.0,UPI
+MDIY100667,2026-07-12,AHM001,Ahmedabad,West,Online,Non-Member,Household,Laundry Basket,3,249,747,0,0.0,747.0,315,432.0,UPI
+MDIY100675,2026-07-13,MUM001,Mumbai,West,In-store,Non-Member,Fashion Accessories,Wallet,2,199,398,0,0.0,398.0,150,248.0,Wallet
+MDIY100189,2026-07-13,PUN001,Pune,West,In-store,Non-Member,Stationery,Notebook,1,49,49,10,4.9,44.1,18,26.1,Cash
+MDIY100384,2026-07-14,CHE001,Chennai,South,In-store,Member,Home Improvement,Measuring Tape,3,89,267,5,13.35,253.65,105,148.65,Cash
+MDIY101360,2026-07-14,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Measuring Tape,1,89,89,20,17.8,71.2,35,36.2,Wallet
+MDIY100603,2026-07-14,KOL001,Kolkata,East,Online,Member,Kitchenware,Mug,2,99,198,10,19.8,178.2,70,108.2,Wallet
+MDIY100316,2026-07-14,MUM001,Mumbai,West,In-store,Member,Toys,Building Blocks,3,299,897,10,89.7,807.3,375,432.3,Wallet
+MDIY101368,2026-07-15,CHE001,Chennai,South,In-store,Non-Member,Toys,Building Blocks,1,299,299,5,14.95,284.05,125,159.05,Credit/Debit Card
+MDIY100051,2026-07-16,DEL001,Delhi,North,In-store,Non-Member,Stationery,Marker Set,1,99,99,10,9.9,89.1,40,49.1,Wallet
+MDIY100058,2026-07-16,HYD001,Hyderabad,South,In-store,Non-Member,Household,Microfiber Cloth,2,79,158,10,15.8,142.2,60,82.2,Wallet
+MDIY101051,2026-07-16,CHE001,Chennai,South,In-store,Non-Member,Stationery,Scissors,3,69,207,20,41.4,165.6,75,90.6,UPI
+MDIY100242,2026-07-17,HYD001,Hyderabad,South,In-store,Member,Kitchenware,Food Container Set,3,299,897,15,134.55,762.45,360,402.45,Wallet
+MDIY100657,2026-07-17,BLR001,Bengaluru,South,In-store,Member,Stationery,Pen Pack,5,39,195,10,19.5,175.5,70,105.5,UPI
+MDIY100637,2026-07-18,LKO001,Lucknow,North,In-store,Non-Member,Stationery,Scissors,1,69,69,10,6.9,62.1,25,37.1,Cash
+MDIY100965,2026-07-18,LKO001,Lucknow,North,In-store,Member,Household,Storage Box,1,199,199,5,9.95,189.05,80,109.05,Wallet
+MDIY100216,2026-07-18,PUN001,Pune,West,Online,Non-Member,Kitchenware,Food Container Set,3,299,897,0,0.0,897.0,360,537.0,Credit/Debit Card
+MDIY100629,2026-07-18,CHE001,Chennai,South,In-store,Member,Home Improvement,Screwdriver Set,5,249,1245,5,62.25,1182.75,550,632.75,Cash
+MDIY100491,2026-07-19,LKO001,Lucknow,North,In-store,Member,Household,Kitchen Organizer,1,349,349,0,0.0,349.0,145,204.0,Credit/Debit Card
+MDIY101294,2026-07-19,PUN001,Pune,West,In-store,Member,Kitchenware,Lunch Box,2,249,498,0,0.0,498.0,200,298.0,UPI
+MDIY100039,2026-07-19,AHM001,Ahmedabad,West,Online,Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,UPI
+MDIY100014,2026-07-21,DEL001,Delhi,North,In-store,Non-Member,Fashion Accessories,Hair Clips Set,3,49,147,5,7.35,139.65,51,88.65,UPI
+MDIY101296,2026-07-21,MUM001,Mumbai,West,In-store,Member,Home Improvement,Adhesive Tape,3,49,147,10,14.7,132.3,54,78.3,Wallet
+MDIY100460,2026-07-21,IND001,Indore,Central,In-store,Member,Household,Laundry Basket,1,249,249,10,24.9,224.1,105,119.1,Cash
+MDIY101015,2026-07-21,AHM001,Ahmedabad,West,In-store,Non-Member,Household,Cleaning Brush,2,59,118,0,0.0,118.0,44,74.0,UPI
+MDIY100988,2026-07-21,LKO001,Lucknow,North,In-store,Non-Member,Stationery,Notebook,3,49,147,5,7.35,139.65,54,85.65,Wallet
+MDIY100079,2026-07-21,KOL001,Kolkata,East,In-store,Non-Member,Stationery,Scissors,6,69,414,5,20.7,393.3,150,243.3,Credit/Debit Card
+MDIY101302,2026-07-21,CHE001,Chennai,South,In-store,Non-Member,Fashion Accessories,Sunglasses,4,149,596,15,89.4,506.6,220,286.6,Cash
+MDIY100786,2026-07-22,CHE001,Chennai,South,In-store,Non-Member,Stationery,Scissors,1,69,69,0,0.0,69.0,25,44.0,Credit/Debit Card
+MDIY100610,2026-07-23,PUN001,Pune,West,In-store,Non-Member,Household,Laundry Basket,1,249,249,0,0.0,249.0,105,144.0,Cash
+MDIY100919,2026-07-23,IND001,Indore,Central,In-store,Member,Kitchenware,Lunch Box,1,249,249,5,12.45,236.55,100,136.55,Cash
+MDIY100954,2026-07-23,LKO001,Lucknow,North,Online,Non-Member,Household,Cleaning Brush,2,59,118,10,11.8,106.2,44,62.2,UPI
+MDIY100844,2026-07-24,IND001,Indore,Central,In-store,Member,Fashion Accessories,Travel Pouch,1,129,129,0,0.0,129.0,48,81.0,Wallet
+MDIY101438,2026-07-24,AHM001,Ahmedabad,West,In-store,Member,Toys,Toy Car,1,99,99,5,4.95,94.05,38,56.05,UPI
+MDIY100257,2026-07-24,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,Adhesive Tape,5,49,245,10,24.5,220.5,90,130.5,Wallet
+MDIY100665,2026-07-24,IND001,Indore,Central,In-store,Member,Home Improvement,Adhesive Tape,2,49,98,5,4.9,93.1,36,57.1,Cash
+MDIY100878,2026-07-25,DEL001,Delhi,North,In-store,Member,Home Improvement,Adhesive Tape,4,49,196,0,0.0,196.0,72,124.0,UPI
+MDIY100974,2026-07-26,DEL001,Delhi,North,Online,Member,Stationery,Pen Pack,2,39,78,0,0.0,78.0,28,50.0,Wallet
+MDIY100526,2026-07-27,LKO001,Lucknow,North,In-store,Non-Member,Electrical,Mobile Holder,1,99,99,0,0.0,99.0,35,64.0,Credit/Debit Card
+MDIY100573,2026-07-27,PUN001,Pune,West,In-store,Non-Member,Electrical,Night Lamp,1,199,199,0,0.0,199.0,78,121.0,Credit/Debit Card
+MDIY101362,2026-07-29,JAI001,Jaipur,North,In-store,Non-Member,Household,Microfiber Cloth,2,79,158,0,0.0,158.0,60,98.0,Cash
+MDIY101375,2026-07-29,KOL001,Kolkata,East,In-store,Non-Member,Fashion Accessories,Wallet,1,199,199,0,0.0,199.0,75,124.0,Cash
+MDIY101347,2026-07-30,BLR001,Bengaluru,South,In-store,Non-Member,Stationery,Marker Set,2,99,198,10,19.8,178.2,80,98.2,UPI
+MDIY101209,2026-07-30,LKO001,Lucknow,North,In-store,Non-Member,Toys,Puzzle Set,2,199,398,5,19.9,378.1,150,228.1,UPI
+MDIY101258,2026-07-30,AHM001,Ahmedabad,West,In-store,Non-Member,Toys,Toy Car,1,99,99,10,9.9,89.1,38,51.1,Credit/Debit Card
+MDIY100998,2026-07-30,IND001,Indore,Central,Online,Member,Household,Kitchen Organizer,1,349,349,5,17.45,331.55,145,186.55,Cash
+MDIY100220,2026-07-31,PUN001,Pune,West,Online,Non-Member,Toys,Building Blocks,1,299,299,10,29.9,269.1,125,144.1,UPI
+MDIY100400,2026-07-31,LKO001,Lucknow,North,In-store,Non-Member,Kitchenware,Mug,4,99,396,15,59.4,336.6,140,196.6,Wallet
+MDIY100856,2026-07-31,BHO001,Bhopal,Central,In-store,Non-Member,Toys,Building Blocks,3,299,897,10,89.7,807.3,375,432.3,Wallet
+MDIY100586,2026-07-31,KOL001,Kolkata,East,In-store,Non-Member,Household,Microfiber Cloth,3,79,237,15,35.55,201.45,90,111.45,Wallet
+MDIY101316,2026-08-02,KOL001,Kolkata,East,In-store,Member,Electrical,Battery Pack,3,79,237,5,11.85,225.15,84,141.15,Wallet
+MDIY100018,2026-08-04,LKO001,Lucknow,North,In-store,Member,Home Improvement,Measuring Tape,3,89,267,20,53.4,213.6,105,108.6,Cash
+MDIY100833,2026-08-04,LKO001,Lucknow,North,In-store,Non-Member,Home Improvement,Extension Cord,2,299,598,15,89.7,508.3,250,258.3,UPI
+MDIY100705,2026-08-04,KOL001,Kolkata,East,In-store,Member,Stationery,Marker Set,3,99,297,5,14.85,282.15,120,162.15,Credit/Debit Card
+MDIY101205,2026-08-04,BLR001,Bengaluru,South,Online,Non-Member,Stationery,Notebook,2,49,98,15,14.7,83.3,36,47.3,Wallet
+MDIY101027,2026-08-04,MUM001,Mumbai,West,In-store,Non-Member,Household,Laundry Basket,1,249,249,0,0.0,249.0,105,144.0,Wallet
+MDIY100380,2026-08-05,DEL001,Delhi,North,In-store,Member,Household,Kitchen Organizer,1,349,349,10,34.9,314.1,145,169.1,Wallet
+MDIY101277,2026-08-05,KOL001,Kolkata,East,Online,Non-Member,Kitchenware,Water Bottle,1,149,149,10,14.9,134.1,55,79.1,Cash
+MDIY101078,2026-08-05,AHM001,Ahmedabad,West,In-store,Member,Stationery,Notebook,5,49,245,10,24.5,220.5,90,130.5,Wallet
+MDIY100984,2026-08-06,HYD001,Hyderabad,South,In-store,Non-Member,Toys,Doll,2,249,498,10,49.8,448.2,200,248.2,Credit/Debit Card
+MDIY100267,2026-08-07,MUM001,Mumbai,West,In-store,Non-Member,Toys,Soft Toy,2,199,398,10,39.8,358.2,164,194.2,Wallet
+MDIY100023,2026-08-08,BHO001,Bhopal,Central,In-store,Member,Toys,Toy Car,3,99,297,10,29.7,267.3,114,153.3,Wallet
+MDIY100160,2026-08-09,IND001,Indore,Central,Online,Non-Member,Household,Cleaning Brush,2,59,118,5,5.9,112.1,44,68.1,UPI
+MDIY100389,2026-08-09,KOL001,Kolkata,East,In-store,Non-Member,Kitchenware,Peeler,1,49,49,0,0.0,49.0,17,32.0,Wallet
+MDIY100937,2026-08-09,DEL001,Delhi,North,In-store,Member,Fashion Accessories,Wallet,6,199,1194,5,59.7,1134.3,450,684.3,Cash
+MDIY100320,2026-08-10,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Food Container Set,6,299,1794,10,179.4,1614.6,720,894.6,UPI
+MDIY101349,2026-08-10,JAI001,Jaipur,North,Online,Non-Member,Electrical,Phone Cable,3,149,447,0,0.0,447.0,165,282.0,Cash
+MDIY101024,2026-08-10,BLR001,Bengaluru,South,In-store,Non-Member,Kitchenware,Lunch Box,1,249,249,0,0.0,249.0,100,149.0,UPI
+MDIY100315,2026-08-10,LKO001,Lucknow,North,In-store,Member,Stationery,File Folder,4,35,140,0,0.0,140.0,48,92.0,Wallet
+MDIY101044,2026-08-10,BLR001,Bengaluru,South,In-store,Member,Household,Cleaning Brush,5,59,295,5,14.75,280.25,110,170.25,Cash
+MDIY100228,2026-08-11,IND001,Indore,Central,In-store,Member,Electrical,Night Lamp,4,199,796,0,0.0,796.0,312,484.0,Credit/Debit Card
+MDIY100194,2026-08-11,JAI001,Jaipur,North,In-store,Member,Electrical,Mobile Holder,2,99,198,10,19.8,178.2,70,108.2,UPI
+MDIY101210,2026-08-11,IND001,Indore,Central,In-store,Non-Member,Toys,Doll,1,249,249,0,0.0,249.0,100,149.0,Wallet
+MDIY100152,2026-08-11,CHE001,Chennai,South,Online,Member,Fashion Accessories,Travel Pouch,1,129,129,5,6.45,122.55,48,74.55,Wallet
+MDIY100754,2026-08-11,IND001,Indore,Central,In-store,Member,Household,Kitchen Organizer,3,349,1047,15,157.05,889.95,435,454.95,Wallet
+MDIY100531,2026-08-11,PUN001,Pune,West,In-store,Non-Member,Household,Laundry Basket,2,249,498,0,0.0,498.0,210,288.0,Cash
+MDIY100504,2026-08-11,BHO001,Bhopal,Central,In-store,Member,Household,Laundry Basket,2,249,498,0,0.0,498.0,210,288.0,Cash
+MDIY100478,2026-08-12,MUM001,Mumbai,West,In-store,Member,Stationery,Scissors,2,69,138,10,13.8,124.2,50,74.2,Wallet
+MDIY100534,2026-08-12,PUN001,Pune,West,In-store,Member,Toys,Toy Car,6,99,594,15,89.1,504.9,228,276.9,Cash
+MDIY100070,2026-08-13,IND001,Indore,Central,In-store,Member,Toys,Doll,5,249,1245,0,0.0,1245.0,500,745.0,UPI
+MDIY101212,2026-08-14,DEL001,Delhi,North,Online,Non-Member,Stationery,Notebook,2,49,98,15,14.7,83.3,36,47.3,Credit/Debit Card
+MDIY100517,2026-08-15,BLR001,Bengaluru,South,In-store,Member,Kitchenware,Peeler,3,49,147,15,22.05,124.95,51,73.95,Wallet
+MDIY100647,2026-08-15,IND001,Indore,Central,In-store,Non-Member,Stationery,Marker Set,1,99,99,0,0.0,99.0,40,59.0,Wallet
+MDIY100679,2026-08-15,HYD001,Hyderabad,South,Online,Non-Member,Kitchenware,Lunch Box,3,249,747,0,0.0,747.0,300,447.0,UPI
+MDIY101189,2026-08-15,CHE001,Chennai,South,Online,Member,Household,Microfiber Cloth,6,79,474,0,0.0,474.0,180,294.0,Wallet
+MDIY100636,2026-08-16,BLR001,Bengaluru,South,Online,Member,Home Improvement,LED Bulb,3,99,297,0,0.0,297.0,135,162.0,Wallet
+MDIY100781,2026-08-16,DEL001,Delhi,North,In-store,Member,Electrical,Phone Cable,3,149,447,20,89.4,357.6,165,192.6,UPI
+MDIY100499,2026-08-16,KOL001,Kolkata,East,In-store,Member,Electrical,Phone Cable,1,149,149,0,0.0,149.0,55,94.0,Credit/Debit Card
+MDIY101175,2026-08-16,BHO001,Bhopal,Central,In-store,Non-Member,Household,Cleaning Brush,3,59,177,15,26.55,150.45,66,84.45,UPI
+MDIY100711,2026-08-17,MUM001,Mumbai,West,In-store,Member,Home Improvement,LED Bulb,3,99,297,5,14.85,282.15,135,147.15,Cash
+MDIY100537,2026-08-18,LKO001,Lucknow,North,In-store,Member,Stationery,Marker Set,2,99,198,0,0.0,198.0,80,118.0,Credit/Debit Card
+MDIY101443,2026-08-18,IND001,Indore,Central,In-store,Member,Toys,Doll,2,249,498,10,49.8,448.2,200,248.2,UPI
+MDIY100768,2026-08-19,DEL001,Delhi,North,In-store,Member,Household,Cleaning Brush,2,59,118,10,11.8,106.2,44,62.2,Credit/Debit Card
+MDIY101276,2026-08-20,DEL001,Delhi,North,Online,Non-Member,Fashion Accessories,Hair Clips Set,1,49,49,10,4.9,44.1,17,27.1,Wallet
+MDIY100604,2026-08-20,IND001,Indore,Central,In-store,Non-Member,Electrical,Power Strip,1,399,399,0,0.0,399.0,165,234.0,UPI
+MDIY100418,2026-08-21,AHM001,Ahmedabad,West,In-store,Non-Member,Electrical,Phone Cable,1,149,149,10,14.9,134.1,55,79.1,Credit/Debit Card
+MDIY100012,2026-08-21,CHE001,Chennai,South,In-store,Member,Stationery,Pen Pack,6,39,234,0,0.0,234.0,84,150.0,UPI
+MDIY100848,2026-08-21,DEL001,Delhi,North,In-store,Non-Member,Electrical,Battery Pack,1,79,79,15,11.85,67.15,28,39.15,UPI
+MDIY101459,2026-08-22,DEL001,Delhi,North,Online,Non-Member,Stationery,Marker Set,3,99,297,10,29.7,267.3,120,147.3,Wallet
+MDIY100030,2026-08-22,HYD001,Hyderabad,South,In-store,Member,Electrical,Battery Pack,1,79,79,20,15.8,63.2,28,35.2,UPI
+MDIY101249,2026-08-23,LKO001,Lucknow,North,In-store,Non-Member,Stationery,Pen Pack,1,39,39,15,5.85,33.15,14,19.15,Wallet
+MDIY100515,2026-08-23,PUN001,Pune,West,In-store,Non-Member,Stationery,File Folder,2,35,70,0,0.0,70.0,24,46.0,Cash
+MDIY101398,2026-08-23,CHE001,Chennai,South,In-store,Non-Member,Household,Kitchen Organizer,2,349,698,20,139.6,558.4,290,268.4,Cash
+MDIY100342,2026-08-24,IND001,Indore,Central,Online,Member,Kitchenware,Water Bottle,1,149,149,5,7.45,141.55,55,86.55,UPI
+MDIY100528,2026-08-24,DEL001,Delhi,North,In-store,Member,Toys,Building Blocks,1,299,299,0,0.0,299.0,125,174.0,Cash
+MDIY101108,2026-08-24,IND001,Indore,Central,In-store,Non-Member,Kitchenware,Lunch Box,1,249,249,5,12.45,236.55,100,136.55,Credit/Debit Card
+MDIY101060,2026-08-24,BHO001,Bhopal,Central,In-store,Member,Electrical,Night Lamp,1,199,199,10,19.9,179.1,78,101.1,Wallet
+MDIY100976,2026-08-25,DEL001,Delhi,North,Online,Non-Member,Electrical,Power Strip,5,399,1995,0,0.0,1995.0,825,1170.0,Wallet
+MDIY100779,2026-08-25,MUM001,Mumbai,West,In-store,Non-Member,Household,Cleaning Brush,1,59,59,0,0.0,59.0,22,37.0,Credit/Debit Card
+MDIY100467,2026-08-26,KOL001,Kolkata,East,In-store,Non-Member,Fashion Accessories,Keychain,1,39,39,10,3.9,35.1,12,23.1,Cash
+MDIY101075,2026-08-26,HYD001,Hyderabad,South,In-store,Non-Member,Home Improvement,Extension Cord,1,299,299,5,14.95,284.05,125,159.05,UPI
+MDIY100318,2026-08-26,AHM001,Ahmedabad,West,In-store,Member,Stationery,File Folder,2,35,70,0,0.0,70.0,24,46.0,Cash
+MDIY100933,2026-08-26,JAI001,Jaipur,North,In-store,Non-Member,Fashion Accessories,Hair Clips Set,1,49,49,15,7.35,41.65,17,24.65,Cash
+MDIY100900,2026-08-26,KOL001,Kolkata,East,In-store,Non-Member,Electrical,Night Lamp,4,199,796,5,39.8,756.2,312,444.2,Wallet
+MDIY100379,2026-08-27,JAI001,Jaipur,North,In-store,Member,Toys,Puzzle Set,3,199,597,0,0.0,597.0,225,372.0,Wallet
+MDIY100512,2026-08-27,AHM001,Ahmedabad,West,In-store,Member,Kitchenware,Food Container Set,1,299,299,0,0.0,299.0,120,179.0,UPI
+MDIY100762,2026-08-28,CHE001,Chennai,South,In-store,Non-Member,Home Improvement,LED Bulb,2,99,198,15,29.7,168.3,90,78.3,Cash
+MDIY100807,2026-08-30,BLR001,Bengaluru,South,In-store,Non-Member,Stationery,Notebook,2,49,98,5,4.9,93.1,36,57.1,UPI
+MDIY100668,2026-08-30,BHO001,Bhopal,Central,In-store,Non-Member,Toys,Puzzle Set,2,199,398,15,59.7,338.3,150,188.3,UPI
+MDIY101077,2026-08-30,JAI001,Jaipur,North,In-store,Member,Stationery,Notebook,3,49,147,10,14.7,132.3,54,78.3,Wallet
+MDIY100715,2026-08-31,JAI001,Jaipur,North,In-store,Non-Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,Cash
+MDIY101143,2026-09-01,JAI001,Jaipur,North,In-store,Non-Member,Home Improvement,Screwdriver Set,1,249,249,0,0.0,249.0,110,139.0,Cash
+MDIY101373,2026-09-01,JAI001,Jaipur,North,In-store,Member,Home Improvement,Adhesive Tape,2,49,98,15,14.7,83.3,36,47.3,Cash
+MDIY100409,2026-09-01,HYD001,Hyderabad,South,In-store,Non-Member,Household,Microfiber Cloth,2,79,158,0,0.0,158.0,60,98.0,UPI
+MDIY100165,2026-09-02,AHM001,Ahmedabad,West,In-store,Member,Home Improvement,Adhesive Tape,2,49,98,10,9.8,88.2,36,52.2,UPI
+MDIY100031,2026-09-02,LKO001,Lucknow,North,In-store,Member,Fashion Accessories,Wallet,2,199,398,20,79.6,318.4,150,168.4,UPI
+MDIY100521,2026-09-04,DEL001,Delhi,North,In-store,Non-Member,Kitchenware,Lunch Box,2,249,498,5,24.9,473.1,200,273.1,Cash
+MDIY100308,2026-09-04,CHE001,Chennai,South,In-store,Member,Electrical,Night Lamp,2,199,398,0,0.0,398.0,156,242.0,Credit/Debit Card
+MDIY100221,2026-09-04,HYD001,Hyderabad,South,In-store,Member,Stationery,File Folder,2,35,70,10,7.0,63.0,24,39.0,Wallet
+MDIY100137,2026-09-04,KOL001,Kolkata,East,In-store,Member,Stationery,Scissors,2,69,138,5,6.9,131.1,50,81.1,Cash
+MDIY100922,2026-09-05,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Peeler,6,49,294,15,44.1,249.9,102,147.9,UPI
+MDIY100669,2026-09-05,LKO001,Lucknow,North,In-store,Member,Fashion Accessories,Keychain,3,39,117,0,0.0,117.0,36,81.0,UPI
+MDIY101432,2026-09-06,IND001,Indore,Central,In-store,Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,Credit/Debit Card
+MDIY100574,2026-09-06,KOL001,Kolkata,East,In-store,Non-Member,Household,Storage Box,2,199,398,5,19.9,378.1,160,218.1,Wallet
+MDIY101444,2026-09-06,BHO001,Bhopal,Central,In-store,Non-Member,Fashion Accessories,Travel Pouch,5,129,645,0,0.0,645.0,240,405.0,UPI
+MDIY101111,2026-09-06,PUN001,Pune,West,In-store,Member,Fashion Accessories,Wallet,1,199,199,20,39.8,159.2,75,84.2,Wallet
+MDIY100959,2026-09-06,CHE001,Chennai,South,In-store,Non-Member,Fashion Accessories,Wallet,5,199,995,10,99.5,895.5,375,520.5,Cash
+MDIY101346,2026-09-08,CHE001,Chennai,South,In-store,Non-Member,Fashion Accessories,Wallet,1,199,199,0,0.0,199.0,75,124.0,UPI
+MDIY101170,2026-09-08,CHE001,Chennai,South,In-store,Member,Home Improvement,Adhesive Tape,3,49,147,20,29.4,117.6,54,63.6,UPI
+MDIY100593,2026-09-09,DEL001,Delhi,North,In-store,Member,Fashion Accessories,Travel Pouch,1,129,129,5,6.45,122.55,48,74.55,Credit/Debit Card
+MDIY101137,2026-09-09,IND001,Indore,Central,In-store,Non-Member,Stationery,Pen Pack,3,39,117,10,11.7,105.3,42,63.3,Wallet
+MDIY101034,2026-09-09,LKO001,Lucknow,North,In-store,Non-Member,Kitchenware,Food Container Set,1,299,299,10,29.9,269.1,120,149.1,Wallet
+MDIY101489,2026-09-11,AHM001,Ahmedabad,West,In-store,Non-Member,Home Improvement,Screwdriver Set,1,249,249,5,12.45,236.55,110,126.55,UPI
+MDIY100970,2026-09-11,JAI001,Jaipur,North,In-store,Non-Member,Kitchenware,Food Container Set,5,299,1495,0,0.0,1495.0,600,895.0,Wallet
+MDIY100263,2026-09-11,AHM001,Ahmedabad,West,In-store,Non-Member,Household,Microfiber Cloth,5,79,395,5,19.75,375.25,150,225.25,Wallet
+MDIY100451,2026-09-11,BHO001,Bhopal,Central,In-store,Non-Member,Fashion Accessories,Sunglasses,4,149,596,5,29.8,566.2,220,346.2,Credit/Debit Card
+MDIY101350,2026-09-12,KOL001,Kolkata,East,In-store,Non-Member,Home Improvement,LED Bulb,3,99,297,0,0.0,297.0,135,162.0,UPI
+MDIY100639,2026-09-12,AHM001,Ahmedabad,West,In-store,Non-Member,Stationery,Scissors,2,69,138,0,0.0,138.0,50,88.0,Cash
+MDIY101357,2026-09-13,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Mug,2,99,198,10,19.8,178.2,70,108.2,Cash
+MDIY100509,2026-09-13,LKO001,Lucknow,North,In-store,Member,Household,Microfiber Cloth,4,79,316,5,15.8,300.2,120,180.2,UPI
+MDIY100616,2026-09-13,BHO001,Bhopal,Central,In-store,Member,Electrical,Phone Cable,2,149,298,0,0.0,298.0,110,188.0,Wallet
+MDIY100069,2026-09-13,BHO001,Bhopal,Central,In-store,Member,Fashion Accessories,Hair Clips Set,3,49,147,0,0.0,147.0,51,96.0,Credit/Debit Card
+MDIY101067,2026-09-13,KOL001,Kolkata,East,In-store,Member,Electrical,Phone Cable,3,149,447,10,44.7,402.3,165,237.3,Cash
+MDIY100047,2026-09-13,KOL001,Kolkata,East,In-store,Non-Member,Home Improvement,Measuring Tape,4,89,356,0,0.0,356.0,140,216.0,UPI
+MDIY101084,2026-09-14,HYD001,Hyderabad,South,In-store,Member,Household,Kitchen Organizer,4,349,1396,0,0.0,1396.0,580,816.0,Credit/Debit Card
+MDIY101385,2026-09-14,PUN001,Pune,West,Online,Non-Member,Home Improvement,Adhesive Tape,2,49,98,0,0.0,98.0,36,62.0,Credit/Debit Card
+MDIY101009,2026-09-15,CHE001,Chennai,South,In-store,Non-Member,Electrical,Mobile Holder,1,99,99,10,9.9,89.1,35,54.1,UPI
+MDIY101305,2026-09-15,DEL001,Delhi,North,In-store,Member,Home Improvement,Adhesive Tape,2,49,98,0,0.0,98.0,36,62.0,Wallet
+MDIY101458,2026-09-15,PUN001,Pune,West,In-store,Non-Member,Kitchenware,Peeler,1,49,49,0,0.0,49.0,17,32.0,Cash
+MDIY100192,2026-09-15,IND001,Indore,Central,In-store,Non-Member,Kitchenware,Peeler,1,49,49,0,0.0,49.0,17,32.0,Credit/Debit Card
+MDIY101433,2026-09-16,HYD001,Hyderabad,South,In-store,Member,Electrical,Night Lamp,2,199,398,0,0.0,398.0,156,242.0,Credit/Debit Card
+MDIY101413,2026-09-16,JAI001,Jaipur,North,In-store,Non-Member,Kitchenware,Lunch Box,1,249,249,0,0.0,249.0,100,149.0,UPI
+MDIY100455,2026-09-18,MUM001,Mumbai,West,In-store,Member,Household,Storage Box,5,199,995,0,0.0,995.0,400,595.0,Credit/Debit Card
+MDIY100444,2026-09-18,CHE001,Chennai,South,In-store,Member,Kitchenware,Mug,2,99,198,15,29.7,168.3,70,98.3,Wallet
+MDIY100942,2026-09-18,IND001,Indore,Central,In-store,Non-Member,Toys,Building Blocks,1,299,299,0,0.0,299.0,125,174.0,Wallet
+MDIY100719,2026-09-18,AHM001,Ahmedabad,West,Online,Non-Member,Home Improvement,Extension Cord,1,299,299,5,14.95,284.05,125,159.05,Credit/Debit Card
+MDIY100196,2026-09-19,PUN001,Pune,West,In-store,Member,Fashion Accessories,Travel Pouch,1,129,129,0,0.0,129.0,48,81.0,Wallet
+MDIY101215,2026-09-20,DEL001,Delhi,North,In-store,Member,Toys,Puzzle Set,3,199,597,5,29.85,567.15,225,342.15,Credit/Debit Card
+MDIY100682,2026-09-20,DEL001,Delhi,North,In-store,Non-Member,Stationery,File Folder,3,35,105,5,5.25,99.75,36,63.75,Credit/Debit Card
+MDIY100219,2026-09-20,BLR001,Bengaluru,South,In-store,Non-Member,Household,Microfiber Cloth,6,79,474,10,47.4,426.6,180,246.6,Wallet
+MDIY101369,2026-09-22,BLR001,Bengaluru,South,In-store,Non-Member,Electrical,Phone Cable,1,149,149,5,7.45,141.55,55,86.55,Credit/Debit Card
+MDIY100640,2026-09-22,BHO001,Bhopal,Central,In-store,Member,Toys,Soft Toy,3,199,597,5,29.85,567.15,246,321.15,Credit/Debit Card
+MDIY100915,2026-09-22,BLR001,Bengaluru,South,In-store,Member,Household,Storage Box,3,199,597,0,0.0,597.0,240,357.0,Wallet
+MDIY100159,2026-09-22,BHO001,Bhopal,Central,In-store,Member,Electrical,Night Lamp,2,199,398,5,19.9,378.1,156,222.1,Wallet
+MDIY100309,2026-09-22,BHO001,Bhopal,Central,In-store,Non-Member,Home Improvement,Screwdriver Set,1,249,249,0,0.0,249.0,110,139.0,Cash
+MDIY100805,2026-09-22,PUN001,Pune,West,Online,Member,Stationery,Scissors,1,69,69,10,6.9,62.1,25,37.1,Cash
+MDIY100671,2026-09-23,BHO001,Bhopal,Central,In-store,Non-Member,Toys,Toy Car,1,99,99,15,14.85,84.15,38,46.15,Wallet
+MDIY101377,2026-09-23,IND001,Indore,Central,Online,Member,Toys,Toy Car,1,99,99,10,9.9,89.1,38,51.1,Cash
+MDIY100951,2026-09-23,PUN001,Pune,West,In-store,Member,Toys,Puzzle Set,1,199,199,5,9.95,189.05,75,114.05,Wallet
+MDIY100600,2026-09-24,HYD001,Hyderabad,South,In-store,Non-Member,Electrical,Phone Cable,2,149,298,15,44.7,253.3,110,143.3,Cash
+MDIY100723,2026-09-24,HYD001,Hyderabad,South,In-store,Member,Home Improvement,LED Bulb,3,99,297,15,44.55,252.45,135,117.45,Wallet
+MDIY101383,2026-09-24,KOL001,Kolkata,East,Online,Member,Household,Microfiber Cloth,1,79,79,15,11.85,67.15,30,37.15,Wallet
+MDIY100168,2026-09-25,JAI001,Jaipur,North,In-store,Member,Electrical,Night Lamp,1,199,199,0,0.0,199.0,78,121.0,Wallet
+MDIY101482,2026-09-25,KOL001,Kolkata,East,In-store,Non-Member,Toys,Puzzle Set,1,199,199,0,0.0,199.0,75,124.0,Wallet
+MDIY101216,2026-09-25,LKO001,Lucknow,North,In-store,Non-Member,Home Improvement,Screwdriver Set,1,249,249,0,0.0,249.0,110,139.0,Wallet
+MDIY101192,2026-09-25,AHM001,Ahmedabad,West,In-store,Non-Member,Electrical,Power Strip,2,399,798,0,0.0,798.0,330,468.0,Credit/Debit Card
+MDIY100283,2026-09-26,PUN001,Pune,West,In-store,Member,Kitchenware,Lunch Box,3,249,747,0,0.0,747.0,300,447.0,Wallet
+MDIY101035,2026-09-26,IND001,Indore,Central,In-store,Non-Member,Fashion Accessories,Travel Pouch,2,129,258,10,25.8,232.2,96,136.2,UPI
+MDIY101460,2026-09-26,JAI001,Jaipur,North,In-store,Non-Member,Stationery,Pen Pack,2,39,78,5,3.9,74.1,28,46.1,Wallet
+MDIY100738,2026-09-28,BLR001,Bengaluru,South,In-store,Member,Fashion Accessories,Hair Clips Set,2,49,98,15,14.7,83.3,34,49.3,UPI
+MDIY101225,2026-09-28,KOL001,Kolkata,East,In-store,Non-Member,Household,Microfiber Cloth,1,79,79,0,0.0,79.0,30,49.0,UPI
+MDIY100743,2026-09-28,BLR001,Bengaluru,South,In-store,Non-Member,Kitchenware,Water Bottle,1,149,149,15,22.35,126.65,55,71.65,Cash
+MDIY100034,2026-09-29,BHO001,Bhopal,Central,In-store,Non-Member,Home Improvement,LED Bulb,2,99,198,5,9.9,188.1,90,98.1,UPI
+MDIY100507,2026-10-01,IND001,Indore,Central,Online,Member,Electrical,Mobile Holder,1,99,99,10,9.9,89.1,35,54.1,Cash
+MDIY100809,2026-10-02,KOL001,Kolkata,East,In-store,Member,Toys,Soft Toy,1,199,199,0,0.0,199.0,82,117.0,Wallet
+MDIY100205,2026-10-02,AHM001,Ahmedabad,West,In-store,Member,Electrical,Mobile Holder,4,99,396,5,19.8,376.2,140,236.2,UPI
+MDIY101386,2026-10-03,DEL001,Delhi,North,Online,Non-Member,Electrical,Power Strip,4,399,1596,15,239.4,1356.6,660,696.6,Wallet
+MDIY100609,2026-10-03,PUN001,Pune,West,In-store,Non-Member,Household,Kitchen Organizer,1,349,349,0,0.0,349.0,145,204.0,UPI
+MDIY100204,2026-10-03,PUN001,Pune,West,In-store,Member,Electrical,Battery Pack,1,79,79,10,7.9,71.1,28,43.1,Cash
+MDIY100088,2026-10-03,MUM001,Mumbai,West,In-store,Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,Wallet
+MDIY100016,2026-10-03,PUN001,Pune,West,In-store,Member,Kitchenware,Food Container Set,2,299,598,0,0.0,598.0,240,358.0,Credit/Debit Card
+MDIY100059,2026-10-04,MUM001,Mumbai,West,In-store,Non-Member,Stationery,Scissors,1,69,69,0,0.0,69.0,25,44.0,UPI
+MDIY100648,2026-10-04,KOL001,Kolkata,East,In-store,Non-Member,Kitchenware,Lunch Box,2,249,498,0,0.0,498.0,200,298.0,Credit/Debit Card
+MDIY100631,2026-10-04,JAI001,Jaipur,North,In-store,Member,Home Improvement,Screwdriver Set,5,249,1245,0,0.0,1245.0,550,695.0,Wallet
+MDIY100109,2026-10-04,AHM001,Ahmedabad,West,In-store,Non-Member,Kitchenware,Peeler,4,49,196,0,0.0,196.0,68,128.0,Cash
+MDIY100492,2026-10-04,LKO001,Lucknow,North,In-store,Non-Member,Fashion Accessories,Hair Clips Set,4,49,196,15,29.4,166.6,68,98.6,Cash
+MDIY100207,2026-10-05,KOL001,Kolkata,East,In-store,Non-Member,Stationery,Marker Set,2,99,198,10,19.8,178.2,80,98.2,Wallet
+MDIY100397,2026-10-05,JAI001,Jaipur,North,Online,Member,Kitchenware,Food Container Set,1,299,299,15,44.85,254.15,120,134.15,UPI
+MDIY100118,2026-10-05,IND001,Indore,Central,In-store,Member,Home Improvement,Adhesive Tape,3,49,147,0,0.0,147.0,54,93.0,UPI
+MDIY100828,2026-10-06,PUN001,Pune,West,In-store,Member,Stationery,File Folder,1,35,35,0,0.0,35.0,12,23.0,Wallet
+MDIY100767,2026-10-06,IND001,Indore,Central,In-store,Non-Member,Toys,Building Blocks,1,299,299,10,29.9,269.1,125,144.1,Cash
+MDIY100770,2026-10-06,JAI001,Jaipur,North,In-store,Non-Member,Kitchenware,Water Bottle,2,149,298,0,0.0,298.0,110,188.0,Credit/Debit Card
+MDIY100987,2026-10-06,KOL001,Kolkata,East,In-store,Non-Member,Stationery,Notebook,3,49,147,10,14.7,132.3,54,78.3,Wallet
+MDIY100340,2026-10-06,AHM001,Ahmedabad,West,In-store,Member,Electrical,Night Lamp,2,199,398,5,19.9,378.1,156,222.1,Credit/Debit Card
+MDIY101402,2026-10-07,BLR001,Bengaluru,South,In-store,Member,Kitchenware,Water Bottle,1,149,149,5,7.45,141.55,55,86.55,Cash
+MDIY101337,2026-10-08,AHM001,Ahmedabad,West,Online,Non-Member,Electrical,Power Strip,3,399,1197,0,0.0,1197.0,495,702.0,UPI
+MDIY100889,2026-10-09,AHM001,Ahmedabad,West,Online,Non-Member,Kitchenware,Food Container Set,6,299,1794,5,89.7,1704.3,720,984.3,Credit/Debit Card
+MDIY101342,2026-10-09,BHO001,Bhopal,Central,In-store,Non-Member,Household,Cleaning Brush,2,59,118,10,11.8,106.2,44,62.2,Cash
+MDIY100184,2026-10-09,JAI001,Jaipur,North,In-store,Non-Member,Kitchenware,Lunch Box,1,249,249,10,24.9,224.1,100,124.1,Cash
+MDIY100425,2026-10-09,JAI001,Jaipur,North,In-store,Member,Stationery,Notebook,1,49,49,0,0.0,49.0,18,31.0,Cash
+MDIY101020,2026-10-09,AHM001,Ahmedabad,West,In-store,Non-Member,Fashion Accessories,Hair Clips Set,3,49,147,10,14.7,132.3,51,81.3,Cash
